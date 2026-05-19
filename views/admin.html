@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin · Chats PowerMix</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f5f5f5;
+      color: #222;
+      font-size: 14px;
+      min-height: 100vh;
+    }
+    header {
+      background: #075E54;
+      color: white;
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    header h1 { font-size: 18px; font-weight: 600; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 24px; }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    .stat-card {
+      background: white;
+      padding: 18px;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    .stat-card .label { font-size: 12px; color: #667781; text-transform: uppercase; letter-spacing: 0.5px; }
+    .stat-card .value { font-size: 28px; font-weight: 700; color: #075E54; margin-top: 6px; }
+
+    .filters {
+      background: white;
+      padding: 16px;
+      border-radius: 8px;
+      margin-bottom: 16px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: flex-end;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    .filters .field { display: flex; flex-direction: column; gap: 4px; }
+    .filters .field label { font-size: 11px; color: #667781; text-transform: uppercase; letter-spacing: 0.5px; }
+    .filters input, .filters select {
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 14px;
+      font-family: inherit;
+    }
+    .filters button {
+      padding: 8px 16px;
+      background: #25D366;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .filters button:hover { background: #1eb854; }
+    .filters button.secondary { background: #888; }
+    .filters button.secondary:hover { background: #666; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    thead { background: #f0f2f5; }
+    th, td { padding: 10px 14px; text-align: left; border-bottom: 1px solid #eee; font-size: 13px; }
+    th { font-weight: 600; color: #54656f; text-transform: uppercase; font-size: 11px; letter-spacing: 0.5px; }
+    tbody tr { cursor: pointer; transition: background 0.1s; }
+    tbody tr:hover { background: #f9f9f9; }
+
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .badge--limit { background: #ffe0e0; color: #c0392b; }
+    .badge--ok { background: #e0f7e0; color: #1d7a1d; }
+
+    .empty, .loading {
+      padding: 40px;
+      text-align: center;
+      color: #888;
+      background: white;
+      border-radius: 8px;
+    }
+
+    .pagination {
+      display: flex;
+      gap: 8px;
+      margin-top: 16px;
+      justify-content: center;
+    }
+    .pagination button {
+      padding: 6px 14px;
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 13px;
+    }
+    .pagination button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    /* Drawer detalle */
+    .drawer-bg {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      display: none;
+      z-index: 10;
+    }
+    .drawer-bg.open { display: block; }
+    .drawer {
+      position: fixed;
+      top: 0;
+      right: 0;
+      height: 100vh;
+      width: 480px;
+      max-width: 100vw;
+      background: #ECE5DD;
+      box-shadow: -4px 0 12px rgba(0,0,0,0.2);
+      transform: translateX(100%);
+      transition: transform 0.25s;
+      z-index: 20;
+      display: flex;
+      flex-direction: column;
+    }
+    .drawer.open { transform: translateX(0); }
+    .drawer-header {
+      background: #075E54;
+      color: white;
+      padding: 14px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .drawer-header h2 { font-size: 15px; font-weight: 600; }
+    .drawer-header .meta { font-size: 11px; opacity: 0.85; margin-top: 2px; }
+    .drawer-close {
+      background: none;
+      border: none;
+      color: white;
+      font-size: 22px;
+      cursor: pointer;
+      padding: 4px 8px;
+      border-radius: 4px;
+    }
+    .drawer-close:hover { background: rgba(255,255,255,0.1); }
+
+    .messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .msg {
+      max-width: 78%;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 13px;
+      line-height: 1.4;
+      word-wrap: break-word;
+      box-shadow: 0 1px 1px rgba(0,0,0,0.08);
+      white-space: pre-wrap;
+    }
+    .msg--user { background: #DCF8C6; align-self: flex-end; border-top-right-radius: 0; }
+    .msg--assistant { background: white; align-self: flex-start; border-top-left-radius: 0; }
+    .msg-time { font-size: 10px; color: #667781; margin-top: 4px; text-align: right; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Admin · Chats PowerMix</h1>
+    <div style="font-size:12px; opacity:0.85;">Maleja · seguimiento de conversaciones</div>
+  </header>
+
+  <div class="container">
+    <div class="stats" id="stats">
+      <div class="stat-card"><div class="label">Total conversaciones</div><div class="value" id="stat-total">—</div></div>
+      <div class="stat-card"><div class="label">Mensajes hoy</div><div class="value" id="stat-today">—</div></div>
+      <div class="stat-card"><div class="label">Mensajes totales</div><div class="value" id="stat-msgs">—</div></div>
+      <div class="stat-card"><div class="label">Llegaron al límite</div><div class="value" id="stat-limit">—</div></div>
+    </div>
+
+    <form class="filters" id="filters">
+      <div class="field">
+        <label>Desde</label>
+        <input type="date" name="from" />
+      </div>
+      <div class="field">
+        <label>Hasta</label>
+        <input type="date" name="to" />
+      </div>
+      <div class="field">
+        <label>IP</label>
+        <input type="text" name="ip" placeholder="192.168.1.1" />
+      </div>
+      <div class="field">
+        <label>Estado</label>
+        <select name="at_limit">
+          <option value="">Todos</option>
+          <option value="true">Solo al límite</option>
+          <option value="false">No al límite</option>
+        </select>
+      </div>
+      <button type="submit">Filtrar</button>
+      <button type="button" class="secondary" id="clear">Limpiar</button>
+    </form>
+
+    <div id="list-container">
+      <div class="loading">Cargando…</div>
+    </div>
+    <div class="pagination">
+      <button id="prev">← Anterior</button>
+      <span id="page-info" style="padding:6px 12px; color:#667781;">Página 1</span>
+      <button id="next">Siguiente →</button>
+    </div>
+  </div>
+
+  <div class="drawer-bg" id="drawer-bg"></div>
+  <aside class="drawer" id="drawer">
+    <div class="drawer-header">
+      <div>
+        <h2 id="drawer-title">Conversación</h2>
+        <div class="meta" id="drawer-meta"></div>
+      </div>
+      <button class="drawer-close" id="drawer-close" aria-label="Cerrar">×</button>
+    </div>
+    <div class="messages" id="messages"></div>
+  </aside>
+
+  <script>
+    const PAGE_SIZE = 50;
+    let currentOffset = 0;
+    let currentFilters = {};
+    let maxMessages = 15;
+
+    function fmtDate(s) {
+      if (!s) return '—';
+      const d = new Date(s);
+      return d.toLocaleString('es-CO', { dateStyle: 'short', timeStyle: 'short' });
+    }
+
+    async function loadStats() {
+      const res = await fetch('/api/admin/stats');
+      const s = await res.json();
+      if (s.max_messages) maxMessages = s.max_messages;
+      document.getElementById('stat-total').textContent = s.total_conversations;
+      document.getElementById('stat-today').textContent = s.messages_today;
+      document.getElementById('stat-msgs').textContent = s.total_messages;
+      document.getElementById('stat-limit').textContent = s.at_limit_conversations;
+    }
+
+    async function loadList() {
+      const container = document.getElementById('list-container');
+      container.innerHTML = '<div class="loading">Cargando…</div>';
+      const params = new URLSearchParams({ limit: PAGE_SIZE, offset: currentOffset, ...currentFilters });
+      const res = await fetch('/api/admin/conversations?' + params);
+      const rows = await res.json();
+
+      if (!rows.length) {
+        container.innerHTML = '<div class="empty">Sin resultados</div>';
+        document.getElementById('next').disabled = true;
+        return;
+      }
+
+      const esc = (s) => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+      const tbody = rows.map((c) => {
+        const atLimit = (c.user_messages || 0) >= maxMessages;
+        return `
+          <tr data-id="${esc(c.id)}" data-session="${esc(c.session_id)}" data-ip="${esc(c.ip || '')}" data-created="${esc(c.created_at)}">
+            <td>${fmtDate(c.last_message_at)}</td>
+            <td><code style="font-size:11px;">${esc(c.session_id.slice(0, 24))}…</code></td>
+            <td>${esc(c.ip || '—')}</td>
+            <td>${c.user_messages}/${c.total_messages}</td>
+            <td>${atLimit
+              ? '<span class="badge badge--limit">Al límite</span>'
+              : '<span class="badge badge--ok">Activa</span>'}</td>
+          </tr>`;
+      }).join('');
+
+      container.innerHTML = `
+        <table>
+          <thead>
+            <tr>
+              <th>Último mensaje</th>
+              <th>Sesión</th>
+              <th>IP</th>
+              <th>Mensajes (user/total)</th>
+              <th>Estado</th>
+            </tr>
+          </thead>
+          <tbody>${tbody}</tbody>
+        </table>`;
+
+      container.querySelectorAll('tbody tr').forEach((tr) => {
+        tr.addEventListener('click', () => openDetail(tr.dataset.id, tr.dataset.session, tr.dataset.ip, tr.dataset.created));
+      });
+
+      document.getElementById('prev').disabled = currentOffset === 0;
+      document.getElementById('next').disabled = rows.length < PAGE_SIZE;
+      document.getElementById('page-info').textContent = 'Página ' + (Math.floor(currentOffset / PAGE_SIZE) + 1);
+    }
+
+    async function openDetail(id, session, ip, created) {
+      document.getElementById('drawer-title').textContent = 'Conversación';
+      const esc2 = (s) => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+      document.getElementById('drawer-meta').innerHTML =
+        `<div>Sesión: <code>${esc2(session.slice(0, 32))}</code></div>` +
+        `<div>IP: ${esc2(ip || '—')} · Iniciada: ${fmtDate(created)}</div>`;
+      const messagesEl = document.getElementById('messages');
+      messagesEl.innerHTML = '<div style="text-align:center;padding:20px;color:#888;">Cargando…</div>';
+      document.getElementById('drawer').classList.add('open');
+      document.getElementById('drawer-bg').classList.add('open');
+
+      const res = await fetch('/api/admin/conversations/' + encodeURIComponent(id) + '/messages');
+      const msgs = await res.json();
+
+      if (!msgs.length) {
+        messagesEl.innerHTML = '<div style="text-align:center;padding:20px;color:#888;">Sin mensajes</div>';
+        return;
+      }
+
+      messagesEl.innerHTML = msgs.map((m) => {
+        const cls = m.role === 'user' ? 'msg--user' : 'msg--assistant';
+        const time = new Date(m.created_at).toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit' });
+        const text = m.content.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        return `<div class="msg ${cls}">${text}<div class="msg-time">${time}</div></div>`;
+      }).join('');
+    }
+
+    function closeDetail() {
+      document.getElementById('drawer').classList.remove('open');
+      document.getElementById('drawer-bg').classList.remove('open');
+    }
+
+    document.getElementById('drawer-close').addEventListener('click', closeDetail);
+    document.getElementById('drawer-bg').addEventListener('click', closeDetail);
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeDetail(); });
+
+    document.getElementById('filters').addEventListener('submit', (e) => {
+      e.preventDefault();
+      const fd = new FormData(e.target);
+      currentFilters = {};
+      for (const [k, v] of fd.entries()) {
+        if (v) currentFilters[k] = v;
+      }
+      currentOffset = 0;
+      loadList();
+    });
+
+    document.getElementById('clear').addEventListener('click', () => {
+      document.getElementById('filters').reset();
+      currentFilters = {};
+      currentOffset = 0;
+      loadList();
+    });
+
+    document.getElementById('prev').addEventListener('click', () => {
+      currentOffset = Math.max(0, currentOffset - PAGE_SIZE);
+      loadList();
+    });
+    document.getElementById('next').addEventListener('click', () => {
+      currentOffset += PAGE_SIZE;
+      loadList();
+    });
+
+    loadStats().then(loadList);
+  </script>
+</body>
+</html>
