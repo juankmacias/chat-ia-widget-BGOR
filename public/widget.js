@@ -328,6 +328,11 @@
     ui.btn.addEventListener('click', () => toggleWindow(!isOpen));
     ui.closeBtn.addEventListener('click', () => toggleWindow(false));
 
+    // API pública para abrir/cerrar el chat desde la página (botones, CTAs)
+    window.ChatWidgetOpen = () => toggleWindow(true);
+    window.ChatWidgetClose = () => toggleWindow(false);
+    window.ChatWidgetToggle = () => toggleWindow(!isOpen);
+
     // Autoexpandir textarea
     ui.input.addEventListener('input', () => {
       ui.input.style.height = 'auto';

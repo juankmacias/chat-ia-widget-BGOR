@@ -1,0 +1,540 @@
+Programa de Difusión Tecnológica en subsector pecuario bovino para el territorio Patagonia Verde. [23]
+CAPÍTULO 2
+NUTRICIÓN Y ALIMENTACIÓN DE RUMIANTES
+Camila Muñoz M.
+Médico Veterinario, Ph D.
+INIA Remehue
+Francisco Canto M.
+Médico Vaterinario
+INIA Remehue
+La disponibilidad de una buena pradera, junto con suplementos de buena calidad
+y agua son cruciales para maximizar la producción de carne en la ganadería
+de la Provincia de Palena, Región de Los Lagos. Este Capítulo busca entregar
+conocimientos sobre la alimentación del ganado1 y sobre el uso de la condición
+corporal (CC) como herramienta para determinar el estado nutricional del
+ganado.
+LOS NUTRIENTES Y SUS FUNCIONES
+Los animales requieren de energía, la que les permite vivir y producir. Casi todos
+los alimentos disponibles para el consumo animal provienen de las plantas. Las
+plantas contienen 3 grupos principales de componentes que aportan energía
+(Figura 1).
+1 La información relativa a alimentación del ganado se ha basado, principalmente en la información contenida en
+Pandey y Voskuil (2011), y en Goopy y Gaskige (2016), adaptada para condiciones locales.
+Figura 1. Separación de un alimento en sus componentes químicos
+
+BOLETÍN INIA [24]
+Estos son:
+• Proteínas
+• Carbohidratos
+• Grasas
+Además, contienen minerales, vitaminas y agua. Estos nutrientes permiten que
+el animal mantenga su peso, y reciba suficiente energía para mantener todas sus
+funciones corporales.
+Proteína
+Las proteínas contienen nitrógeno (N), el cual no está presente en los
+carbohidratos o grasas. Las proteínas constituyen un nutriente esencial ya que
+hay una necesidad continua de nitrógeno por los animales para el desarrollo
+y mantención corporal, la producción de leche, y para que los animales se
+mantengan sanos.
+• Las funciones de las proteínas en el cuerpo animal son:
+• Necesarias para el crecimiento y desarrollo corporal
+• Necesarias para la reproducción y funcionamiento de enzimas y hormonas
+• Necesarias para la producción de leche de buena calidad
+• Necesarias durante la preñez para el desarrollo de la cría
+• El pelo, cuernos y pezuñas están compuestas de proteína
+• Ayudan a generar resistencia a algunas enfermedades
+• La leche contiene caseína que es la base de la elaboración de queso
+Las proteínas son parte de los fragmentos blandos y verdes de las plantas,
+especialmente las hojas. A medida que la planta madura, desarrolla tallos más
+gruesos y pierde las hojas. Es por esto que una planta más madura contiene
+menos proteína. El contenido total de proteína que tiene un alimento se expresa
+como proteína cruda (Cuadro 4).
+
+Programa de Difusión Tecnológica en subsector pecuario bovino para el territorio Patagonia Verde. [25]
+Carbohidratos
+En el grupo de carbohidratos podemos distinguir 2 grupos de compuestos
+químicos:
+Los carbohidratos solubles. Consisten de almidón y azucares, los que pueden
+ser digeridos directamente y utilizados adecuadamente por los animales, siendo
+su digestibilidad alta. Estos forman la mayor fuente de energía para los animales.
+Los carbohidratos solubles se encuentran particularmente en los granos (trigo,
+maíz), frutas (plátano), tubérculos (papa) y la caña de azúcar.
+La fibra. Esto se refiere al material fibroso de las plantas. En particular, se
+encuentra en el tallo, donde brinda estructura a la planta y le da su forma. La
+fibra no es fácilmente digerida por los animales. Consiste de hemicelulosa,
+celulosa y lignina. Los micro-organismos del rumen de las vacas y ovejas ayudan
+a los rumiantes a digerir estas fibras. La digestibilidad de la fibra es baja. No
+obstante, los rumiantes siempre requieren una cantidad considerable de fibra
+en su ración para mantener el adecuado funcionamiento del rumen (mínimo de
+30% a 35%). Pero, un contenido alto de fibra reduce el consumo de alimento por
+parte de los animales. El contenido de fibra se expresa como contenido de fibra
+detergente neutra (FDN). En la medida que las plantas maduran se tornan más
+fibrosas y menos digestibles.
+Funciones de los carbohidratos:
+• Son una fuente de energía rápidamente disponible y necesaria para mantener
+al cuerpo y para desarrollar actividades tales como caminar, pastorear,
+producir leche, etc.
+• Mantener la temperatura corporal y nivel de azúcar en la sangre
+• Los excesos de carbohidratos se almacenan en forma de grasa corporal como
+una reserva energética
+Cuadro 4. Ejemplos de diferencias en el contenido de proteína de algunos alimentos
+para ganado
+Paja de avena 3-5
+Heno de pradera 7-16
+Heno de alfalfa 11-19
+Ensilaje de pradera 8-22
+Pradera verde 17-30
+Torta de raps u otra oleaginosa 28-50
+Nivel de proteína Alimento Proteína cruda %
+Fuente: Composición de alimentos para el ganado bovino, Anrique y otros (2010)
+Bajo
+Medio
+Alto
+
+BOLETÍN INIA [26]
+• El azúcar láctea (lactosa) le da dulzura a la leche y las bacterias la utilizan
+para tornar la leche agria
+• Son esenciales para el crecimiento y multiplicación de los micro-organismos
+del rumen
+Grasas y aceites
+Las grasas y aceites son altas en energía. En los forrajes, las grasas y aceites se
+encuentran en bajas cantidades. Algunos subproductos como son las tortas de
+la industria del aceite (raps, maravilla, algodón, soya, linaza), tienen contenidos
+relativamente altos de aceites. Algún nivel de aceites y grasas deben estar
+presentes en la ración de animales porque son una fuente importante de
+vitaminas.
+Funciones de las grasas y aceites
+• Las reservas corporales almacenadas como grasa son una fuente de energía
+• Constituyen alrededor del 20% del cuerpo del animal
+• Proveen de ácidos grasos esenciales y son fuente de vitaminas liposolubles
+• La leche contiene alrededor de 3,5% a 5% de grasa
+Cuadro 5. Ejemplos de diferencias en el contenido de carbohidratos de alimentos para
+ganado.
+Pradera verde y ensilajes 5-20
+Torta de oleaginosa 20-40
+Pradera madura 20-40
+Cereales 60-70
+Melaza 62
+Nivel de carbohidratos Alimento Carbohidratos solubles, %
+Fuente: Pandey, G.S. and Voskuil, G.C.J. (2011)
+Bajo
+Medio
+Alto
+Cuadro 6. Ejemplos de diferencias en el contenido de fibra detergente neutra de
+alimentos para ganado.
+Productos de origen animal 0
+Subproductos cereales 22-45
+Forraje verde fresco 38-45
+Heno y forrajes secos 37-63
+Paja 64-83
+Nivel de fibra Alimento FDN, %
+Fuente: Composición de alimentos para el ganado bovino, Anrique y otros (2010)
+Bajo
+Medio
+Alto
+
+Programa de Difusión Tecnológica en subsector pecuario bovino para el territorio Patagonia Verde. [27]
+Sales minerales
+Los minerales son la materia inorgánica en los alimentos. Permanecen incluso
+después de la quema del material por lo que se les refiere usualmente como a
+cenizas. Algunos minerales juegan un rol crítico en la estructura de los tejidos
+del cuerpo. Por ejemplo, el calcio y el fosforo, que son componentes principales
+de los huesos y por ello esenciales en la formación del esqueleto.
+Funciones de las sales minerales
+• Ayudan a la digestión y absorción de nutrientes, coagulación y formación de
+sangre, producción de enzimas y hormonas
+• Ayudan a mantener una buena fertilidad y crecimiento
+• Constituyen aproximadamente el 1% de los sólidos de la leche y mejoran la
+calidad de la leche
+• Participan en los huesos, dientes y formación de los músculos
+• Aumentan la palatabilidad de la ración
+Los minerales se encuentran en cantidades muy pequeñas en diferentes
+alimentos. Se recomienda siempre proveer al ganado con un bloque o fuente de
+sales minerales con acceso constante y libre.
+Vitaminas
+Las vitaminas son necesarias por los animales en pequeñas cantidades. Sin
+embargo, las vitaminas son esenciales para diferentes reacciones químicas que
+ocurren en el cuerpo, en particular las relacionadas a la digestión. Las vitaminas
+no juegan un rol muy importante en la alimentación de rumiantes ya que la
+mayor parte de ellas son sintetizadas por los micro-organismos ruminales.
+Cuando las vacas o ovejas son alimentadas con forrajes verdes, usualmente la
+suplementación de vitaminas no es necesaria.
+Funciones de las vitaminas
+• Son importantes y esenciales para mantener un buen status de salud
+• Ayudan en el crecimiento y la digestión
+• Mejoran la resistencia a enfermedades
+• Son necesarias para el crecimiento y desarrollo de la cría
+• Previene la esterilidad en animales
+• Mejora la producción de leche
+
+BOLETÍN INIA [28]
+Buenas fuentes de vitaminas son: forrajes verdes, heno, cereales, tortas y
+premezclas de alimentos.
+Agua
+Sin agua, la vida no es posible. Todos los alimentos contienen una proporción de
+agua (Cuadro 7). Cuando toda el agua es removida de los alimentos, lo que queda
+es la materia seca. Así, también los alimentos son una fuente de agua de bebida
+para los animales. Los animales siempre debieran tener acceso a bastante agua
+para sobrevivir. La leche contiene aproximadamente 87% de agua, por lo que, si
+un animal no cuenta con suficiente agua de bebida, por podrá producir leche de
+buena calidad.
+Una vaca requiere en promedio ~30 L de agua por día para mantenerse. Una
+oveja requiere ~5 L de agua por día. Esta cantidad varía con la estación y las
+temperaturas imperantes y el estado fisiológico.
+En general, la recomendación es que un productor o productora planifique
+para un requerimiento de agua de alrededor de 40-80 L de agua por vaca,
+dependiendo de la estación, el tipo de forraje y alimento, peso corporal, edad.
+Cuando no existen posibilidades de ofrecer agua de manera permanente a los
+animales, estos deben ser provistos de agua a lo menos 3 veces por día, dejando
+a los animales tomar agua ad libitum (tanto como quieran) cada vez.
+Funciones del agua
+• Permite masticar y tragar
+• Ayuda en la digestión
+• Regula la temperatura corporal
+• Mantiene el flujo sanguíneo
+• Mantiene niveles adecuado de acidez corporal
+• Diluye los residuos tóxicos
+• Hace a los alimentos más palatables y a los alimentos secos más blandos
+• Constituye el 87% de la leche
+• Una pérdida del 20%-25% de agua del cuerpo puede resultar en muerte
+
+Programa de Difusión Tecnológica en subsector pecuario bovino para el territorio Patagonia Verde. [29]
+PRINCIPIOS DE LA ALIMENTACIÓN DE RUMIANTES.
+¿Cuánto puede comer un animal?
+La cantidad de alimento que consumo el ganado usualmente se expresa en
+materia seca (MS). El consumo de materia seca de un animal, ya sea de forrajes
+o concentrados, depende de varios factores asociados al animal (edad, peso,
+producción de leche, preñez, raza), alimentos (calidad, digestibilidad), la forma
+de entregar el alimento (pastoreo, frecuencia de alimentación, variaciones en la
+ración, disponibilidad de agua) y el ambiente (temperatura, lluvia).
+Usualmente, el consumo de materia seca se calcula ad libitum o a boca llena.
+Es decir, se asume que el rumiante este tiene acceso permanente a forraje
+y que luego de comer tanto como quiera va a quedar un remanente de 10%
+del forraje ofrecido. Bajo esas condiciones, y dependiendo de la calidad de la
+dieta, usualmente el consumo total de materia seca de una vaca madura es
+entre el 2% y 4% de su peso corporal. Alimentos de baja calidad resultaran en
+consumos de 2%-3% de peso vivo, mientras que pasto verde puede resultar en
+consumos de 3%-4% de su peso vivo. Una vaca comiendo una dieta exclusiva de
+solo forrajes usualmente comerá entre 1,5% y 2,5% de su peso vivo como forraje.
+Si la calidad del forraje es baja, el consumo de materia seca se ve disminuido. Y,
+como un forraje de baja calidad contiene pocos nutrientes, el consumo total de
+nutrientes es muy bajo. Esto suele ocurrir con animales alimentados con paja o
+rastrojos que aparentan estar llenas, pero no están cubriendo sus requerimientos
+nutricionales. Así, un forraje de buena calidad es la base de una alta producción
+de leche y carne.
+En general, es recomendable calcular el consumo de materia seca a partir
+de forrajes en base al 2% a 3% del peso corporal. Este consumo cubre el
+requerimiento de mantención para mantener las funciones normales del cuerpo
+del animal.
+Cuadro 7. Contenido de agua de forrajes frescos y secos.
+Pradera verde 70-88
+Ensilaje 66-85
+Alfalfa 75
+Granos 11-32
+Paja 10-14
+Heno 8-17
+Alimento Agua, %
+Fuente: Composición de alimentos para el ganado bovino, Anrique y otros (2010)
+Alto
+Bajo
+
+BOLETÍN INIA [30]
+El consumo total de materia seca de una vaca, incluyendo concentrados, puede
+considerarse en el rango de 8 kg a 13 kg de materia seca por día.
+Digestibilidad de los alimentos
+No todo el alimento consumido por un animal es digerido. La parte no utilizada,
+será desechada como feca o heces. La digestibilidad varía bastante en función
+del alimento. Algunos alimentos como los forrajes verdes y frescos tienen un bajo
+contenido de fibra y son fácilmente digeridos. Otros alimentos, como forrajes
+sobre-maduros, forrajes secos y rastrojos tienen un alto contenido de fibra y
+baja digestibilidad. La parte digerida puede expresarse como un porcentaje del
+total de alimentos ingerido.
+Forraje y concentrados como fuente de alimentos
+La diferencia entre forrajes y concentrados está fuertemente relacionada a su
+valor nutricional. En general, los forrajes tienen un valor nutricional menor y un
+mayor porcentaje de fibra. Los concentrados tienen un alto valor nutricional y
+baja cantidad de fibra. La principal razón para esto es que, en el caso de forrajes,
+la totalidad de la planta se utiliza como alimento incluyendo hojas y tallos. En los
+concentrados solamente las parte de las plantas que tiene mayor concentración
+de nutrientes como azucares y almidón, son utilizadas. Estas se encuentran en
+las semillas, tubérculos y a veces en las raíces.
+Forrajes: se caracterizan por tener un alto contenido de fibra, son voluminosos
+y en general incluyen las porciones vegetativas de la planta. El contenido de
+energía digestible de los forrajes es bajo y varía dependiendo de la especie
+de forraje y estado de maduración a la cosecha. Por esto, se observa una alta
+variación en sus valores nutricionales (Figura 2).
+Concentrados: son alimentos de alta calidad, con bajo contenido de fibra. A este
+grupo pertenecen los granos de cereales y sus subproductos (afrecho, afrechillo),
+subproductos de semillas oleaginosas (tortas o afrechos), tubérculos, raíces y
+productos animales. Los concentrados pueden ser altos en energía digerible y
+proteína (Figura 2).
+
+Programa de Difusión Tecnológica en subsector pecuario bovino para el territorio Patagonia Verde. [31]
+Cuadro 8. Alimentos más comunes disponibles para el ganado y su composición
+nutricional.
+ALIMENTOS COMUNES Y SU COMPOSICIÓN NUTRICIONAL
+En el Cuadro 8, se observa un listado de alimentos que usualmente está
+disponible para el uso de agricultores en las raciones de los animales:
+Pradera
+Pradera primavera (joven) 14-19 2.6-2.9 14-25
+Pradera verano (madura) 16-33 2.2-2.8 9-25
+Forrajes verdes
+Avena, planta entera (invierno) 14 2.9 20
+Quila hoja angosta 36 1.8 14
+Ensilajes y henos
+Ensilaje ballica perenne 20 2.5 12-17
+Ensilaje pradera 18-26 2.3-2.6 9-18
+Ensilaje pradera en bolo 24-42 2.4-2.5 12-15
+Heno de alfalfa 83-87 2.2 12-19
+Heno de pradera 84-88 2.2-2.4 7-17
+Paja de trigo 86 1.5 3.5
+Concentrados
+Comercial en base a coseta 88-89 2.8 16
+Maíz, grano 86 3.3 8
+Avena, grano 88-89 2.8 12
+Cebada, grano 88 3.2 12
+Trigo, grano 83 3.3 14
+Afrechillo de trigo 87 2.7 16
+Afrecho de raps 90 2.8 37
+Figura 2. Fardo de heno (forraje) y grano de cereal (concentrado).
+Proteína cruda,
+%
+Elaborado en base a: Composición de alimentos para el ganado bovino, Anrique y otros (2010), junto a datos propios.
+Alimento Materia seca,
+%
+Energía
+metabolizable,
+kcal/kg
+
+BOLETÍN INIA [32]
+FORMULACION DE RACIONES
+Requerimientos nutricionales
+Los nutrientes requeridos para mantener funciones vitales como son la
+respiración, circulación sanguínea, mantención de la temperatura corporal y
+para moverse, se conocen como requerimientos de mantención de los animales
+(Figura 3). Si un animal recibe menos nutrientes que los requerimientos de
+mantención, debe utilizar sus reservas corporales para sostenerlas, perdiendo
+peso.
+Para que un animal pueda producir, se necesitan nutrientes adicionales por sobre
+los de mantención. Esto ser refiere principalmente a la producción de leche pero
+también incluye la reproducción, la engorda y el crecimiento. Estos nutrientes
+extra se denominan los requerimientos de producción (Figura 3).
+Figura 3. Visión general de los requerimientos nutricionales.
+Los requerimientos de mantención de un animal están relacionados a su masa
+corporal. Así, por ejemplo, se ha establecido según datos de FAO (Stephen et al.,
+1998) que una vaca de 450 kg de peso y que camina alrededor de 5 km/día tiene
+un requerimiento de mantención de 391 g de proteína y 11 Mcal de energía
+diarios.
+
+Programa de Difusión Tecnológica en subsector pecuario bovino para el territorio Patagonia Verde. [33]
+Características de una ración adecuada
+• Provee cantidades adecuadas de diferentes nutrientes y es apetitosa
+• Es palatable y con alta digestibilidad
+• Tiene un efecto positivo sobre la salud
+• Es voluminosa e incluye suficiente forraje, preferentemente verde suculento
+• Está adecuadamente balanceado y contiene niveles adecuados de energía,
+proteína, minerales y vitaminas
+• Es económica
+• No es tóxica (no está rancia o no ha sido almacenada en lugares húmedos)
+• Previene sabores indeseables en la leche
+• Está libre tierra o polvo, fecas y orina
+Principios de alimentación de raciones de vacas
+• Ser amable en el trato de los animales y generosos en la alimentación del
+ganado
+• Mantener continuidad en el suministro del alimento. Evitar cambios bruscos
+en la ración. Si son necesarios, hacerlos de manera gradual.
+• Alimentar dos veces al día con un intervalo de 12 horas
+• Proveer de forraje verde o ensilaje durante todo el año, pero sobretodo en el
+periodo seco
+• Una buena palatabilidad aumenta el consumo y digestibilidad del alimento.
+La palatabilidad puede ser mejorada con melaza o sal. También mediante
+remojo o molienda del alimento (dependiendo del insumo)
+• Proveer una ración voluminosa
+• Alimentar individualmente para un mejor resultado
+• Alimentar el ensilaje posterior a la ordeña para evitar olores en leche
+• Exceso de leguminosas debe evitarse cuando el rumen está vacío para evitar
+timpanismo
+• Agua debe ser provista permanentemente o al menos 3 veces al día
+
+BOLETÍN INIA [34]
+LISTA DE CHEQUEO PARA EVALUAR EL ESTADO DE LA
+ALIMENTACIÓN EN UN PREDIO
+La situación de alimentación en un predio se ve reflejada, en gran medida,
+en la producción de los terneros. Sin embargo, también hay otros signos que
+pueden ser notados desde el punto de vista animal. El siguiente listado puede
+ser utilizado como guía para diagnosticar problemas con la alimentación predial:
+1. Condición corporal
+¿Los animales están en pobre, mediana o adecuada condición corporal?
+2. Pelaje
+¿El pelaje esta suave y reluciente? Un pelaje suave es consistente con un
+buen estado de salud y alimentación. Esto ser relaciona también con la
+desparasitación y nivel de alimentación de minerales
+3. Estado de salud
+Una vaca sana come y rumia regularmente. Además, es un animal curioso. El
+animal permanece con el grupo y no se aísla.
+4. Disponibilidad de agua
+¿Hay acceso ilimitado al agua por los animales permanentemente? Si no es
+así, ¿que tan frecuente tienen acceso a agua los animales y cuanta cantidad
+se ofrece?
+5. Tipo de forraje
+¿El animal tiene acceso a forraje fresco (pradera) o solo hay acceso a material
+fibroso como un rastrojo?
+6. Cantidad de forraje
+El animal siembre debe tener la oportunidad de alimentarse. Un comedero
+vacío indica subalimentación.
+7. Minerales
+¿Todas las vacas tienen acceso continuo a minerales ya sea a granel o en
+bloque? ¿Si no es así, los minerales se ofrecen de manera regular?
+8 Concentrados
+¿Se están ofreciendo concentrados y en qué cantidad? Son mezclas realizadas
+intra-predialmente o es una mezcla comercial? ¿Se llevan registros de la
+alimentación?
+
+Programa de Difusión Tecnológica en subsector pecuario bovino para el territorio Patagonia Verde. [35]
+Si todos estos puntos han sido checheados y están siendo correctamente
+manejados y, aun así, los pesos al destete de los terneros no son satisfactorios,
+la ración provista y los requerimientos deben ser calculados con mayor detalle.
+MONITOREO DE LA CONDICION CORPORAL
+La valoración visual de la condición se utiliza para estimar la cobertura corporal
+de musculo y grasa en la producción de carne. La medición de la condición
+corporal del ganado vacuno fue descrita, por primera vez, en 1917, y era utilizada
+para estimar la relación entre la composición grasa y no grasa del ganado
+vacuno. Actualmente los productores deberían comprobar regularmente de la
+condición corporal de las vacas con el objetivo de tener un adecuado desempeño
+productivo y evitar la aparición de enfermedades metabólicas (Valdés et al.,
+2013).
+El peso vivo de un animal no es un buen indicador de las reservas corporales,
+ya que animales de un mismo peso, pero de diferente conformación, pueden
+presentar diferentes niveles de engrasamiento. La correcta estimación de las
+reservas corporales de las vacas debe hacerse a través de la medición de la CC
+en forma visual y por palpación, utilizando una escala de 1 a 5 [1= muy flaca,
+2= delgada, 3= intermedia (buena condición), 4= gorda, 5= muy gorda (obesa)]
+de referencia. Su determinación es particularmente importante, porque si nos
+equivocamos al enviar a faena una vaca o novillo que no ha alcanzado el nivel de
+engrasamiento mínimo (CC = 3,5) que exige la ley de carnes, puede significar una
+considerable reducción en el precio de pago por animal. Si bien la calificación
+del CC puede ser consistente entre operarios entrenados, es preferible que
+intervengan la menor cantidad de personas posibles en las determinaciones y
+sean realizadas por una misma persona o por el menor número posible. Para
+simplificar esta tarea, es conveniente que la calificación esté a cargo de las
+personas que normalmente están en contacto con los animales en cada uno de
+estos momentos.
+1. Cómo medir la condición corporal (o el estado de carnes o el
+estado de reservas corporales)
+Si bien la determinación de la CC es una evaluación subjetiva, es posible hacerlo
+con razonable precisión y de manera sencilla utilizando la escala de 5 puntos (1 =
+muy flaca, 5 = muy gorda), en la cual cada punto de la escala se divide en cuartos
+(Figura 4). A pesar a que las figuras mostradas en este Capítulo corresponden a
+vacas de lechería, los puntos anatómicos a observar y a palpar son los mismos
+para vacas de carne.
+
+BOLETÍN INIA [36]
+Deben evaluarse manualmente algunas zonas anatómicas específicas del área
+pélvica y lumbar como las costillas cortas, el ligamento sacro, el hueso de la
+cadera, los ligamentos de la fosa y los isquiones. Los puntos de referencia para la
+determinación se muestran en el Figura 5.
+Esta metodología permite clasificar fácilmente a la mayoría de los animales,
+aunque pueden presentarse diferencias en la estimación entre operarios (Ej:
+entre 2,0 ó 2,25; entre 3,50 ó 3,75).
+Figura 4. Escala para la determinación del estado corporal (Grigera y Bargo, 2005).
+Figura 5. Puntos anatómicos para la determinación de la CC (Rambeaud et al., 2013)
+
+Programa de Difusión Tecnológica en subsector pecuario bovino para el territorio Patagonia Verde. [37]
+El primer paso en la determinación de la CC es la observación lateral de la línea
+imaginaria que une el hueso de la cadera al isquion (zona del anca ver Figura 5).
+Si el área está descubierta de grasa subcutánea, la parte superior del fémur es
+visible y la línea proyectada tiene forma de V; entonces, la CC es ≤ 3,0 (Figura
+5.1a). Si por el contrario, una mayor deposición de grasa subcutánea oculta la
+parte superior del fémur y la línea proyectada tiene forma de U, la CC es ≥ 3,25
+(Figura 5.1b).
+Este paso (diferenciación a través del fémur visible) generalmente es el más
+difícil en el proceso de calificación, sobre todo si la vaca se encuentra entre una
+calificación entre 3,0 y 3,25. Si hay dudas en cuanto a si se trata de una V o una
+U, se recomienda seguir con el paso siguiente (Figuras 5.4, 5.5 y 5.6).
+Cómo clasificar las vacas de CC ≤ 3
+Figura 5.1a. Condición corporal 3,02 Figura 5.1b . Condición corporal 3,25
+Figura 5.2a. CC = 2,25. La mitad de las
+costillas cortas son visibles.
+Figura 5.2b. CC= 2,0. Dos tercios de las
+costillas son visibles.
+2 Figuras 5.3, 5.4, 5.5 y 5.6 modificadas desde Grigera y Bargo (2005).
+
+BOLETÍN INIA [38]
+Cómo clasificar las vacas de CC ≥ 3,25
+A continuación, se entregan recomendaciones y puntos claves en los cuales se
+debe poner atención para clasificar vacas que tienen una condición corporal
+mayor a 3,25.
+Figura 5.3a. CC = 2,5. El ala del y la parte
+posterior del isquion son angu-
+lares pero se palpa grasa sub-
+cutánea en la parte posterior
+del isquion.
+Figura 5.3b. CC < 2,5. No se palpa grasa
+subcutánea en la parte poste-
+rior del isquion.
+Figura 5.4a. CC= 3,0. La vista lateral toma
+la forma de V y el hueso de la
+cadera visto desde atrás se
+observa redondeado.
+Figura 5.4b. CC= 2,75. El hueso de la cadera
+es angular y la parte posterior
+del isquion esta parcialmente
+cubierta por grasa subcutánea.
+
+Programa de Difusión Tecnológica en subsector pecuario bovino para el territorio Patagonia Verde. [39]
+Condición corporal mayor a 4,0
+• Si la punta de las costillas cortas no es visible, la CC es 4,25
+• Si la parte posterior del isquion se encuentra sumergida en grasa subcutá-
+nea, la CC es 4,5
+• Si el hueso de la cadera no es visible, la CC es 4,75
+• Si ningún accidente óseo es visible, la CC es 5,0
+Figura 5.5a. CC= 3,25 El ligamento sacro y
+los ligamentos a ambos lados
+de la cola son visibles.
+Figura 5.5b. CC= 3,50 El ligamento sacro
+es visible y los ligamentos a
+ambos lados de la cola son
+parcialmente visibles.
+Figura 5.6a. CC= 3,75 El ligamento sacro
+es parcialmente visible y los
+ligamentos a ambos lados de
+la cola no son visibles.
+Figura 5.6b. Si ambos ligamentos no son
+visibles y la vista lateral del
+área pélvica proyecta una
+línea recta entre el hueso de
+la cadera y el isquion, la CC es
+≥ 4,0
+
+BOLETÍN INIA [40]
+La determinación del estado corporal de las vacas de crianza representa una
+práctica de manejo importante para monitorear programas de alimentación.
+Su estimación en momentos claves, como son el encaste, mitad de gestación
+y parto, nos permitirá ajustar el manejo de la alimentación de acuerdo a las
+necesidades del sistema y así obtener mejores resultados reproductivos,
+económicos y productivos. La evaluación y el análisis sistemático de la CC por
+asesores y productores permiten no sólo maximizar la producción y la eficiencia
+productiva del sistema, sino también reducir los costos de producción.
+REFERENCIAS
+Anrique, R., Fuchslocher, R., Iraira, S., Saldana, R., 2008. Composición de alimentos
+para el ganado bovino. Consorcio Lechero, Universidad Austral de Chile,
+Instituto de Investigaciones Agropecuarias INIA Remehue. Valdivia, Chile.
+Grigera, J. y Bargo, F. 2005. Evaluación del estado corporal en vacas lecheras.
+Informe técnico. Disponible en: http://www.produccion-animal.com.ar
+Goopy, J.P. and Gakige J.K. (eds.) 2016. Smallholder dairy farmer training manual.
+ILRI Manual 24. International Livestock Research Institute (ILRI). Nairobi,
+Kenya.
+Pandey, G.S. and Voskuil, G.C.J. 2011. Manual on improved feeding of dairy cattle
+by smallholder farmers. Golden Valley Agricultural Research Trust. Lusaka,
+Zambia.
+Rambeaud et al., 2013. La vaca lechera antes y después del parto. Disponible
+en http://www.cuencarural.com/lecheria/63671-la-vaca-lechera-antes-
+y-despues-del-parto/
+Stephen. L., Chedly. K., Roderick K. and Food and Agriculture Organization of the
+United Nations, Sub-Regional Office for the Pacific. (1998). Manual of
+smallholder milk production in the South Pacific. FAO Subregional Office
+for the Pacific. Apia, Samoa.
+Valdés C., Lanuza F., Lépori A. y Morales R. 2013. Condición corporal en vacas
+lecheras En: Morales, R.; Villarroel, D., (Eds). Unidad de negocio permanente
+a través de modelos de engorda de vacas excedente de rebaños lecheros.
+Osorno Chile. Instituto de Investigaciones Agropecuarias.

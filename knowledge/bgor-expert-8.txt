@@ -1,0 +1,2673 @@
+PRESENTACIÓN
+En el marco de la Educación Secundaria obligatoria, la modalidad Agraria
+es una de las alternativas de Educación Técnico Profesional.
+MANUAL DE AVICULTURA
+2º AÑO CICLO BÁSICO AGRARIO
+VERSIÓN PRELIMINAR
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+Sitio Argentino de Producción Animal
+1 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+2
+PRESENTACIÓN
+En el marco de la Educación Secundaria obligatoria, la modalidad Agraria
+es una de las alternativas de Educación Técnico Profesional.
+Por Resolución Nº 88/09 se aprobó el Diseño Curricular del Ciclo Básico
+Agrario, el mismo promueve la cultura del trabajo, la sustentabilidad social,
+ambiental y económica de las producciones, el agregado de valor a la materia
+prima, la producción de alimentos sanos y seguros, las formas asociativas, el
+empleo autogestivo, el desarrollo rural y el arraigo como valores de una verdadera
+“Ciudadanía Rural”.
+Por Disposición Nº 10/09 se aprobaron los entornos formativos para el
+Ciclo Básico Agrario: Huerta, Vivero, Forrajes, Apicultura, Cunicultura, Avicultura,
+Porcinos, Ovinos, Taller Rural y Mecánica agrícola. En cada uno de ellos se
+proponen modelos que representan las producciones familiares.
+Corresponde ahora acompañar el trabajo de nuestras escuelas con los
+Manuales de Huerta, Vivero, Forrajes, Investigación del Medio I, Investigación del
+MedioII, Organización y Gestión del Trabajo y la Producción, Taller rural,
+Maquinaria Agrícola, Cunicultura, Apicultura, Avicultura, Ovinos y Porcinos.
+Los mismos permiten orientar y facilitar las acciones de los docentes y
+alumnos para la construcción de aprendizajes significativos en los talleres y sus
+entornos formativos. Constituyen una propuesta de trabajo abierta para que,
+docentes y alumnos, interactúen con ella, jerarquizando, reordenando y
+secuenciando contenidos y actividades, de acuerdo a cada situación de
+enseñanza aprendizaje.
+En el desarrollo de cada espacio curricular (materia, taller, seminario),
+podrán incorporarse: conceptos, estrategias, ideas, técnicas, procedimientos,
+actitudes, valores, destrezas motrices, competencias intelectuales y teorías, que
+los docentes consideren.
+Sitio Argentino de Producción Animal
+2 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+3
+Cada manual en sí, posibilita también acciones de extensión al contexto
+socio productivo, pudiendo ser base de actividades de educación no formal en
+acciones de capacitación laboral y actualización técnica.
+Este es un aporte de la Educación Agraria a la Educación Agraria misma.
+Rescata el trabajo anónimo de nuestros docentes a lo largo de la historia y lo pone
+en valor.
+Desde aquellos viejos apuntes que cada uno se organizó para hacer posible
+el dictado de su materia, llegamos a la propuesta de estos manuales.
+La actualización necesaria consistió en tareas de recopilación,
+compaginación, edición y elaboración de actividades que los recrea y los vuelve
+interactivos. Suponen una propuesta mínima de trabajo.
+Como siempre, la creatividad, el ingenio y la experiencia de nuestros
+docentes, mejorarán la propuesta en la renovación de su compromiso ante la
+diversidad de escenarios que se nos plantea con cada grupo de alumnos.
+La distribución gratuita de estos manuales a los alumnos de nuestras
+Escuelas y por extensión a sus familias, promueve derechos de igualdad,
+inclusión, calidad educativa y justicia social como elemento clave de las
+estrategias de desarrollo y crecimiento socioeconómico de la Provincia
+contemplados en las Leyes de Educación Nacional y Provincial.
+Sitio Argentino de Producción Animal
+3 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+4
+Guía para el docente
+En las primeras clases el docente presentará la propuesta metodológica del taller
+–el programa y las pautas de evaluación –, visitará la sección didáctico-productiva
+o entorno formativo y tomará la evaluación diagnóstica. A su vez, presentará el
+Manual de Avicultura como bibliografía. Respecto a la modalidad de desarrollo de
+los contenidos, las siguientes son algunas cuestiones a tener en cuenta:
+• la totalidad de las unidades se abordará a lo largo del ciclo lectivo;;
+• el 90 al 100% de las clases se pueden desarrollar en el entorno formativo
+correspondiente;
+• es fundamental el trabajo en clase, ya que teniendo en cuenta la jornada
+completa de nuestras escuelas, los alumnos disponen de poco tiempo en
+los hogares y/o la residencia para desarrollar las tareas.
+Por otra parte, se propone que los docentes promuevan las actividades de
+extensión y la utilización de diversos recursos didácticos como los que se
+sugieren:
+• diseñar y realizar entrevistas a productores del medio, a responsables del
+área municipal de la producción, a organizaciones del trabajo y/o la
+producción que referencien a la avicultura, para lograr la promoción y la
+extensión de esta actividad;
+• visitar establecimientos productores de la zona;
+• desarrollar mapas y redes conceptuales tanto para la construcción de
+conceptos como en el proceso de evaluación;
+Sitio Argentino de Producción Animal
+4 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+5
+• utilizar recursos como láminas, diccionarios, artículos periodísticos y
+diferentes recursos seleccionados de acuerdo con las motivaciones e
+intereses de los grupos de alumnos;
+• promover la exploración en internet de temas inherentes.
+Sitio Argentino de Producción Animal
+5 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+6
+Guía para el alumno
+Las expectativas de logro son las siguientes:
+• Práctica de las actividades de granja, como recreadoras de la cultura del
+trabajo y productoras de alimentos sanos y seguros.
+• Caracterización de la producción de aves de carne y huevos como
+emprendimiento familiar posible.
+• Participación protagónica en el proceso productivo en granjas avícolas.
+En este Manual los alumnos encontrarán un desarrollo teórico organizado en
+diferentes unidades de contenido y dos tipos de actividades:
+1. Ejercicios que buscan aplicar los conceptos presentados.
+2. Actividades autoevaluativas, ubicadas al finalizar cada unidad de
+contenidos, que comprenden un cuestionario y un glosario. La lectura y
+resolución de las mismas permite evaluar la comprensión por parte de los
+alumnos de los conceptos desarrollados en cada unidad.
+Sitio Argentino de Producción Animal
+6 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+7
+Evaluación
+Para un mejor proceso de enseñanza-aprendizaje es importante informar y
+compartir con los alumnos las expectativas de logro y los criterios de evaluación
+que se tendrán en cuenta a lo largo del ciclo lectivo.
+Se recomienda que el docente pueda realizar un seguimiento de las siguientes
+etapas:
+• Evaluación diagnóstica: punto de partida fundamental para conocer a los
+alumnos y seleccionar y desarrollar estrategias, contenidos, recursos y
+demás actividades, adecuadas a las características de los grupos.
+• Evaluación en proceso: se registrarán los aprendizajes mediante la
+utilización de diferentes instrumentos de evaluación (oral, escrita, informes,
+trabajos prácticos, guías de estudio, observación directa y otras). El
+Maestro de Sección de Enseñanza práctica participará en el registro de los
+logros junto al docente.
+• Evaluación final:
+a. Evaluación integradora: en donde se pondrán en evidencia los logros
+alcanzados por los alumnos y el docente a lo largo del ciclo lectivo.
+b. Organización del sector productivo de la escuela.
+c. Diseño de una producción familiar.
+Los puntos b y c se podrán trabajar en forma individual o colectiva.
+Sitio Argentino de Producción Animal
+7 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+8
+Evaluación diagnóstica
+La evaluación diagnóstica del grupo nos permite saber que grado de aproximación
+tienen los alumnos con la actividad avícola.
+Ejemplo
+1) ¿De qué se encarga la avicultura?
+2) ¿Qué producciones avícolas conoce?
+3) ¿Qué tareas se imagina desarrollaremos en el sector avicultura de la
+escuela?
+4) ¿En su casa crían gallinas u otras aves? ¿Conoce alguna explotación
+avícola?
+5) ¿Cómo es la carne de ave?
+6) ¿Qué comida conoce relacionada con la producción avícola?
+7) ¿Cómo se comercializan los huevos?
+8) ¿Cuánto tarda en nacer un pollo (incubación)?
+9) ¿Cuáles son los reproductores en un gallinero?
+10) ¿Qué alimentos se les da al pollo y a la gallina?
+Ejemplo de Evaluación integradora
+El objetivo consiste en aplicar los contenidos y actividades desarrollados en este
+manual en la organización de una produccón avícola familiar.
+Para lo cual debemos tener en cuenta los siguientes aspectos:
+- El lugar elegido.
+- Definir la producción y cantidad de aves
+- Instalaciones.
+Sitio Argentino de Producción Animal
+8 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+9
+- Alimentación de las aves.
+- Planificar las actividades en un calendario.
+- Atender la salud y bienestar de las aves.
+- Cálculos esperados de la producción avícola.
+- Registros de datos.
+- Cálculo de precio
+Sitio Argentino de Producción Animal
+9 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+10
+BLOQUE TEMÁTICO I
+HISTORIA
+El origen de las gallinas se sitúa en el Sudeste asiático. El naturalista
+británico Charles Darwin las consideró descendientes de la única especie
+silvestre, el gallo Bankiva que vive en estado salvaje desde India hasta Filipinas.
+Los científicos estiman que fueron domesticadas hace 8000 años en la
+zona que en la actualidad corresponde a Tailandia y Vietnam.
+La gallina es uno de los primeros animales domésticos que se mencionan
+en la historia escrita.
+Se hace referencia a este animal en antiguos documentos chinos que
+indican que “esta criatura de Occidente” había sido introducida en China hacia el
+año 1400 a.C.
+En tallas babilónicas del año 600 a.C. aparecen gallinas, que son también
+mencionadas por los escritores griegos primitivos, en especial por el dramaturgo
+Aristófanes en el año 400 a.C.
+Los romanos la consideraban un animal consagrado a Marte, su dios de la
+guerra.
+Desde tiempos antiguos, el gallo ha sido considerado un símbolo de valor,
+así lo consideraban los galos.
+En el arte religioso cristiano, el gallo cantando, simboliza la resurrección de
+Cristo. El gallo fue el emblema de la I República Francesa.
+Durante mucho tiempo, el pollo y el resto de las aves fueron considerados
+como platos para servir los días de fiesta.
+A finales del siglo XIX un grupo de productores de E.E.U.U. intentó
+comercializar lo que es hoy el “pollo parrillero” que no había alcanzado aún su
+pleno desarrollo.
+Ya en el siglo XX los laboratorios, obtenían grandes adelantos en materia
+nutricional, lo que permitió una expansión constante de la producción avícola.
+Luego mediante inteligentes campañas publicitarias y modernos sistemas
+de venta hizo que la demanda estuviera por encima de la producción.
+En la actualidad los progresos en materia de genética y nutrición han
+favorecido esta actividad.
+El pollo se ha convertido en un plato diario, en casi todo el mundo.
+DEFINICIÓN DE AVICULTURA
+La palabra “avicultura”, designa genéricamente a toda actividad relacionada
+con la cría y el cuidado de las aves, como así también el desarrollo de su
+explotación comercial.
+Sitio Argentino de Producción Animal
+10 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+11
+Pero “avicultura” es un término que en su significado más íntimo se halla
+vinculado con el desarrollo de una actividad “cultural”, la cual transforma a la
+persona que la ejerce en “avicultor.”
+Decir “avicultor”, es decir persona que consagra su vida al conocimiento y
+cuidado de las aves pero no necesariamente con una finalidad económica.
+La palabra avicultura en realidad es muy abarcativa, ya que bajo esta
+denominación se incluye el cuidado y explotación comercial de distintas especies
+avícolas, como son las gallinas, pavos, patos, gansos, codornices, faisanes, aves
+canoras y hasta especies consideradas silvestres como el ñandú y la perdiz
+colorada.
+No obstante existe un grado diferencial de importancia de cada especie en
+relación a su importancia comercial y nivel de desarrollo. Por lo tanto por ser la
+producción de pollos y gallinas, de mayor difusión, generalmente, en nuestro país,
+la palabra avicultura está relacionada con la “actividad avícola” de producir pollos y
+gallinas (Aves del Género Gallus).
+Los primeros grupos de gallos y gallinas que fueron introducidos por Don
+Justo José de Urquiza a la Provincia de Entre Ríos, fueron destinados a la
+actividad de granja.
+La producción avícola ha pasado de ser una actividad auxiliar y secundaria
+dentro de las explotaciones agropecuarias, a cargo de las mujeres y los menores
+de la familia, para convertirse en una verdadera industria, siendo hoy, entre las
+producciones pecuarias la más intensificada, no sólo en adopción de tecnología
+dura, sino también en cuanto al desarrollo y aplicación de conocimiento
+zootécnico.
+En la actividad avícola de pollos y gallinas se han distinguido dos
+conceptos: “Avicultura tradicional” e “Industria Avícola” (también denominada
+“Avicultura Industrial”).
+AVICULTURA TRADICIONAL:
+Engloba a los criadores de aves de raza (exposiciones rurales). Si bien
+persiguen lucro con sus actividades, éstas no presentan un plan de negocios de
+complejidad como lo manifiestan las empresas dedicadas a la “Avicultura
+Industrial”.
+Por lo general esta actividad ha quedado reducida a un círculo cada vez
+más estrecho, que en muchos casos reviste dimensiones de “hooby” sin tener
+significación para la economía tradicional.
+AVICULTURA INDUSTRIAL:
+La “Avicultura Industrial” se encuentra dividida en dos orientaciones: La
+producción de carne de pollos (pollos parrilleros) y la producción de huevos para
+Sitio Argentino de Producción Animal
+11 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+12
+consumo, ambas, con características organizacionales distintas. La primera se
+caracteriza por estar organizada casi en su totalidad bajo el sistema de Integración
+vertical.
+Este sistema se denomina así por la relación de subordinación que existe
+entre una empresa y propietarios de granjas de engorde (granjeros).
+VENTAJAS DE LA PRODUCCIÓN AVICOLA:
+A. Proporcionan al hombre alimentos ricos en proteínas, como el huevo y la
+carne. También son aprovechados los desperdicios de la matanza en la
+alimentación animal (cerdos, bovinos), contribuyendo de esta manera a
+incrementar los ingresos del avicultor.
+B. Requieren de poco espacio. En un metro cuadrado se pueden explotar de 8
+a 10 pollos (engorde), o 6 a 8 gallinas (ponedoras). Se puede aumentar la
+cantidad de aves teniendo en cuenta las razas y la temperatura de la zona.
+C. Las utilidades se obtienen a corto plazo. Los pollos de engorde tienen un
+período de explotación de 7 semanas y las ponedoras alcanzan su madurez
+sexual a las 18 a 20 semanas de vida, lo que garantiza recuperar el dinero
+en poco tiempo.
+D. Son eficientes en el aprovechamiento del alimento. Un ave necesita
+alrededor de 4 kgrs. de alimento para producir 2 kgrs. de carne y las
+ponedoras 6 kgrs. de alimento para producir 16 huevos.
+E. Se adaptan a los diferentes sistemas de explotación. Pueden criarse
+rústicamente o dentro de instalaciones con tecnología de última generación.
+F. Requieren de poca mano de obra. Con los modernos sistemas
+automatizados una sola persona puede atender 5000 aves, en caso de
+pequeños emprendimientos alcanza con 1 o 2 horas diarias de atención.
+G. El mercado avícola está bien regularizado y estable. Son productos de
+mucha demanda y fácil de comercializar durante todo el año.
+TIPOS DE PRODUCCIÓN
+En la producción avícola podemos diferenciar distintos tipos de
+producciones:
+• Producción de carne ( pollo parrillero, pollo campero)
+Sitio Argentino de Producción Animal
+12 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+13
+• Producción de huevos (gallinas ponedoras)
+• Doble propósito (carne y huevo).
+Sitio Argentino de Producción Animal
+13 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+14
+BLOQUE TEMÁTICO II
+CLASIFICACIÓN ZOOLÓGICA DE LAS AVES
+Tipo Vertebrados
+Clase Aves
+Subclase Carenadas
+Orden Gallináceas
+Familia Fasciánidos
+Género Gallus
+Especie domesticus
+Por lo general son capaces de volar, tienen los miembros anteriores
+transformados en alas, el cuerpo recubierto de plumas y un pico con el que toman
+y desgarran los alimentos. Son animales ovíparos.
+Dentro de las aves encontramos las gallinas, cuya clasificación zoológica
+corresponde al superorden de los Neognatos (nuevas mandíbulas) y al orden de
+los Galliformes.
+Las aves de las que desciende la gallina doméstica habitaban en forma
+natural en las selvas del Sureste Asiático y en el Chaco paraguayo.
+Por domesticación de esta especie derivaron las diversas gallinas
+domesticas, ampliamente distribuidas por todo el mundo y que se han criado para
+aprovechar su carne, huevos, ornamentales y para pelea.
+Nunca han sido migratorias, y tienen un ala que hace que su vuelo no sea
+completo.
+Las aves primitivas, por ser más livianas, tenían capacidad de subir a los
+árboles, donde dormían.
+Son escarbadoras, semiperchadoras y polígamos.
+Las gallináceas comprenden más de 400 especies (dentro de ellas se
+encuentran las gallinas), anidan en el suelo, tienen el vuelo pesado, y se
+alimentan preferentemente con insectos, hierbas y granos.
+Sitio Argentino de Producción Animal
+14 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+15
+FENOTIPO:
+Es la forma exterior o visible del ave. Se puede dividir en las siguientes
+partes.
+1. Pico. Es una formación córnea que reemplaza la boca. Cerca de su
+base se encuentran los orificios nasales.
+2. Cabeza. Debe ser redonda, pequeño y cubierta de plumas.
+3. Cresta y barbilla. Se desarrollan cuando el ave llega a su madurez
+sexual. Deben ser rojas y calientes.
+4. Ojos. Son redondos, prominentes, brillantes. Cuando está enferma
+los ojos se achican y pierden brillo.
+5. Cuello. Debe ser largo, flexible y descarnado.
+6. Espalda. Es la región donde se implantan las alas.
+7. Alas. Son los miembros anteriores, modificados para el vuelo.
+8. Plumas remeras de las alas.
+9. Plumas timoneras de la cola.
+10. Glándula. Produce un aceite que el ave utiliza para mantener su
+plumaje en buen estado.
+11. Pogostilo. Lugar donde se insertan las plumas timoneras de la cola.
+12. Región de la cloaca.
+13. Rabadilla. Es redondeada y con un poco de carne.
+14. Abdomen. Es grande y con piel caliente y suave. El abdomen
+rabadilla forman una cavidad amplia para alojar las vísceras
+abdominales.
+15. Muslo.
+16. Pierna. La pierna y el muslo forman un conjunto redondeado
+carnoso.
+17. Tarso. Es recto, fuerte y está cubierto de escamas uniformes. En las
+razas blancas es amarillo antes de comenzar la postura.
+18. Pata.
+19. Pechuga. Es redonda, grande y con gran cantidad de carne.
+20. Costillar. Las costillas son bien curvadas.
+21. Región del buche.
+Sitio Argentino de Producción Animal
+15 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+16
+TIPOS DE CRESTA
+Sitio Argentino de Producción Animal
+16 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+17
+Las aves presentan en sus miembros inferiores un total de cuatro dedos de
+apoyo, tres orientados hacia delante y uno hacia atrás, a estos se suma un quinto
+con funciones de defensa ubicado en la parte posterior y a media distancia del
+metatarso.
+Este último es conocido con el nombre de espolón y alcanza su mayor
+desarrollo en el macho que lo utiliza como instrumento de pelea con otros gallos e
+inclusive con otros animales.
+Todo el miembro inferior se encuentra recubierto de escamas, cuya
+coloración varía del amarillo al negro, según las razas, incluyendo el blanco.
+Sitio Argentino de Producción Animal
+17 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+18
+ESCAMAS
+LAS PLUMAS
+Con referencia a la cobertura de las plumas, denominamos al conjunto
+plumaje.
+Este es de vital importancia en aspectos reproductivos y de camuflaje en la
+vida silvestre.
+Sitio Argentino de Producción Animal
+18 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+19
+RAZAS:
+La elección de la raza, es un aspecto fundamental, según el
+establecimiento se dedique a la producción de huevos, de carne o de ambos
+productos.
+Cuando se piensa en producir huevos, se prefiere una de las razas
+livianas: la Leghorn blanca, en galpones industriales. En pequeñas producciones
+se aprovechan las ventajas de la negra o colorada INTA.
+Sitio Argentino de Producción Animal
+19 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+20
+Entre las razas pesadas, netamente especializadas en la producción de
+carne, se prefiere la Orpington, para los emprendimientos familiares, en caso de
+criaderos industriales se cría el pollo parrillero híbrido.
+Para la producción de carne y huevos a la vez, muy común en la cría
+casera, se elegirá razas de doble propósito, como la New Hampshire y la Rodhe
+Island colorada.
+RAZA DE GALLINA PONEDORA
+LEGHORN
+El plumaje es blanco, las patas y el pico son amarillos, el cuerpo
+medianamente largo. La cresta es simple, mediana, bien parada en el macho, cae
+hacia un costado en la hembra.
+Características de las gallinas: excelente ponedora todo el año. Raza
+ideal como gallina ponedora. Mala madre.
+Característica del pollo: Pollo pequeño para preparar plato de cocina para
+un solo comensal. Buen peso y crecimiento.
+ORPINGTON
+De cuerpo ancho y profundo, el pecho ancho en toda su extensión, lo que
+demuestra sus buenas cualidades como productora de carne: La cabeza es
+pequeña en relación al cuerpo. Los muslos y las patas son gruesos, más bien
+cortos y casi ocultos por las plumas del cuerpo.
+Sitio Argentino de Producción Animal
+20 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+21
+La variedad Leonada es de plumaje leonado uniforme en todas sus
+secciones, el pico y las patas son de color blanco rosado.
+La variedad negra, el plumaje es negro verdoso lustroso en toda su
+superficie.
+El color de los pollitos bebe en la variedad leonada, es amarillo y en la
+variedad negra es de color negro o negro pizarra.
+Variedades: Leonada, Negra.
+Características de la gallina ponedora: buena ponedora todo el año; muy
+buena madre.
+Características del pollo parrillero: muy buen peso y crecimiento.
+PLYMOUTH ROCK (bataraza)
+El plumaje de la variedad Barreada es de color blanco grisáceo; cada pluma
+está cruzada por una barra regular y paralela bien definida, de color negro. En el
+macho, el barreado blanco y negro tiene igual anchura. En la hembra, las barras
+blancas deben tener la mitad del ancho de las negras. En ambos sexos el extremo
+de cada pluma es negro.
+La variedad blanca, es de plumaje blanco puro. Reúne casi las mismas
+cualidades que la variedad Barreada, es más activa y de postura invernal bastante
+buena.
+El color de los pollitos bebé de la variedad barreada es negro pizarra, más
+pronunciado en el dorso y más claro en los costados. El pico, patas y dedos de
+color amarillo o pizarra oscuro. Las plantas de los pies son de color amarillo.
+Sitio Argentino de Producción Animal
+21 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+22
+Variedades: Barreada, blanca, leonada.
+Características de las gallinas: excelente ponedora primavera y verano.
+Buena ponedora en otoño e invierno. Buena Madre.
+Caracteristicas del pollo parrillero: muy buen peso y crecimiento
+New Hampshire
+La cresta es simple, de cinco picos, erguida en los machos, las plumas de
+la golilla y los caireles son de un color castaño rojizo brillante; estas últimas son
+más oscuras que las primeras. Las plumas del dorso, del arco del ala, del pecho y
+del cuerpo deben presentar un color castaño fuerte.
+En la hembra, las plumas del pescuezo deben ser de color rojo castaño de
+mediana intensidad, bordeada cada una de las plumas de un tono dorado brillante.
+Las plumas inferiores están tocadas de negro.
+El color del pollito bebe es castaño o rojizo o rojo dorado el pico, las patas y
+los dedos son de color amarillo.
+Sitio Argentino de Producción Animal
+22 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+23
+Variedades: deriva de la raza Rhode Island colorada.
+Características de las gallinas ponedoras: excelente ponedora primavera
+y verano. Buena ponedora en otoño e invierno. Buena madre.
+Características del pollo parrillero: excelente peso y crecimiento. Es la
+raza ideal para la cría de pollos parrilleros.
+RHODE ISLAND RED (COLORADA)
+Es una raza de doble propósito: gallinas ponedoras y pollos parrilleros.
+Son aves de cuerpo largo, dorso ancho, pecho profundo y bien redondeado.
+El plumaje es marrón rojizo brillante en todas sus partes, a excepción de la cola,
+que es negro verdosa, y las plumas del vuelo, que tienen algo de negro. En las
+hembras, las plumas más bajas del pescuezo presentan un ligero tono de ese
+color.
+Las patas son amarillas o de color córneo rojizo. No deben tener ninguna
+pluma ni plumita en las patas ni en los dedos.
+El color del pollito bebe es castaño rojizo. El pico, patas y dedos son de
+color amarillo.
+Variedades: cresta simple y cresta rosa.
+Características de las gallinas: excelente ponedora todo el año y muy
+buena madre.
+Características del pollo: buen peso y rápido crecimiento.
+SUSSEX
+Son aves de cuerpo largo, ancho y profundo. De pecho ancho y profundo,
+sus muslos y patas son fuertes.
+Sitio Argentino de Producción Animal
+23 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+24
+El plumaje de la variedad armiñada es blanco con lanceolado negro
+verdoso lustroso. Las plumas de vuelo también tienen algo de negro.
+El color de los pollitos bebe de la variedad Armiñada es blanco. Pico, patas
+y dedos de color amarillo o blanco rosado.
+Variedades: Pintada, colorada y Armiñada. Es una raza de doble propósito.
+Características de la gallina ponedora: buena ponedora todo el año. Muy
+buena madre.
+Características del pollo parrillero. Excelente peso y crecimiento.
+ACTIVIDAD
+Completa el siguiente cuadro:
+Livianas Pesadas Doble propósito
+Características
+Generales
+Características
+de las gallinas
+Características
+de los pollos
+Menciona
+ejemplos de razas
+ANATOMÍA
+Sitio Argentino de Producción Animal
+24 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+25
+En el gráfico se puede observar la ubicación de los órganos en el interior de
+una gallina.
+ESQUELETO:
+El conjunto de los huesos de las aves son neumáticos, esto significa que
+presentan unos espacios o huecos rellenos de aire entre las láminas del hueso lo
+cual reduce notablemente su peso.
+Sitio Argentino de Producción Animal
+25 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+26
+El hueso que forma el esternón se denomina “quilla” y presenta gran
+tamaño recubriendo y protegiendo todo el área del tórax y el abdomen.
+El hueso metatarso y tarso están fusionados, y la presencia de cuatro
+dedos con sus respectivas falanges.
+En las alas se produce la misma fusión entre los huesos del carpo y
+metacarpos.
+Sitio Argentino de Producción Animal
+26 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+27
+APARATO DIGESTIVO
+Los alimentos bajan por el esófago en cuya parte inferior se expande y
+forma el buche, en donde pueden almacenar grandes cantidades de alimentos.
+Del esófago, los alimentos pasan al estómago. En la primera porción se secretan
+los jugos digestivos. En la segunda, se trituran los alimentos con la ayuda de
+piedras y arenas tragadas por las aves.
+El intestino, en el cual se absorben los alimentos, termina en la cloaca, en
+donde también drena el sistema urinario. El hígado es grande, y en algunas
+especies, carece de vesícula biliar
+Sabías que…?
+Los órganos son los menudos del pollo? Indica a cúales corresponden y qué uso
+comestible se les dan.
+Sitio Argentino de Producción Animal
+27 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+28
+APARATO REPRODUCTOR
+El aparato reproductor masculino del gallo produce el semen fértil y lo
+deposita en el aparato reproductor femenino de la gallina, para obtener nuevas
+crías. Tiene las siguientes partes:
+• Testículos: que producen espermatozoides y hormonas masculinas.
+• Epidídimo y conductos deferentes, que almacenan los
+espermatozoides y los transportan hasta el pene.
+• Pene, que sirve para depositar el semen en el aparato reproductor de
+la gallina.
+El aparato reproductor femenino desarrolla óvulos que pueden ser
+fecundados por el semen del gallo. En este caso, producen huevos fértiles.
+Cuando la gallina no vive con el gallo, produce huevos no fértiles. Sus partes se
+observan en el esquema del oviducto.
+Sitio Argentino de Producción Animal
+28 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+29
+Racimo de yemas en desarrollo, dentro del ovario de la gallina.
+El huevo, una célula gigante, se fertiliza en la parte alta del oviducto de la
+hembra. En su trayecto hacia afuera se recubre de albúmina y membranas y de su
+cascarón protector. Abandona el trayecto por la cloaca.
+Sitio Argentino de Producción Animal
+29 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+30
+APARATO RESPIRATORIO.
+Los pulmones de las aves son pequeños y pocos expansibles. Cuenta con
+numerosos sacos aéreos dispersos por todo el cuerpo, donde se realiza el
+intercambio gaseoso. Las aves no tienen diafragma.
+APARATO CIRCULATORIO:
+El corazón tiene cuatro cavidades, pero la aorta emerge del lado derecho.
+La sangre es caliente y los glóbulos rojos son nucleados como en los reptiles. Es
+corazón es grande y la frecuencia cardíaca alta, 140/min.
+SISTEMA URINARIO:
+No existe vejiga en las aves, la orina drena directamente a la cloaca.
+SISTEMA ENDÓCRINO-HORMONAL:
+La hipófisis, en la base del cráneo, regula las demás glándulas y condiciona
+sus funciones. Controla actividades cíclicas, como la reproducción y la migración.
+ACTIVIDAD
+Realiza el reconocimiento de los órganos internos a través de la faena y
+disección de un ave.
+Sitio Argentino de Producción Animal
+30 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+31
+AUTOEVALUACIÓN
+Responda el siguiente cuestionario:
+1) ¿Qué entiende por avicultura tradicional?
+2) ¿Qué es la avicultura industrial? ¿Cómo se divide?
+3) ¿Cuáles son las ventajas de la producción avícola?
+4) Sobre una figura de un ave nomina las partes exteriores del cuerpo.
+5) ¿Cuáles son las diferencias entre el gallo y la gallina?
+6) ¿Qué destino tienen los huevos fecundados y los huevos no
+fecundados?
+GLOSARIO:
+Ovíparo
+Polígamo
+Pico
+Cresta
+Barbilla
+Quilla
+Cloaca
+Rabadilla
+Pechuga
+Buche
+Espolón
+Escamas
+Molleja
+Sitio Argentino de Producción Animal
+31 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+32
+BLOQUE TEMÁTICO III
+MANEJO DE POLLOS PARRILLEROS
+ENTORNO ZOOTÉCNICO
+Con esta denominación se desarrollarán los componentes del plan de
+manejo para generar una producción avícola de tipo alternativo.
+A continuación se desarrollará qué es el entorno zootécnico de una
+producción animal como la producción de un pollo bajo un esquema de crianza
+natural. En el gráfico se representan sus componentes:
+Sitio Argentino de Producción Animal
+32 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+33
+Se establece así un círculo virtuoso, que debe generar un sistema en
+equilibrio dinámico, ya que siempre se están realizando ajustes, desarrollando
+nuevas acciones aún dentro de una relativa rutina de operaciones, con el objetivo
+de obtener un producto de calidad, en tiempo y forma, en la cantidad que se nos
+requiera y con la continuidad que se nos demande.
+RECEPCIÓN DE LOS POLLOS BB
+9 Inmediatamente después de su llegada los pollitos deben ser
+hidratados. Para este fin se prepara un día antes agua azucarada (1-1 ½ taza por
+litro de agua).
+9 Animar a los pollitos a tomar agua. Coloque un bebedero cada 100
+pollitos, garantizar 2.5 cm. de espacio por pollo.
+9 Controlar la temperatura de las criadoras (fuente de calor).
+9 Luego de 3 a 4 horas proporcione alimento a los efectos de evitar
+desarreglos por cambios bruscos de alimentación. Colocar un comedero cada 100
+pollitos.
+9 Inspeccione los pollitos y descarte los que tengan pico torcido, patas
+deforme, alas caídas, ombligos sin cicatrizar y los que tengan apariencia débil.
+9 Pese el 10 % de los pollitos recibidos.
+9 Durante las primeras 4 semanas se debe dar 2.5 cm. de espacio de
+comedero por pollito.
+9 De la 5 semana en adelante garantice 8 cm. de espacio por pollito.
+9 Durante la primera semana de vida se puede realizar el despicado.
+Los pollos BB que se adquirieren vienen alojados en cajas de cartón de
+100 pollitos cada una. Estas presentan perforaciones en los laterales para facilitar
+que los animales respiren. En su interior se encuentran dividas en cuatro
+compartimientos que alojan un promedio de 25 animales.
+Estos valores pueden variar con la estación. En verano cada caja puede
+contener entre dos y tres animales menos por compartimiento debido, a que un
+número elevado, por efecto del calor y hacinamiento interno puede ser causal de
+mortandad de BB. Esta práctica es comunicada por las empresas proveedoras,
+que de esta manera evitan problemas a sus clientes.
+Las cajas son utilizadas por muchos productores como un primer piso
+aislante y primer comedero previo su desarmado, ya que arrojan los primeros
+puñados de alimento que consumirán los pollitos sobre estas.
+Sitio Argentino de Producción Animal
+33 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+34
+Por ser un material descartable se aconseja su eliminación. Se pasa a
+continuación a los detalles de la recepción de los pollitos BB en el alojamiento o
+galpón:
+ En la recepción de los pollos BB, la temperatura del galpón debe
+estar lo más controlada posible por el encendido previo de las campanas (mínimo
+12 horas antes). Se debe recordar que los modelos comerciales de campanas,
+tienen capacidades desde 500 hasta 1000 BB. La temperatura ideal de recepción
+debe estar entre 32 /33º C. Se debe tener en cuenta que siempre conviene una
+temperatura fácil de mantener que tener una alta con variaciones bruscas, por lo
+tanto se debe tratar de mantener promedio 29º C/30º C.
+ La primera etapa de la crianza en los alojamientos más chicos, se
+hace en cercos los que se van ampliando a medida que los animales crecen.
+Aproximadamente los cercos duran hasta los primeros 20 días, pudiéndose retirar
+antes si las condiciones de la época del año lo facilitan. Se calculará, en época de:
+Verano: 8 – 9 pollos por m2.
+Invierno: 10 por m2.
+ Es importante tener en cuenta que durante las primeras semanas de
+vida del pollito, el ritmo de crecimiento y la conversión de alimento, son en extremo
+altas, (150 gramos a los 7 días y 400 a los 14 días). Es indudable que las primeras
+semanas marcarán el éxito, o no, de la crianza.
+Figura esquema de cerco
+Sitio Argentino de Producción Animal
+34 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+35
+Es importante observar, como los pollos se disponen dentro del cerco, ya
+que este tipo de comportamiento nos da idea de las condiciones internas de
+temperatura en el cerco. Los esquemas que se desarrollan a continuación detallan
+las situaciones más comunes:
+ La imagen 1 muestra una distribución acorde a una temperatura
+correcta. La imagen 2 se relaciona con una baja temperatura, la campana puede
+estar funcionando mal, o la temperatura no ha sido bien regulada y ha bajado por
+debajo de los requerimientos de los pollitos. La figura 3 muestra el caso inverso,
+la temperatura es alta y los pollitos buscan alejarse. La figura 4 señala la
+existencia de una corriente de aire que desplaza el calor de la campana a un
+borde del cerco; es allí donde los BB se agrupan.
+ACTIVIDAD
+En forma breve realiza una descripción de las tareas que se llevan a cabo en la
+recepción de pollos b.b.
+INSTALACIONES PARA POLLOS
+En primer lugar se debe tener en cuenta el terreno donde se emplazarán
+los galpones o gallineros de acuerdo a la cantidad de parrilleros que se quiere
+criar.
+Este debe ser lo más económico posible, dentro de las posibilidades, pero
+que sus características se adapten a las condiciones para levantar los galpones,
+recordar el viejo refrán, lo barato sale caro.
+Dentro de estas características se pueden enunciar como más importantes:
+• Sobreelevado, seco y de fácil drenaje.
+• Buenos accesos.
+Sitio Argentino de Producción Animal
+35 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+36
+• Provisión de agua potable.
+• Aporte de energía eléctrica.
+• Aislado de otras granjas.
+De acuerdo a lo observado se puede indicar que en la provincia de Buenos
+Aires no existen limitaciones climáticas, geológicas o ecológicas para levantar una
+granja, dedicada a la cría de pollos o ponedoras.
+Para realizar el emplazamiento del gallinero o los galpones vale la pena
+recordar que los mismos se deben ubicar en la parte más elevada del terreno.
+Construirlos de manera tal, que los vientos predominantes de la zona,
+castiguen a los mismos en el sentido de su eje longitudinal.
+En caso de tratarse de más de uno, la distancia entre galpón y galpón
+nunca debe ser menor a dos veces y medio su ancho. Esto es importante para un
+correcto control de la ventilación.
+En cuanto a su capacidad, en avicultura no se deben violar normas sin
+exponerse a desagradables consecuencias, una de esas normas exige que cada
+galpón esté acondicionado para una determinada cantidad de aves en producción.
+Los pollos parrilleros se deben alojar de 8 a10 animales por metro
+cuadrado.
+No es aconsejable dedicarse a explotaciones mixtas, por ejemplo parrilleros
+y ponedoras.
+INSTALACIONES PARA CRÍA FAMILIAR
+Gallinero fijo
+Es un modelo más tradicional en esta zona. También posee una parte
+techada, donde se colocan el comedero y bebedero y otra al aire libre,
+comunicada en este caso a dos corrales de pasturas divididos por un cerco de
+alambre.
+El cerco permite un mejor aprovechamiento del verdeo, impidiendo que se
+consuman totalmente, lo cual determinaría que a partir de ese momento se les
+tuviera que aprovisionar diariamente.
+De este modo las aves saldrán a un corral, hasta que las pasturas se hayan
+consumido hasta la altura de un puño, momento en que se deberá, entonces,
+hacerlas pastar en el otro. Siempre es conveniente facilitar en lo posible las tareas,
+para poder destinar tiempo a otras que requieran nuestra participación en forma
+indispensable.
+Algo importante de aclarar es que las aves, no necesitan consumir
+pasturas, un alimento balanceado o equilibrado correctamente en sus ingredientes
+es suficiente. Sin embargo, a nivel familiar, con el fin de disminuir los costos
+pueden incorporarse.
+Sitio Argentino de Producción Animal
+36 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+37
+ACTIVIDAD
+- ¿Conoces algún gallinero familiar?
+- ¿Qué características presenta?
+Sitio Argentino de Producción Animal
+37 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+38
+IMPLEMENTOS SENCILLOS Y DE FABRICACIÓN CASERA
+Sitio Argentino de Producción Animal
+38 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+39
+Sitio Argentino de Producción Animal
+39 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+40
+ACTVIDAD
+Observamos y construímos:
+A continuación observamos los bebederos y comederos y:
+1- Indicamos con qué elementos están realizados.
+2- Contruímos uno similar al observado en el entorno formativo de Taller Rural.
+INSTALACIONES PARA CRÍA INDUSTRIAL
+UTENSILIOS E IMPLEMENTOS
+CAMPANAS:
+Fuente de calor, fundamental en las etapas iniciales de cría, pues el frío es
+la principal causa de muerte en las primeras semanas de vida. Pueden funcionar a
+kerosén, gas o corriente eléctrica.
+CERCOS:
+Sitio Argentino de Producción Animal
+40 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+41
+Deben ser madera, cartón o metálicos, en este caso los más aconsejables
+son los de aluminio. En cuanto a las medidas, la altura oscila entre 45 a 50
+centímetros y una longitud de 9 a 12 metros.
+CAMAS:
+Las camas más comunes son de tres tipos. Cáscara de arroz, cáscara de
+girasol y viruta de madera. Con respecto a esta última se prefiere que sea de
+maderas blancas, blandas y en lo posible no resinosas.
+Las tres camas mencionadas presentan un gradiente de calidad por
+diversos motivos.
+A continuación se enumeran y en común presentan que poseen una baja
+relación de peso / volumen, lo que facilita su traslado y manejo con rastrillos y
+horquillas.
+Costo Calidad Manejo Disponibilidad
+Cáscara de
+arroz
+alto excelente fácil relativo
+Cáscara de
+girasol
+medio media fácil Abundante
+Viruta de
+madera
+blanca
+bajo media fácil abundante
+BEBEDEROS:
+Sitio Argentino de Producción Animal
+41 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+42
+Para los pollitos bebé y primeros 15 días de vida lo más aconsejable es el
+de plato con recipiente invertido. Se adquieren en los comercios del ramo, con una
+capacidad de 2 a 4 ½ litros (abastecimiento para 100 pollitos). En las granjas
+familiares es común la utilización de damajuanas de 5 o 10 litros con latas de
+dulce de batata invertidas.
+Para aves adultas o más de 15 días de vida se procura que sean
+bebederos automáticos, que funcionen con flotante o válvulas. Con uno de estos
+de entre 2 a 2 ½ metros de longitud podemos abastecer de agua a 250 aves.
+COMEDEROS:
+En este caso es necesario diferenciar tres tipos:
+• Comederos para pollitos bebé y primer semana de vida.
+• Comederos desde la primera a tercera semana.
+• Comederos a emplear desde la tercera semana o aves adultas.
+Los primeros son lineales, con una longitud de 1 metro, con capacidad para
+alimentar 80 pollitos durante la primera semana.
+Los segundos son tipo tolvita, con una capacidad de 5 kilos, se debe
+emplear uno cada 45 pollitos.
+Por último se usan las tolvas o los lineales a cadena. Es común en granjas
+familiares usar las tolvas con una capacidad de 25 kilos. Los lineales son de uso
+en grandes explotaciones.
+Sitio Argentino de Producción Animal
+42 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+43
+RINCONERAS:
+Estas son recomendables, con el propósito de evitar la asfixia de las aves,
+en los momentos en que se producen amontonamientos. El más útil es el enrejado
+con marco metálico.
+REJILLAS PARA BEBEDEROS DE POLLITOS BEBÉ:
+Sitio Argentino de Producción Animal
+43 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+44
+Rejillas con un marco de metal sobre la que se colocan los bebederos. En
+el acto de beber los pollitos se mantienen aislados de la cama evitando derramar
+agua o volcar fragmentos de la misma en el agua.
+GANCHO PARA CAPTURA DE AVES:
+De gran utilidad ya que facilitan la captura de las aves evitando las corridas
+con los consiguientes amontonamientos de animales y muerte por asfixia.
+También pueden usarse cercos articulados, para acorralar pollos,
+construidos con un marco y una malla metálica.
+ALIMENTACIÓN
+Sitio Argentino de Producción Animal
+44 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+45
+El organismo de todo animal necesita de variados nutrientes para mantener
+un buen estado de salud. Esto se obtiene a través de una alimentación equilibrada
+que debe reunir diferentes condiciones, entre las que se encuentran el satisfacer
+las necesidades fisiológicas mínimas en nutrientes y energía a fin de evitar
+deficiencias nutricionales.
+Es necesario tener en cuenta que las necesidades nutricionales cambian
+con la edad, con la situación fisiológica y con la etapa de producción, lo que
+significa que el equilibrio entre los grandes nutrientes necesarios debe variar para
+adaptarse a las distintas situaciones.
+Una alimentación equilibrada previene las enfermedades y constituye el
+soporte de un correcto manejo productivo.
+Los animales bajo cualquier sistema de producción, si no disponen de una
+dieta balanceada, por lo general acusan inconvenientes para alcanzar los
+objetivos que el esquema de manejo les ha fijado. Esto en parte se debe a las
+dietas desequilibradas que contienen en exceso o falta de alguno de sus
+componentes esenciales.
+El término alimento se utiliza para designar a aquellas sustancias que luego
+de ser ingeridas por el animal, pueden ser digeridas, absorbidas y asimiladas. En
+un sentido más amplio, se denomina alimento al conjunto de productos
+comestibles.
+Sitio Argentino de Producción Animal
+45 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+46
+Los alimentos, básicamente están compuestos por agua y materia seca,
+denominación que recibe la porción que queda luego de haber extraído el agua de
+sus estructuras.
+La materia seca a su vez está conformada por sustancias orgánicas y
+sustancias inorgánicas. A las primeras corresponden los hidratos de carbono, los
+lípidos (grasas o aceites) las proteínas, ácidos orgánicos, ácidos nucleicos y las
+vitaminas. Las segundas son los minerales.
+Cada una cumple en el organismo animal diversas funciones. El agua
+compone casi el 75 a 80% del cuerpo y es esencial para el mantenimiento de la
+vida. Un animal muere más rápidamente si se lo priva de agua que si se le priva
+de alimento. Las fuentes de agua para los animales son:
+- El agua de bebida
+- El agua contenida en las estructuras de los alimentos.
+- El agua metabólica; que se forma a partir de los procesos metabólicos de
+mismo animal.
+El agua es vital, ya que cumple innumerables funciones en el organismo.
+Para las aves, la calidad del agua es de mucha importancia. Por lo general
+se requiere que la misma guarde las condiciones de potabilidad exigidas para el
+consumo humano y debe satisfacer dos requerimientos:
+A.- Calidad
+B.- Cantidad
+Con respecto a las sustancias orgánicas están los hidratos de carbono o
+Carbohidratos compuestos por carbono, hidrógeno y oxígeno que en su mayoría
+son solubles en el agua. Se encuentran principalmente en los productos de origen
+vegetal, siendo baja su presencia en el organismo animal.
+Son la forma de reserva energética de las plantas y constituyen la fuente
+rápida de aprovechamiento energético por parte de los animales. Los alimentos de
+origen vegetal como los granos, las harinas de cereales y los forrajes verdes son
+fuentes de carbohidratos.
+Las proteínas, son sustancias vitales que cumplen innumerables funciones
+en el organismo animal: forman estructuras (músculo, órganos, piel etc) forman
+enzimas, promueven el crecimiento, participan en los procesos del equilibrio
+endocrino etc.
+Las vitaminas, son compuestos orgánicos presentes en las plantas y los
+animales en pequeña cantidad, pero estas pequeñas cantidades hacen que su
+simple presencia permita el desarrollo de procesos químicos complejos. Esto las
+hace vitales en la incorporación en la dieta de los pollos, ya que todos los
+animales las requieren.
+Sitio Argentino de Producción Animal
+46 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+47
+La carencia de las vitaminas en la dieta ocasiona múltiples problemas, que
+van desde el retraso en el crecimiento, a desequilibrios orgánicos graves que
+terminan con la muerte.
+Los minerales son los componentes de la denominada materia inorgánica o
+cenizas. Existen en los organismos vegetales y animales. Cumplen múltiples
+funciones: formar estructuras, como el calcio y el fósforo en los huesos
+Los sistemas de de producción de avicultura alternativa, necesitan de
+alimentos balanceados, pero exigen que estos guarden una composición acorde a
+los principios que sustentan este tipo de producciones.
+En los esquemas de crianza natural se recurre a un conjunto de alimentos
+de diverso origen. Los pollos son alimentados con alimentos balanceados, forrajes
+verdes (pasto cortado o cosechado por ellos) y mezclas de granos. En todos los
+casos estos alimentos, en distintas formas y cantidades, abastecen de los
+nutrientes que los animales requieren para su desarrollo productivo.
+Recuerda que...
+Dar de comer no es alimentar
+Un ALIMENTO puede ser:
+1) SIMPLE: 1 sustancia alimenticia ( Maíz)
+2) COMPLEJO: Varias sustancias alimenticia (Maíz + Soja)
+3) BALANCEADO: Es un complejo de sustancias alimenticias que
+íntimamente unidas mediante un proceso de formulación y mezclado
+equilibrado, conforman una unidad alimenticia (ración) con la
+capacidad de cubrir los requerimientos de los animales total o
+parcialmente.
+Un alimento BALANCEADO contiene INGREDIENTES que son:
+La materia prima interviniente en una mezcla compleja (Alimento
+Balanceado), presente en ella en una proporción determinada, pudiendo o no
+presentar capacidad nutriente; pero que contribuye en algo a la calidad del
+alimento que lo contiene.
+Entonces se tendrá ingredientes:
+Sitio Argentino de Producción Animal
+47 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+48
+En principio, la denominación alimento balanceado, indica que el mismo
+tiene un balance o equilibrio en su composición, que garantiza proveer para la
+etapa de desarrollo a la que está destinado, un conjunto de nutrientes, en calidad
+y cantidad necesaria.
+Los Alimentos Balanceados se presentan de distinta forma física para
+facilitar su puesta a disposición de los animales y a la vez presenten la mejor
+integración de sus ingredientes.
+Por tal motivo éstos pueden estar bajo las siguientes formas:
+• EN HARINA
+• GRANULADOS: Pellets y Gránulos (pellets molidos) –figura
+• EXTRUSADO Figura
+(1) Extrusado (2) Pellets
+Por lo general los alimentos de este tipo se compran en bolsas o a granel.
+La diferencia para optar por uno u otro tipo, estará dada en el número de animales
+que deben alimentarse y en la capacidad de almacenaje.
+Debe tenerse en cuenta que las condiciones para almacenar este tipo de
+alimento, esté contenido en bolsas o dentro de un silo a granel, deberán ser
+vigiladas.
+La humedad es la principal causa del deterioro y enranciamiento de estos
+productos. Por tal motivo deberán ser ubicados en lugares secos y frescos, ya que
+cualquier trastorno en su estructura repercute sobre su calidad y puede dar origen
+a contaminaciones que son muy perjudiciales a los pollos.
+Es importante tener en cuenta que cada Alimento Balanceado debe tener
+en su bolsa un conjunto de datos que permiten certificar su calidad y condiciones.
+Estos están declarados en el marbete o etiqueta que está adherida a la bolsa o
+impresa en ella.
+Sitio Argentino de Producción Animal
+48 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+49
+Dichos datos son:
+9 Marca ó nombre comercial.
+9 Tipo de alimento (completo o suplemento).
+9 Fecha de vencimiento
+9 Especie animal a la que está destinado.
+9 Categoría o edades para las que ha sido elaborado
+9 Peso neto
+9 Modo de empleo
+9 Posibles ingredientes que contiene
+9 Notación porcentual de nutrientes que aporta.
+Por lo tanto el éxito en la nutrición de un pollo para consumo, no depende
+del mero conocimiento de los requerimientos de nutrientes de las aves, sino del
+hecho de garantizar que los pollos consuman estos nutrientes diariamente y que
+estén verdaderamente disponibles para la producción.
+En consecuencia, un programa alimenticio exitoso para este tipo de
+producciones gira en torno:
+. Del control de calidad de los ingredientes.
+• Formulación para proporcionar nutrientes.
+• Y quizás lo más importante: garantizar un consumo diario adecuado
+de los más importantes nutrientes.
+Sitio Argentino de Producción Animal
+49 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+50
+AUTOEVALUACIÓN
+Responda el siguiente cuestionario:
+1) ¿Cuáles son las condiciones necesarias para la construcción de las
+instalaciones para la cría de pollos?
+2) Menciona características de los comederos y los bebederos.
+3) ¿Qué función cumplen las campanas, los cercos, las camas y las
+rinconeras?
+4) Menciona características de los comederos y los bebederos.
+GLOSARIO:
+Ingredientes
+Nutrientes
+Granulado
+Extrusado
+Pellets:
+Sitio Argentino de Producción Animal
+50 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+51
+BLOQUE IV
+MANEJO DE POLLOS CAMPEROS
+AVICULTURA ALTERNATIVA:
+Sitio Argentino de Producción Animal
+51 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+52
+Para comprender las diferencias, se describirá cada estructura, dejando en
+claro que todas comparten las siguientes condiciones:
+• Son productos que surgen como respuesta a las nuevas exigencias del
+mercado.
+• Reúnen los conceptos INDUSTRIAL vs. ARTESANAL –RETORNO A LO
+NATURAL / ORGÁNICO- BUSQUEDA DEL IMAGINARIO DE “LO SANO”
+• Representan el imaginario de la producción local, “a campo” y de “calidad”.
+El Pollo Campero:
+Se puede decir con certeza que la denominación corresponde a una
+“marca” creada por el INTA, surgida de la creación de líneas pollos destinadas a
+sistemas de producción “no industriales”, desarrolladas por el Ing. Bonnino y
+colaboradores en la EEA de Pergamino.
+Estas líneas de crecimiento lento y rusticidad manifiesta se producen bajo
+un protocolo diseñado para su manejo. Presentan entre sus características una
+coloración variada, (los hay parcialmente colorados, bataraces, dorados y blancos)
+con buenas formas carniceras, buena estructura ósea, firmeza carnea y color de
+piel amarilla.
+Por lo general su manejo contempla períodos en los que los animales
+permanecen en confinamiento y etapas en las que acceden a potreros
+empastados, donde alternan el pastoreo con una alimentación balanceada a base
+de granos.
+En cuanto a este último tipo de alimento, el protocolo establece el uso de
+alimentos balanceados comerciales pero con la restricción en cuanto a su
+formulación, ya que los mismos deben carecer de aditivos e ingredientes
+especialmente señalados.
+Su terminación, siguiendo las normas establecidas en el protocolo y en
+función del esquema de instalaciones y condiciones generales que disponga el
+productor, ronda en los 80 a 90 días.
+Sitio Argentino de Producción Animal
+52 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+53
+Pollo Ecológico u Orgánico:
+Su denominación está extendida erróneamente a cualquier animal “criado a
+campo”. Si bien se podría coincidir que un animal desarrollado bajo esas
+condiciones sería un producto “ecológico”, para desarrollar una crianza ecológica y
+tipificar un pollo como tal se requieren otras condiciones.
+Un “pollo ecológico” es aquel pollo que ha sido producido en un
+establecimiento que maneja su producción bajo las pautas fijadas en la Resolución
+Nº 1286/98 del Servicio Nacional de Sanidad Animal –SENASA- y que se
+encuentra bajo el control de certificación de una oficina certificadora de productos
+ecológicos habilitada para tales fines.
+Si bien los protocolos de producción de pollo ecológico admiten variantes,
+básicamente exigen que los alimentos que se formulen para estos animales deben
+ser elaborados con materias primas certificadas como ecológicas en su
+procedencia, que carezcan de aditivos o su presencia esté restringida a productos
+vinculados a la salud de las aves en casos muy puntuales, siendo condición
+ineludible que carezcan de la posibilidad de dejar residuos en el cuerpo de éstas.
+La procedencia en cuanto al origen genético, no está restringida, ya que
+pueden ser líneas comerciales, específicas o animales de raza, pues la diferencia
+está en el método y proceso de crianza.
+Su manejo está basado en una alimentación, que al igual que el campero,
+prevé una etapa en confinamiento, donde son alimentados con los balanceados
+especiales (ecológicos) y otra con acceso a pastura. Son controlados en estos
+procesos bajo normas HACCP, siendo su tiempo de terminación variable entre 75
+y 90 días de acuerdo al protocolo, línea y esquema alimentario.
+El Pollo de Crianza Natural
+Surge como una alternativa a la situación planteada sobre los nuevos
+requerimientos de los mercados referidos a un producto más natural, pero
+planteando una opción diferente a los anteriores esquemas.
+Por un lado el modelo campero caía en la necesaria utilización de la línea
+desarrollada por el INTA, la cual por cuestiones que no son motivo de análisis de
+este trabajo no se encontraban o se encuentran disponible en cantidades, tiempos
+y formas que requiere una producción que aspire a algo más que el auto
+abastecimiento.
+El pollo ecológico al tener que responder a protocolos y organismos
+certificadores que lógicamente cobran por su trabajo, exige de parte de quienes lo
+piensan desarrollar como producción con fines comerciales movilizados por su alto
+valor, mayores costos y la necesidad de insumos que resultan por su origen
+igualmente caros.
+Las condiciones planteadas desarrollaron entonces la alternativa de una
+producción basada en el empleo de líneas comerciales de alta perfomance en su
+Sitio Argentino de Producción Animal
+53 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+54
+desarrollo y rusticidad manifiesta, destinadas a la avicultura industrial, bajo
+condiciones de producción natural, siguiendo pautas de manejo contenidas en
+algunas de los esquemas explicados.
+ACTIVIDAD
+La avicultura alternativa sea cual fuere el enfoque (campero, ecológico o crianza
+natural) en la actualidad es un negocio de mercado interno (con segmentación
+hacia público de alto poder adquisitivo).
+Averigua ¿por qué?
+FAENA DE POLLOS
+Etapas del proceso:
+• Colgado.
+• Desangrado-yugulación.
+• Escaldado.
+• Pelado.
+• Lavado.
+• Eviscerado
+• Acondicionamiento.
+• Enfriado.
+• Empaque.
+Una vez en el matadero, las jaulas llenas de las aves vivas, se transportan
+desde la rampa de descarga hasta la báscula automática y a la zona donde van a
+vaciarse, en el departamento de recepción, utilizando para ello cintas
+transportadoras o vía de rodillos. Luego se procede a pesar las jaulas con las
+aves (peso bruto).
+Colgado:
+Después de pesadas se extraen las aves de las jaulas y se suspenden por
+las patas de los ganchos individuales de que está provista la cinta o cadena de
+transporte.
+La extracción de las jaulas y la suspensión de la cadena son operaciones
+que deben realizarse con mucho cuidado para evitar traumatismos mecánicos
+(contusiones, hematomas y heridas de los miembros), que dañan la calidad de las
+canales. Las jaulas vacías se pesan a continuación (tara) y pasan a lavado y
+desinfección.
+Sitio Argentino de Producción Animal
+54 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+55
+Las aves muertas son ubicadas en recipientes identificados para
+posteriormente ser incineradas en un digestor, horno crematorio o pozo sanitario
+(en establecimientos educativos puede ser común a todas las áreas).
+Una vez colgadas en la noria, las aves vivas pasan por un dispositivo de
+insensibilización.
+El aturdimiento tiene que ser rápido y de efecto persistente. No es
+conveniente que produzca la muerte inmediata del animal, ya que el corazón debe
+seguir latiendo al principio intramortem, para que pueda impulsar activamente la
+sangre en el momento de practicar la sangría.
+Esta es la única forma de desangrar bien a los animales.
+Desangrado:
+La sangría debe realizarse inmediatamente después del aturdimiento o
+insensibilización.
+El sangrado no es total, porque el corazón deja de latir cuando
+todavía un resto de sangre queda en el organismo. Por eso la sangría puede
+considerarse completa cuando han salido, más o menos, las dos terceras partes
+de la cantidad total de la sangre (9 a 10 % del peso vivo).
+El corte para la sangría se practica en el cuello a la altura de los grandes
+vasos sanguíneos (yugulación). El sangrado debe durar aproximadamente 3
+minutos.
+Lo importante de esta etapa reside en el efecto que el buen desarrollo de la
+misma tiene sobre la calidad de la canal.
+Las aves se desangran sobre un canal con pendiente suficiente y fácil de
+limpiar. La sangre puede ser utilizada luego para elaborar harina de sangre.
+Escaldado:
+Es el paso posterior y consiste en introducir las aves en un equipo de
+escaldado.
+Se recomienda que la temperatura del agua sea entre 52 a 56° C y el
+tiempo no menor de 3 minutos.
+El agua caliente afloja la inserción de las plumas en los folículos para
+facilitar la extracción mecánica de las mismas.
+Evitar el sobrecalentado, que genera el cocimiento del pollo.
+Pelado:
+A continuación los pollos ingresan a un equipo de pelado en el que se
+extraen las plumas. El equipo consta de dedos de goma que giran sobre sus ejes
+en sentido inverso. Los pollos pasan entre esos dedos, eliminando las plumas que
+caen en la parte inferior del bastidor del equipo.
+Sitio Argentino de Producción Animal
+55 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+56
+Lavado:
+Se realiza a los efectos de eliminar la suciedad, como coágulos u otros
+elementos contaminantes adheridos a la superficie de las canales.
+El agua utilizada en este proceso debe ser potable.
+Después del lavado y antes del eviscerado son eliminadas patas y cabeza.
+Eviscerado:
+En esta etapa se efectúan los cortes abdominales necesarios para la
+extracción de las vísceras.
+Hay que tener mucho cuidado a fin de evitar rupturas del aparato digestivo
+que pueda contaminar la superficie de la carcasa.
+Un factor importante es tener en ayunas a las aves por lo menos 8 horas
+antes de la faena.
+Luego del eviscerado, se separan las vísceras comestibles (menudos), y el
+ave es sometida a un lavado de la superficie externa y cavidad interna con agua
+potable y clorada.
+Sitio Argentino de Producción Animal
+56 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+57
+Vísceras comestibles (menudos)
+Ellas son corazón, hígado y panza (estómago muscular)
+Enfriado:
+El método más común y mediante el cual se obtiene “pollo seco”, consiste
+en una cámara por la cual circula aire forzado a baja temperatura.
+Sitio Argentino de Producción Animal
+57 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+58
+Así, se logra un pollo enfriado con un contenido de humedad inferior al que
+se logra por inmersión en tanques con agua.
+Empaque:
+Los pollos son dispuestos en envases primarios y secundarios. En los
+primeros el producto se encuentra en contacto directo con el envase. Por su parte
+los secundarios son contenedores de los primarios.
+En general, el envasado primario se realiza en bolsas de polietileno,
+individual o a granel. A su vez estos envases pueden ser dispuestos en cajas de
+cartón, canastos plásticos o cajones de madera de primer uso.
+Tanto en el envasado individual como a granel, las bolsas deben ser
+rotuladas.
+FAENADOR PORTÁTIL FAMILIAR
+UNA VEZ ARMADO EL EQUIPO COLOCARSE
+EL DELANTAL
+Sitio Argentino de Producción Animal
+58 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+59
+ZONA SUCIA
+Es el sector donde se sacrifica el animal y se despluma o cuerea
+Consta:
+• Cono de degüello.
+• Balde recolector de sangre.
+• Tacho para plumas.
+• Guantes rugosos.
+• Cuchillos bien afilados.
+• Chaira para asentar el filo de los cuchillos.
+SACRIFICIO
+Se introduce cabeza abajo el ave y con un cuchillo bien afilado se
+seccionan los grandes vasos del cogote (venas y arterias).
+Sitio Argentino de Producción Animal
+59 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+60
+DESPLUMADO
+Se sumerge el ave muerta en una olla con agua a 60º C por 30 segundos,
+se cuelga del gancho y con los guantes rugosos o las manos se le sacan las
+plumas, luego se repasa para sacra canutos y filoplumas.
+ZONA LIMPIA
+Es el sector donde se eviscera al animal, se realiza el lavado y prepara para
+la presentación.
+Sitio Argentino de Producción Animal
+60 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+61
+Forma de colocar el ave para la evisceración.
+Realizar dos cortes: uno horizontal a la altura del esternón y el otro
+circular alrededor de la cloaca.
+Introducir una mano por el corte horizontal, llegando hasta el fondo, retirar
+la mano inclinando los dedos hacia abajo para retirar las vísceras.
+Sitio Argentino de Producción Animal
+61 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+62
+Una vez retiradas las vísceras separar corazón, hígado
+y estómago muscular.
+Abrir el estómago muscular, limpiar y colocar en una olla.
+El resto de las vísceras se tira a un tacho.
+Cortar patas
+Sitio Argentino de Producción Animal
+62 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+63
+Lavar bien con agua clorada y dejar escurrir. Cortar la cabeza.
+Si el buche no salió antes, hacer un pequeño corte y sacarlo por delante.
+Trabar las patas y las alas.
+Listo y presentado para refrigerar
+Sitio Argentino de Producción Animal
+63 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+64
+¿Y después?
+ACTIVIDAD
+En el sector avícola de la escuela realiza la faena de un ave, junto al Maestro de
+sección del sector, indicando luego las partes comestibles obtenidas
+Sitio Argentino de Producción Animal
+64 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+65
+AUTOEVALUACIÓN
+Responda el siguiente cuestionario:
+1-La avicultura alternativa ¿Qué es?
+2-¿Qué es el pollo campero?
+3-¿Qué es el pollo ecológico u orgánico?
+4-¿Cuál es el pollo de crianza natural?
+5-¿Qué etapas del proceso de faena se realiza en la zona limpia y qué
+etapas en la zona sucia?
+GLOSARIO:
+Insensibilización
+Desangrado
+Escaldado
+Pelado
+Lavado
+Eviscerado
+Menudos
+Enfriado
+Enjuague
+Sitio Argentino de Producción Animal
+65 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+66
+BLOQUE TEMÁTICO V
+MANEJO DE PONEDORAS
+SISTEMAS DE PRODUCCIÓN DE HUEVOS COMERCIALES
+MODELOS
+Existen distintos modelos basados en el grado de confinamiento y tipo de
+instalaciones empleados para las distintas etapas de producción:
+A.-MODELO DE CRIANZA Y PRODUCCIÓN EN CONFINAMIENTO EN JAULAS.
+Desarrolla todas las etapas de la producción en jaulas preparadas para
+cada tipo de animal. Las baterías utilizadas, maximizan el empleo del espacio y
+superficies, lo que incrementa la producción por unidad de alojamiento.
+El sistema facilita el desarrollo de actividades de manejo y operaciones de
+rutina, así como un mayor control individual de los lotes en producción.
+B.- MODELO DE CRIANZA Y PRODUCCIÓN EN ETAPAS A PISO Y JAULAS.
+Este sistema realiza una aplicación combinada de sistemas de producción.
+Para las primeras etapas utiliza sistemas a piso en galpones acondicionados a tal
+efecto que dan origen a nivel empresarial a un sistema de granjas especializadas.
+Sitio Argentino de Producción Animal
+66 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+67
+La etapa de jaulas corresponde a la prepostura y postura según los
+sistemas y se desarrolla en granjas con galpones acondicionados especialmente.
+C.-MODELO DE CRIANZA Y PRODUCCIÓN EN TODAS LAS ETAPAS A PISO.
+Es una alternativa que había quedado en desuso por la baja rentabilidad en
+relación con los sistemas de producción a jaula.
+Se desarrolla en todas sus instancias a piso, en galpones avícolas pudiendo
+los esquemas seguir el criterio de granjas especializadas o “de todo dentro, todo
+fuera”.
+Se encuentra desarrollada en la actualidad en las llamadas producciones de
+la avicultura alternativa tipo “camperas” y en las “orgánicas”, que la tienen como
+requisito necesario.
+El material genético de alta postura se divide en dos biotipos diferentes:
+ACTIVIDAD
+Investiga:
+¿Qué modelo de producción de huevos es el utilizado en los establecimientos
+avícolas de tu zona?
+Consulta en la Web: ¿Qué diferencias existen entre características de los huevos
+blancos y los colorados?
+Sitio Argentino de Producción Animal
+67 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+68
+INSTALACIONES
+El Sistema de producción de huevos, en cualquiera de las variantes
+desarrolladas en los modelos de producción, requiere de un alojamiento o galpón
+avícola.
+Esta instalación básicamente en su estructura puede seguir los
+lineamientos empleados por las producciones de carne.
+Por lo tanto sea un Galpón Avícola Industrial o un alojamiento modular tipo
+casera con parque, tendrán que reunir los mismos requerimientos de
+infraestructura, orientación, pisos, paredes laterales y techos que ya fueron
+analizados para los pollos parrilleros.
+Sitio Argentino de Producción Animal
+68 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+69
+El otro sistema de alojamiento, sistema a piso, hoy está desplazando, por
+razones vinculadas a criterios sobre el bienestar animal, a los sistemas de jaula en
+la Unión Europea.
+En nuestro país ha retomado vigencia en los sistemas comerciales de
+avicultura alternativa, camperos y orgánicos por responder a las exigencias de sus
+protocolos de producción.
+Se debe aclarar que en la actualidad se encuentran galpones de alta
+tecnología, diseñados para la producción comercial de huevos a piso, los que han
+adaptado la tecnología que se destina a reproductores pesados. A continuación se
+muestra un gráfico de este tipo de sistema:
+Los nidales poseen en el fondo una cinta transportadora que recoge los
+huevos existiendo también los de recolección manual.
+NIDAL
+En cuanto a los sistemas a piso más convencionales, la infraestructura de
+comederos y bebederos son similares a las producciones de carne. Igualmente
+ocurre con la cama. Sólo aquí se incorpora la estructura de nidales que pueden
+presentar diferentes alternativas.
+Pueden ser metálicos o de madera. Por lo general los metálicos presentan
+dos pisos y son dobles y se cuelgan de las cabreadas del techo, mientras que los
+de madera son de un piso, se encuentra apoyados sobre el piso o levemente
+elevados y por lo general conforma una estructura fija.
+Sitio Argentino de Producción Animal
+69 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+70
+Los nidales son dispuestos bajo dos criterios. Uno prioriza la comodidad del
+circuito de recolección, disponiendo los nidales en forma paralela al eje mayor del
+galpón, en lo posible a los laterales de un pasillo, que recorre el galpón de extremo
+a extremo.
+El otro tiene en cuenta la tendencia de las aves en poner sus huevos
+alejadas de la luz, para lo cual dispone a los nidales en forma perpendicular al
+mencionado eje mayor. Por lo general este último criterio que es empleado en los
+galpones de reproductores, se desarrolla también en aquellos galpones de
+producción, que poseen nidales metálicos suspendidos, imitando en su
+ordenamiento al que siguen los galpones de reproductores.
+Sitio Argentino de Producción Animal
+70 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+71
+Reproductoras pesadas con nidales comunitarios dobles, dispuestos en
+forma transversal al eje mayor del galpón. Modelo presentado para 4 animales por
+boca.
+Sitio Argentino de Producción Animal
+71 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+72
+CRIANZA FAMILIAR
+CUIDADOS QUE SE NECESITAN
+• Cría: es el período en el cual las aves necesitan una fuente de calor
+adicional. Está comprendido entre el momento del nacimiento y la 4º semana de
+vida o la 5º semana de vida en invierno.
+• Recría: es el período comprendido éntrela 5º o 6º semana y la 19º
+semana de vida. Es la etapa previa a la postura.
+• Postura: es el período de producción de huevos comprendida entre la
+20-22 semanas y la 80 semana de vida.
+• 2º ciclo de postura: es una alternativa posible de realizar si las aves
+han tenida buen rendimiento y estado sanitario en el primer ciclo de producción.
+Consiste en extender por ocho meses la producción de huevos luego de haber
+realizado un descanso llamado replume.
+El buen estado de las aves puede determinarse por el simple hecho de
+observarlas, las aves saludables se mostrarán:
+9 vivaces
+9 con el plumón seco
+9 con la mirada brillante
+EL CORTE DE PICOS
+A los 7 o 10 días de vida, se les cauterizará el pico, a fin de evitar que
+cuando sean adultas se peleen y lastimen. Es una maniobra fácil que puede
+realizarse en forma casera calentando al rojo sobre fuego directo, un alambre
+aplanado. De este modo se reduce el tamaño del pico y cauteriza al mismo tiempo
+para evitar que sangre. Hay que tener la precaución de retraer el maxilar inferior
+para que se corte el de arriba únicamente y quede con la conformación de una
+“cucharita”, lo cual les permitirá comer sin dificultades. En caso de ser necesario
+se retocará, procediendo del mismo modo, antes de que inicien las posturas de
+huevos.
+Sitio Argentino de Producción Animal
+72 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+73
+ETAPA DE RECRIA
+En esta etapa no necesitan temperatura adicional. Aunque siempre habrá
+que brindarles un ambiente templado con una temperatura de aproximadamente
+21ºC. El mejor indicador del estado de las pollitas será, observar la disposición de
+las aves, si se arrinconan y pían constantemente, es posible que tengan frío.
+Van a necesitar más espacio, por lo tanto hay que pensar en la
+construcción de un gallinero. Hay varias opciones. Aquí se les ofrece dos modelos
+prácticos: uno móvil y otro fijo. Este último descripto en bloque temático III.
+Gallinero móvil:
+Consta de una parte techada a dos aguas, para la cual pueden utilizarse
+restos de maderas p cartón grueso de embalaje, chapadur, terciado o machimbre,
+bien pintado para protegerlo de la lluvia y el sol. La parte no techada está cubierta
+con alambre tejido, allí se coloca el bebedero.
+En la parte techada se coloca el comedero y un estante en la parte superior
+que servirá de nido. En los momentos próximos a iniciarse la postura se le
+colocará paja fina y seca.
+Sitio Argentino de Producción Animal
+73 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+74
+Una escalera en la parte anterior facilitará el acceso al nido, ésta puede
+hacerse con tres escalones de palitos. La parte posterior puede abrirse para
+permitir sacar los huevos, los que se hallan a la altura de la mano, por la
+disposición del nido. El modelo que se presenta puede alojar hasta 8 pollas
+adultas, pero ampliando la parte no techada, entonces, se aumenta el número a
+10 pollas.
+Tiene además, la ventaja de poder colocarse directamente sobre la pastura
+o los caminitos de la huerta, y trasladarse fácilmente por sus ruedas, así se ahorra
+el tiempo y el trabajo de cortar diariamente el verdeo para las aves. Por otra parte,
+preparan el terreno, ya que tienen el hábito de escarbar la tierra y van
+incorporando materia fecal que servirá como fertilizante natural.
+De este modo si se rota el área destinada a cultivar la huerta por el lugar en
+que anteriormente estuvieron las aves, gran parte de las labores se verán
+facilitadas.
+CUANDO COLOCAR LOS NIDOS
+A partir de las últimas semanas de la etapa de recría, en la semana 18,
+deben colocarse los nidos para familiarizarse con ellos. En un principio se los deja
+vacíos, más adelante ya próximo al momento de la postura se les colocará paja
+seca o viruta. Los nidos pueden ser cajones de fruta o latas de galletitas que se
+destinan para tal fin o bien construirse especialmente. Las medidas indicadas son
+40 cm. de ancho por 40 cm. de profundidad. Siempre deben ubicarse en el sector
+techado y que tenga sombra u oscuridad en el gallinero.
+Sitio Argentino de Producción Animal
+74 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+75
+Realiza visitas a una explotación familiar y a un criadero, y luego realiza un
+informe teniendo en cuenta: Tamaño de la explotación, razas, alimentación,
+instalaciones, formas de comercialización.
+ALGUNOS CONSEJOS UTILES PARA LAS ETAPAS DE CRIA Y RECRIA
+• Los bebederos deben tener siempre agua fresca y potable
+• Mantener los comederos constantemente con alimento
+• Los bebederos y comederos deben estar a la altura del dorso de las
+aves
+• Colocar una rejilla en la parte superior para evitar accidentes (ataque
+de gatos u otros animales)
+• No tener aves de distintas edades en el mismo gallinero
+• Controlar la temperatura del ambiente
+• Eliminar lo antes posible las aves muertas, enterradas en un pozo
+con cal
+• Vacunar de acuerdo al plan sanitario
+• Llenar las planillas cada día.
+Sitio Argentino de Producción Animal
+75 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+76
+ETAPA DE PRODUCCIÓN DE HUEVOS
+A partir de las 22-24 semanas de edad (6 meses), las gallinas comienzan la
+postura de huevos. Con diez ponedoras se asegura media docena de huevos por
+día.
+CUANDO RECOGER LOS HUEVOS
+La mayor parte de los huevos son puestos entre las 8 de la mañana y las 12
+del mediodía. Sin embargo, algunas gallinas ponen más tarde. A fin de limpiarlos
+si es necesario y refrigerarlos lo antes posible en la heladera, conviene hacer 3
+recorridas diarias, una temprano a la mañana, otra luego del mediodía y una
+última a la tarde. De este modo se evitaren también roturas.
+PLANILLA DE POSTURA
+COMO CONTROLAR SI LAS AVES PONEN CORRECTAMENTE
+Las gallinas tienen una forma particular de poner huevos. No lo hacen
+regularmente uno por día sino en una manera que es propia para cada una. Por
+ejemplo algunas aves ponen durante tres o cuatro días seguidos y saltean uno o
+Sitio Argentino de Producción Animal
+76 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+77
+dos días sin poner, por eso los porcentajes de postura, que se obtienen, son
+variables. Hay que llevar un control diario del número de huevos y anotarlo en una
+planilla.
+IMPORTANCIA DE LA LUZ EN LA POSTURA DE HUEVOS
+En forma natural, las aves generalmente comienzan a poner huevos cuando
+los días van siendo naturalmente más largos, lo cual ocurre a partir del 21 de junio
+y se hace más evidente en la primavera. Es una forma de asegurarse buen tiempo
+y alimento para cuando hayan nacido las crías. Pero como en las aves domésticas
+la producción de huevos tiene como fin la alimentación de los seres humanos y no
+tan sólo la reproducción de la especie, el hombre le provee luz artificial
+suplementaria en los días cortos de otoño e invierno para crear una primavera
+artificial a las gallinas y de este modo mantener constante durante todo el año la
+producción de huevos.
+QUE TIPO DE LUZ DEBEN RECIBIR
+No es necesario que sea una luz muy intensa, lo que es indispensable es la
+cantidad de horas totales por día. Es suficiente una intensidad de luz que permita
+que las aves vean la comida.
+Pueden usarse lámparas eléctricas de 25 o 40 vatios, si se les coloca
+pantalla se aumenta el rendimiento de las mismas. Otra alternativa es usar
+candiles a kerosén. En este caso bastará con calcular el tiempo que tarda en
+consumirse el combustible para que el mismo se apague solo. Al cubrir la cantidad
+de horas de luz totales requeridas en esa fecha.
+Se han ideado dos tipos de planes de luz de acuerdo a la fecha de
+nacimiento de las pollas.
+Plan de luces para las pollas nacidas a partir del 21 de septiembre:
+Se realiza la cría y la recría sin dar luz artificial, luego a partir de las 20 – 22
+semanas de vida se incrementará gradualmente 15 minutos por semana hasta
+lograr un máximo de 15 horas de luz totales. A partir de ese momento se
+mantendrá constante esta cantidad de horas de luz durante toda la postura.
+La luz se encenderá a partir del momento en que el gallinero quede
+sombrío, lo cual ocurre a partir de las 18 horas aproximadamente en esta zona en
+los días de invierno, y apagarla cuando sumadas a las horas de luz del día, se
+hayan completado las 15 horas.
+Sitio Argentino de Producción Animal
+77 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+78
+Plan de luces para las pollas nacidas
+a partir del 21 de marzo
+Estas aves van a encontrar
+luz decreciente por poco tiempo, la
+mayor parte de su desarrollo van a
+realizarlo con luz natural en
+aumento, lo cual sucede a partir del
+21 de junio. Para evitar que
+comiencen a poner huevos antes de
+lo previsto, debe implementarse un
+plan de luces desde el momento del
+nacimiento.
+COMO PROCEDER
+1. Al recibir las pollitas se
+les dará 24 horas de luz durante los
+primeros 15 días de vida.
+2. Luego, teniendo como
+guía la tabla de horas de luz natural,
+se suma la cantidad de horas
+necesarias para obtener diariamente
+12 horas de luz hasta las 18
+semanas de vida.
+3. La semana 18 de vida,
+transcurre con luz natural.
+4. Se adicionan 15
+minutos por semana desde la
+semana 19 hasta completar 15
+horas de luz.
+5. Mantener constantes
+15 horas de luz diaria durante toda
+la postura.
+Sitio Argentino de Producción Animal
+78 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+79
+CRITERIOS PARA REGULAR LA LUZ ARTIFICIAL
+• En cría y recría: luz en disminución o en forma constante.
+• En postura: luz en aumento.
+• La cantidad de horas diarias que reciben en postura no debe ser
+menor a 15.
+COMO DIFERENCIAR UNA POLLA QUE NO PONE HUEVOS
+Las principales diferencias entre una polla que pone huevos y otra que no lo
+hace son:
+BUENA PONEDORA MALA PONEDORA
+CRESTA GRANDE Y ROJA CRESTA PEQUEÑA, PÁLIDA Y RUGOSA
+CLOACA GRANDE Y HÚMEDA CLOACA SECA Y PEQUEÑA
+HUESOS DE LA CADERA CON UNA
+SEPARACIÓN ENTRE SÍ DE 3 A 4
+DEDOS
+HUESOS DE LA CADERA DUROS, CON
+UNA SEPARACIÓN ENTRE SÍ MENOS A
+3 DEDOS
+PICO CORTO Y BLANCO PICO LARGO Y AMARRILLO
+PATAS BLANCAS PATAS AMARILLA
+ABDOMEN PROMINENTE Y BLANDO ABDOMEN PEQUEÑO Y DURO
+En la foto puede observarse un ave que está poniendo correctamente y
+otra que no. Observar el tipo de cresta en ambos casos.
+Sitio Argentino de Producción Animal
+79 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+80
+ACTIVIDAD
+En la foto anterior puedes observar un ave que es ponedora y otro que no lo es.
+Podrías indicar ¿cuál es y por qué?
+Averigua:
+1- ¿A qué edad empiezan a poner y hasta cuando ponen?
+2- ¿Es importante la luz en la postura de los huevos?
+3- ¿Qué es el Plan de luz? ¿Para qué sirve?
+ALIMENTACIÓN DE LAS POLLAS DE POSTURA
+Para que las “pollas de postura” puedan crecer en forma saludable, logren
+el peso justo y pongan 260 huevos en 80 semanas de postura, deben realizarse
+los cuidados necesarios y una buena alimentación.
+En las etapas de cría y recría es cuanto más rigurosos se debe ser con el
+alimento ya las aves tienen muchos requerimientos de nutrientes que los granos
+simples (maíz, trigo, soja) por si solos no pueden brindarles. Tampoco se logra
+una alimentación equilibrada si solo les agrega a ellos pasturas únicamente.
+Es imprescindible que se les brinde una relación balanceada o equilibrada
+con todos los nutrientes, la cual puede ser comercial o preparada especialmente,
+como los ejemplos que se dan más abajo. En caso de adquirir el alimento
+comercial, puede hacerse en bolsas de 25 Kg. o fraccionando en bolsas de 2 y 5
+kg, siendo mucho más económico la primera opción por lo que podría ser una
+alternativa que se pusieran de acuerdo entre dos a tres vecinos o bien ser
+adquiridos por uno solo, ya que su valor no es excesivo. En cría y recría el
+alimento se da a voluntad, los comederos deben estar permanentemente llenos
+tanto en el día como en la noche.
+Más adelante, ya en posturas son menos exigentes, la relación de alimento
+es medida, y puede completarse con restos de comida y verdeos.
+A continuación se presentan dos tablas que servirán como guía para una
+correcta alimentación.
+ETAPAS TIPO DE ALIMENTO CANTIDAD
+Cría (del nacimiento a los
+45 días)
+Alimento balanceado, tipo
+cría o iniciador, con el 18%
+de proteínas
+A voluntad. consumo
+esperado: 2kg por ave
+Recría (de los 45 días a los
+5 meses)
+Alimento balanceado, tipo
+recría, con el 17 % de
+proteínas
+A voluntad, consumo
+esperado: 7kg. por ave
+Sitio Argentino de Producción Animal
+80 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+81
+Postura (a partir de los 5
+meses)
+Alimento balanceado, tipo
+postura únicamente otras
+posibilidades:
+• dar:
+-100 g de alimento
+balanceado
+-30 g de maíz quebrado
+verdeo
+• dar:
+-100 g de alimento
+balanceado
+- verdeo
+-restos de comida
+Controlar la cantidad de
+alimento, dar: 120 g de
+alimento por ave por día
+FÓRMULAS SENCILLAS PARA ELABORAR ALIMENTOS BALANCEADOS
+Utilizando cinco materias primas, se pueden elaborar alimentos para las
+distintas etapas de la vida de las pollas de postura.
+MATERIAS PRIMAS CRIA RECRIA POSTURA
+MAIZ MOLIDO (1) 70 Kg. 78Kg 72 Kg.
+SOJA DESACTIVADA
+(2)
+27 Kg. 20 Kg. 20 Kg.
+CENIZA DE HUESO (3) 3 Kg. 2 Kg. 2 Kg.
+CONCHILLA • - 6 Kg.
+SAL DE COCINA 0,200 Kg. 0,200 Kg. 0,200 Kg.
+(1) El maíz es el mejor grano, en caso de disponer de otros puede ser
+reemplazado por trigo, sorgo o cebada.
+(2) La soja debe ser desactivada por calor para inhibir la acción de un
+factor que la hace indigestible para las aves. Esto se logra fácilmente hirviendo la
+soja durante 15 minutos.
+Sitio Argentino de Producción Animal
+81 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+82
+Hay que tener precaución de no incorporarla húmeda al resto de los
+ingredientes, pues fermenta.
+(3) La ceniza de hueso aporta el calcio necesario para mantener las
+aves saludables y especialmente durante la postura de huevos, cuando los
+requerimientos son mayores y debe complementarse con ostras calcinadas
+(llamadas conchilla) para evitar que se descalcifiquen. Se prepara en forma
+sencilla, haciendo una pila de huesos de vaca y quemándola. Luego se procede a
+moler bien las cenizas.
+ALMACENAMIENTO DEL ALIMENTO
+El alimento debe almacenarse en un lugar seco y ventilado, teniendo la
+precaución de colocarlo sobre elevado del suelo, usando para ello una base de
+madera por ejemplo. La presencia de moho verde indica que el alimento tiene
+hongos, los cuales producen toxinas muy perjudiciales para las aves. Por eso los
+granos que no han sido bien almacenados y presentan éstas características no
+deben darse como alimento.
+RESTOS DE COMIDA QUE PUEDEN DARSE A LAS AVES
+La cáscara de papas hervidas y si se les da aun calientes son nutritivas y
+aportan energía, sobre todo en los días fríos. También son beneficiosas las
+semillas en agua tibia o leche ácida. Las hojas de vegetales como remolacha,
+acelga, zanahoria son fuentes muy nutritivas pero tienen el inconveniente de dar
+sabor a los huevos. También pueden darse lombrices que se saquen de la tierra
+de la huerta.
+EL AGUA PARA CONSUMO DE LAS AVES
+El agua que se suministrará a las aves será fresca y potable. En caso de no
+disponer de ella, se procederá a colocar tres gotitas de lavandina por litro de agua,
+mezclar bien y esperar media hora antes de llenar los bebederos.
+Se deberá renovar diariamente teniendo la precaución de enjuagar bien los
+bebederos previamente y tirar lo que hubiere del día anterior. Las aves adultas
+consumen 2 a 3 litros de agua cada 10 gallinas por día.
+Recordar que el consumo está relacionado a la temperatura externa del
+ambiente, por lo que en el verano o época de calor será mucho mayor al habitual.
+A continuación hay una tabla que servirá de guía para calcular el consumo de
+agua. No obstante se recomienda siempre recorrer el gallinero por lo menos tres
+veces al día, para verificar que los bebederos no se hayan vaciado.
+Sitio Argentino de Producción Animal
+82 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+83
+CONSUMO APROXIMADO DE AGUA CADA 19 AVES DE ACUERDO A LA
+TEMPERATURA DEL AMBIENTE
+SEMANAS DE EDAD CONSUMO DE AGUA
+A 20 ºC A 32 ºC
+1 200 ML 300 ML
+4 600 ML 1 L
+8 900 ML 1,5 L
+ADULTAS 2 L 3 L
+MUDA FORZADA O REPLUME
+Al llegar a las 68 – 70 semanas de vida la postura de huevos ha comenzado
+a disminuir y algunas gallinas por sí solas han comenzado a perder plumas en
+forma natural. Para prolongar la producción de huevos un poco más, puede
+recurrirse a una alternativa que se denomina “MUDA FORZADA O REPLUME”.
+Consiste en provocar un cese de la postura de huevos a todas las gallinas
+al mismo tiempo, lo cual se logra por medio de maniobras que provocan stress en
+las aves. El mismo se manifiesta con pérdida de plumas y cese de la postura. El
+segundo ciclo de postura que van a tener, será más corto que el primero, durará
+aproximadamente ocho meses, pero los huevos serán más grandes. La postura
+esperada es de 110 huevos por ave, en este segundo ciclo.
+¿A TODAS LAS GALLINAS SE LES HARA EL REPLUME?
+No, solamente a aquellas que no hayan comenzado a mudar las plumas en
+forma natural y lleguen al fin del primer ciclo, con buen peso y estado de salud.
+MÉTODO PARA REALIZAR EL REPLUME
+1) Suprimir la luz artificial y todo el alimento, mantener el
+abastecimiento normal de agua durante tres días.
+2) Mantener tres días sin agua y sin comida. Si es verano no dejar más
+de dos días sin agua a los animales.
+3) Los días 4º, 5º, 6º, 7º, 8º, 9º, 10º dar agua a discreción y sin comida.
+Sitio Argentino de Producción Animal
+83 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+84
+4) Los días 11º y 12º dar agua a discreción y alimento recría a
+discreción.
+5) Cuando reinicien la postura de huevos, pasar a alimento tipo postura
+y dar horas de luz artificial de igual manera que lo realizado en el primer ciclo de
+producción.
+EL HUEVO PARA CONSUMO
+SECUENCIA DE LA FORMACIÓN DEL HUEVO EN EL OVIDUCTO.
+Sitio Argentino de Producción Animal
+84 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+85
+COMPOSICION NUTRICIONAL DE LOS HUEVOS PARA CONSUMO
+Un huevo fresco de 58 gramos de peso (tamaño medio), cubre los
+requerimientos nutricionales diarios de una persona adulta que se detallan a
+continuación:
+PROTEINAS 8%
+CALORIAS 3%
+MINERALES
+CALCIO 3%
+POTASIO 9%
+FOSFORO 13%
+VITAMINAS
+A 10%
+B1 8%
+B2 10%
+NIACINA 4 %
+D 12%
+ALMACENAMIENTO DE LOS HUEVOS DE CONSUMO
+Los huevos se recolectarán 3 o 4 veces por día y se mantendrán
+refrigerados en heladera hasta su consumo.
+Sitio Argentino de Producción Animal
+85 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+86
+Con las frecuentes recolecciones, se evita que se rompan o ensucien
+demasiado, ya que la cáscara no es impermeable, tiene poros que permiten el
+ingreso de bacterias contenidas en el nido o en la materia fecal.
+COMO PROCEDER CON LOS HUEVOS MUY SUCIOS
+Nunca es conveniente lavarlos sumergiéndolos en agua, lo más indicado es
+retirar los restos de materia fecal con una lija fina que se destine para éste fin
+únicamente. Y luego colocarlos rápidamente en heladera. Se los debe almacenar
+hasta su consumo a temperatura de 10º a 15º de no ser posible hacerlo en
+heladera. Como su valor alimenticio, sabor y aspecto van disminuyendo en la
+medida que aumentan los días de almacenamiento, es mejor consumirlos o
+comercializarlos dentro de la semana de puestos.
+CAMBIOS EN LA CALIDAD INTERNA DE LOS HUEVOS DEBIDO AL TIEMPO
+DE ALMACENAMIENTO
+CALIDAD: MUY BUENA.
+TIEMPO DE ALMACENAMIENTO: 0-5 DIAS.
+EL HUEVO TIENE BORDES NETOS.
+NO SE EXPANDE.
+POSEE ABUNDANTE CLARA DE CONSISTENCIA ESPESA.
+YEMA FIRME Y ELEVADA.
+CALIDAD: ACEPTABLE.
+TIEMPO DE ALMACENAMIENTO: 5-8 DIAS.
+EL HUEVO SE EXPANDE MODERADAMENTE.
+HAY MENOR CANTIDAD DECLARA ESPESA.
+YEMA FIRME Y ELEVADA.
+CALIDAD: MALA.
+TIEMPO DE ALMACENAMIENTO: 9-15 DIAS. EL HUEVO SE EXPANDE
+AMPLIAMENTE.
+LA CLARA ESPESA HA DESAPARECIDO.
+LA YEMA ESTA APLANADA Y CON POCA CONSISTENCIA.
+Sitio Argentino de Producción Animal
+86 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+87
+COMO PROCEDER LUEGO DE FINALIZAR LA PRODUCCIÓN
+Al finalizar su vida como ponedoras, las gallinas pueden aprovecharse para
+carne.
+Llegó el momento de prepararse para:
+9 Recibir un nuevo plantel. Para ello se retira toda la cama de viruta o
+paja de gallinero y nidos. Se llevará a un lugar retirado donde se dejará que se
+seque, luego de lo cual puede incorporarse para fertilizar la tierra de la huerta.
+9 Reparar si hubiera alguna rotura en el gallinero e implementos.
+9 Desinfectar todas las paredes, pisos y rincones con agua con
+lavandina o creolina.
+9 Pintar con cal las paredes interiores y exteriores.
+ALGUNAS RECOMENDACIONES PRÁCTICAS PARA QUE LAS POLLAS SEAN
+BUENAS Y SALUDABLES PONEDORAS
+• No tener juntas aves de distintas edades.
+• La criadora artificial reemplaza perfectamente a las gallinas “cluecas”.
+• No es necesario tener gallo para que las aves pongan huevos.
+• Mantener alejados perros, gatos y otros animales carnívoros del gallinero.
+• La luz es indispensable para tener una postura regular de huevos.
+• Un plan de vacunación bien realizado es la mejor prevención de
+enfermedades.
+• Las aves muertas deben retirarse rápidamente y enterrarlas en un pozo con
+cal lejos del gallinero. Nunca darse como alimento a otros animales.
+• Los cerdos deben tenerse en un lugar lo mas alejado posible de las aves.
+• La cría total en libertad perjudica el aprovechamiento de los alimentos y
+calidad de los huevos de consumo.
+EL HUEVO PARA CONSUMO
+Los óvulos se forman en el ovario y en el comienzo de su desarrollo
+(ovocitos) tienen un tamaño microscópico.
+El ovario con los óvulos presenta el aspecto de un racimo de uvas.
+A medida que el óvulo se desarrolla, el saco que lo contiene (ovisaco) se
+agranda, y cuando aquél está maduro se rasga, dejándolo en libertad y
+permitiendo que penetre en el oviducto, cuya primera porción en forma de embudo
+asciende para recibirlo.
+Los huevos con dos yemas casi siempre se producen cuando caen dos
+óvulos al mismo tiempo al oviducto.
+Sitio Argentino de Producción Animal
+87 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+88
+El oviducto es de forma tubular y en él se diferencian varias regiones. La
+fecundación de los óvulos por los espermatozoides se produce en su parte
+superior, antes que las primeras porciones de albúmina los rodeen.
+En el óvulo ya fecundado, se encuentra la vesícula germinativa (galladura).
+En virtud de la acción de los músculos del oviducto, la yema baja y
+comienza a rodearse de una capa de albúmina densa, producida por la irritación
+que causa al pasar.
+Se forman las dos chalazas, cuyo aspecto de hilos retorcidos se debe al
+movimiento de rotación de la yema en su avance por el oviducto.
+A medida que avanza, nuevas capas de albúmina van rodeando y así llega
+a la parte inferior del mismo, donde se le agregan las dos membranas.
+En el útero se forma la cáscara, depositándose sobre ella el barniz o capa
+gelatinosa y el huevo formado y listo para ser puesto, sale directamente al exterior.
+La cáscara es la envoltura exterior del huevo y protege su contenido.
+Es poroso y permeable, lo que permite la evaporación de la parte acuosa
+del mismo y el intercambio gaseoso.
+Los huevos por lo general son de forma ovalada, pero los hay también
+alargados, redondeados, arriñonados, etc.
+La coloración de la cáscara es distinta según las razas, puede ser blanca,
+castaño claro, oscuro, amarillento, azulada, verdoso, etc.
+En los de color castaño, la evaporación es más lenta, lo que tiene mucha
+importancia si se trata de huevos para exportar o almacenar en cámaras
+frigoríficas.
+La cáscara es de naturaleza calcárea y esta formada por carbonato de
+calcio (94%), proteína (4%), carbonato de magnesio y fosfatos. Está cubierta por
+una capa gelatinosa llamada barniz que le da un aspecto grasoso.
+A veces los huevos carecen de cáscara debido a que pasan rápidamente
+por el útero, por una anormalidad funcional de las glándulas de calcáreo, o porque
+las gallinas no encuentran en los alimentos suficiente cantidad de sustancias
+calcáreas para formarla.
+Las membranas testáceas se encuentran inmediatamente de la cáscara, la
+exterior pegada a la misma y la interior conteniendo la albúmina.
+Ambas se separan en la parte obtusa del huevo, dejando un espacio
+denominado cámara de aire.
+El tamaño de la cámara de aire aumenta a medida que el huevo envejece, y
+pierde peso por la evaporación.
+La clara envuelve a la yema y la protege de los golpes, manteniéndola en
+suspensión. En ella se notan tres capas de albúmina bien diferenciadas, en razón
+de su mayor o menor consistencia.
+Las chalazas se encuentran en la clara, son espesamientos de albúmina en
+forma de espiral. Las chalazas van desde los polos del huevo a la yema, a la que
+mantienen en la parte media del mismo, permitiendo ciertos movimientos durante
+el desarrollo del embrión.
+Sitio Argentino de Producción Animal
+88 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+89
+Está muy arraigada la creencia errónea de que la chalaza es la galladura.
+La clara coagula a 60 c.
+La yema se encuentra normalmente en la parte media del huevo. Su forma
+es redondeada y su color varía del amarillo claro al rojizo.
+La forman el vítelo blanco y amarillos envueltos por la membrana vitelina
+que la separa de la clara.
+En la yema, y siempre en la parte superior, se encuentra la vesícula
+germinativa (galladura).
+MANEJO DE REPRODUCTORES
+Sitio Argentino de Producción Animal
+89 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+90
+BLOQUE TEMÁTICO VI
+MANEJO DE REPRODUCTORES.
+Las razas Doble Propósito (huevos y carne) utilizadas como reproductoras
+han sido abordadas en el Bloque Temático II.
+En cuanto a Instalaciones, Manejo, Alimentación y Sanidad es similar a lo
+descripto en la Cría de pollos parrilleros, camperos, Ponedoras INTA (Bloques
+Temáticos III- IV- V).
+INCUBACIÓN
+EL HUEVO PARA INCUBAR
+Sitio Argentino de Producción Animal
+90 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+91
+REPRODUCCIÓN E INCUBACIÓN
+PROCESO DE FECUNDACIÓN
+Recordar que las aves tiene una reproducción ovípara, con fecundación
+interna y desarrollo externo.
+Un huevo fértil es un huevo que tiene capacidad de ser fecundado y por
+ende de desarrollar un embrión en el interior.
+El desarrollo del embrión se logra a través del proceso denominado
+incubación que abarca dos aspectos que son complementarios.
+a.- La incubación de los huevos propiamente dicha.
+b.- El cuidado de las crías.
+La incubación en las aves en forma natural se inicia luego de la puesta de
+un número determinado de huevos, los que se acumulan en el nidal.
+Esto provoca la interrupción de la puesta y el proceso de “la echada o
+cloquez” por la cual las hembras y en algunas especies de aves, los machos
+también, inician la incubación, cubriendo los huevos con su cuerpo.
+Durante este tiempo modifican tanto su aspecto como su comportamiento,
+reduciendo la ingesta, permaneciendo tiempos prolongados en el nido,
+manifestando decoloración de sus crestas, ahuecado del plumaje, adoptando
+actitudes de defensa del nido, emisión de sonidos especiales y aumento de la
+irrigación y desarrollo de mayor vascularización en las zonas incubatrices.
+Esta cobertura suministra a los huevos las condiciones de temperatura,
+humedad, y el volteo que necesitan para que el embrión llegue a desarrollarse.
+El volteo que realizan lo hacen mediante movimientos con las patas y con el
+pico modificando la ubicación y presentación de los huevos en el nido. Este volteo
+evita que el embrión se precipite, y sufra adherencias que compliquen su normal
+desarrollo.
+Por el intercambio gaseoso sumado a los cambios logrados por efecto de la
+temperatura y humedad se logrará que el embrión al cabo de 21 días nazca. Por lo
+general en forma natural, el volteo será interrumpido por el ave que se encuentra
+incubando, dos días antes de la eclosión.
+Desde que se ha conseguido dominar el proceso de incubación artificial, la
+incubación natural, por razones económicas ha dejado de ser empleada en la
+avicultura comercial.
+La tendencia actual es que mediante la selección la cloquez se ha
+eliminado de los planteles comerciales de alta postura, habiéndose logrado este
+objetivo en las líneas livianas, permaneciendo aún en 10 a un 14% de las
+poblaciones de ponedoras semi pesadas y de reproductoras pesadas.
+Sitio Argentino de Producción Animal
+91 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+92
+ETAPAS DE DESARROLLO DEL EMBRION
+Sitio Argentino de Producción Animal
+92 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+93
+El proceso se inicia con la fecundación del embrión.
+1.- Lugar: Infundíbulum
+2.-Tiempo: 24 horas ante oviposición 3 a 4 horas post ovulación fusión de
+pro núcleos
+3.-Debemos recordar que no existen multi fecundaciones, sólo un
+espermatozoide por cada óvulo. (No existe la posibilidad del desarrollo de
+mellizos)
+4.-Hay reabsorción de los zooides sobrantes
+5.-Sobre el desarrollo posterior del embrión inciden factores propios del
+animal (genéticos y edad) y de manejo (almacenaje, incubadora, etc.)
+CARACTERÍSTICAS Y MANEJO DEL HUEVO INCUBABLE.
+El manejo de reproductores tiene similitudes con las etapas, instalaciones y
+condiciones de producción de ponedoras semipesadas.
+Debemos recordar que la relación de machos /hembras es promedio de un
+10%.
+El manejo se realiza en galpones a piso, provistos de nidales metálicos de
+ubicación transversal al eje del galpón, cada uno provisto con cama limpia y
+desinfectada para dar las mejores condiciones de limpieza al huevo que se va
+incubar.
+Recuerda que
+Todo huevo incubable debe ser necesariamente un huevo fértil, pero no
+necesariamente todo huevo fértil es un huevo incubable.
+Esto es debido a que para que el huevo fértil esté en condiciones de ser
+incubado deberá reunir las siguientes condiciones:
+1.-Haber sido puesto en un nidal, con cama debidamente acondicionada
+(desinfectada, renovada y limpia).
+2.-Estar limpio externamente; carente de heces secas adheridas y con su
+cutícula sana.
+3.-Haber sido desinfectado en un período comprendido entre las dos (2)
+horas después de puesto. Esto debe ser así para evitar que haya completado el
+fenómeno de la formación integral de la cámara de aire y la consolidación
+definitiva de la cutícula. Ambas en ese período “ventana” de las dos horas carecen
+de la propiedad de actuar como barreras selectivas e impedir el ingreso de la
+sustancia desinfectante elegida. Esto obligará a una frecuencia de recolección no
+menor de 5 veces diarias a partir de la aparición de la puesta.
+Sitio Argentino de Producción Animal
+93 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+94
+4.- No presentar formas extrañas, anomalías o lesiones en la cáscara. Con
+esto se refiere a: cinturas, huevos piriformes, esféricos, con rajaduras o cascados,
+concreciones, deposiciones de grumos o colores que no son los de la línea.
+5.- Haber sido correctamente acondicionado en un recipiente o contenedor
+adecuado.
+6.- No tener un almacenamiento superior a 7 días en condiciones
+adecuadas.
+Estas condiciones implican hasta los 7 días una temperatura entre los 17 a
+19°C y una Humedad Relativa del 60% al 70%. En caso de demorar el tiempo de
+carga de la incubadora por más de 7 días (no pasar de los 14) la temperatura
+deberá ser la misma o menor, pero la HR deberá ser aumentada para evitar la
+deshidratación de las estructuras internas.
+Esta condición deberá ser cuidada porque es necesario que los embriones
+se mantengan por debajo del denominado “0 fisiológico”, valor establecido a los
+23.9°C.
+Este punto corresponde a la temperatura por arriba de la cual el huevo
+inicia un desarrollo embrionario prematuro, pero parcial, conocido como fenómeno
+de preincubación.
+De esta forma un huevo preincubado corre el riesgo de ver interrumpido su
+desarrollo y vuelto a iniciar, lo que produce normalmente fenómenos de
+debilitamiento o malformaciones embrionarias que terminan con el fracaso de su
+desarrollo incubatorio.
+Por lo expuesto es muy importante asegurar que el almacenamiento se
+realice con temperaturas por debajo de este valor, para no correr riesgos.
+El huevo antes de ingresar al interior de la cámara deberá ser “temperado”,
+este proceso significa el “precalentar” en el lugar del almacenamiento a los huevos
+que ingresarán a la incubadora. Esto se hace minutos antes del ingreso, ya que se
+evita la preincubación prematura.
+El objetivo de este precalentado es evitar el ingreso de los huevos con
+temperaturas inferiores a las de la cámara, y así evitar la condensación sobre la
+cáscara de la humedad interna, con esto se eliminarán la posibilidad de problemas
+por exceso de humedad en la cutícula.
+EL PROCESO INCUBATORIO – PARÁMETROS.
+Para el desarrollo de la incubación es necesario que se cumplan en la
+cámara de incubación un conjunto de parámetros. Estos deberán permanecer
+constantes, aunque se sabe que durante el proceso natural existen variaciones a
+lo largo del mismo.
+Sitio Argentino de Producción Animal
+94 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+95
+Estos valores son:
+Parámetros Valor usado Rango
+Temperatura Del día 0 al 19= 37,7ºC
+Del día 20 a 21= 36,7ºC
+37,5º C – 37,8º C
+36,1º C a 37,2º
+Humedad 60% 50% - 68%
+Volteo Uno por hora en los
+sistemas automáticos
+Puede reducirse de 8 a
+10 diarios cuando este es
+manual
+Temperatura (otra forma
+de presentación es en
+grados Fahrenheit)
+99,6ºF (99,5 – 99,75ºF)
+(97,0 – 99,0 º F)
+MODELOS DE INCUBADORA
+Para la cría casera o familiar
+Sitio Argentino de Producción Animal
+95 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+96
+Modelo para cría industrial
+Sitio Argentino de Producción Animal
+96 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+97
+SALUD Y BIENESTAR ANIMAL
+La sanidad es el cuarto componente del encuadre zootécnico de cualquier
+producción.
+Sin un correcto manejo de este punto, los inconvenientes en el sistema se
+multiplicarán y se producirán pérdidas.
+Es necesario considerar un conjunto de pautas generales para abordar el
+tema de la sanidad:
+• Existe una relación directa entre higiene y rendimiento productivo.
+• Buena salud implica buena producción.
+• El objetivo con respecto a sanidad en la producción es prevenir y no
+curar.
+• Debe existir un plan de bio-seguridad que garantice un control y
+atención sistemática de la producción.
+PLAN DE BIOSEGURIDAD
+El plan de bio-seguridad de un establecimiento es la principal garantía de la
+preservación sanitaria del mismo. Deberá tener un enfoque integral y atender a los
+mínimos detalles en cuanto a su cumplimiento y seguimiento.
+La carencia de un plan de estas características se observa en la necesidad
+constante por parte del productor de aplicar acciones terapéuticas “se pasa
+curando” en lugar de producir sin complicaciones.
+Un plan de bio-seguridad está estrechamente vinculado al cumplimiento de
+los principios de la crianza natural, ya que se debe recordar que este sistema evita
+el uso de sustancias y medicamentos que pueden incidir sobre la calidad de los
+productos y en su inocuidad.
+Recuerda que...
+Mas vale vacunar que lamentar.
+ENFERMEDADES DE LAS AVES
+Podemos clasificarlas de la siguiente manera:
+A- ENFERMEDADES INFECCIOSAS:
+• Virales.
+Sitio Argentino de Producción Animal
+97 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+98
+Newcastle (Morriña).
+Gumboro.
+Viruela aviar (bubas).
+• Bacterianas.
+Pullorosis.
+Coriza aviar.
+Salmonellosis.
+• Parasitarias.
+Ascaris (lombrices)
+Cabeza negra.
+Coccidiosis.
+Sarna.
+Piojillo.
+• Micóticas.
+B- ENFERMEDADES DEL APARATO CARDIOVASCULAR:
+• Ascitis.
+C- ENFERMEDADES NUTRICIONALES.
+• Avitaminosis
+• Canibalismo
+COCCIDIOSIS:
+Causada por un protozoario, afecta el intestino delgado de los pollos de 3 a
+5 semanas de edad.
+Dentro de los principales síntomas las aves presentan diarrea
+sanguinolenta, tienen un aspecto como si se fueran encogiendo. Plumaje erizado,
+comen poco, la cresta y las papadas se tornan pálidas.
+Los síntomas son semejantes en las infecciones en intestino como en el
+ataque a los ciegos.
+Como en toda enfermedad es conveniente realizar la prevención, en este
+caso se debe dar un buen manejo de las camas, evitar que estén húmedas,
+aplicar sulfas de acuerdo a indicación de profesional veterinario.
+Sitio Argentino de Producción Animal
+98 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+99
+Para tratamiento curativo aplicar sulfas de reconocida eficacia en el
+mercado, y de la misma manera que en la prevención contar en todos los casos
+con asesoramiento profesional.
+PIOJOS DE LAS AVES- (PIOJILLO):
+Existen cerca de 50 variedades de piojos que afectan a las aves. En las
+granjas, estos piojos son una plaga molesta ya que además de atacar a las aves
+de corral, también llegan a morder a la gente que trabaja con ellos.
+Los piojos que atacan a palomas y gorriones pueden hallar el modo de
+entrar en casa.
+Si bien estos parásitos son incapaces de vivir en el humano, se ha
+reportado que han mordido a gente, sin consecuencias mayores que una leve
+irritación localizada.
+Como todos los piojos, los piojos de las aves deben permanecer muy cerca
+de su anfitrión para sobrevivir.
+Es así que casi siempre se encuentran en los nidos de las aves.
+Los piojos que se alimentan de la sangre y otros fluidos ocasionan que las
+aves se vuelvan inquietas e irritadas. Esto afecta en la ingestión y digestión de los
+alimentos, producción de huevos y crecimiento.
+Las aves jóvenes son las más afectadas.
+Los piojos tienden a ser más abundantes, en condiciones de confinamiento
+superpoblado y además por falta de higiene.
+Para su control se espolvorean directamente las aves y se desinfecta
+instalaciones sobre todo nidales.
+Sitio Argentino de Producción Animal
+99 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+100
+ZOONOSIS
+Sitio Argentino de Producción Animal
+100 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+101
+ACTIVIDAD
+Investigamos
+1- ¿Cuáles son los problemas sanitarios más importantes del entorno avícola de la
+escuela?
+2- ¿Y cuáles son los problemas sanitarios más importantes de las aves de la
+zona?
+3- Diseñe un calendario sanitario para un emprendimiento familiar de gallinas.
+Sitio Argentino de Producción Animal
+101 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+102
+AUTOEVALUACIÓN
+Responda el siguiente cuestionario:
+1) ¿Cuáles son las instalaciones para la producción de huevos?
+2) Indica las recomendaciones para el manejo de ponedoras.
+3) Diseñe o complete una planilla de postura. (INTA).
+4) Realice el cálculo de % de postura.
+5) Indica cuales son los componentes de los alimentos (principios).
+6) ¿Qué es el huevo de dos yemas?
+7) Indica el peso normal de un huevo.
+8) ¿Qué es la incubación? ¿Cuál es la duración? Indica tipos de incubación.
+9) Indica los parámetros de incubación .T-H-Volteo.
+GLOSARIO:
+Postura Estrés
+Sexado Muda forzada
+Nidal Replume
+Despique Percha
+Galladura Albúmina
+Chalaza Cámara de aire
+Barniz Clara
+Membranas testáceas Yema
+Clueca Canibalismo
+Piojillo Coccidiosis
+Sitio Argentino de Producción Animal
+102 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+103
+RECETAS DE COCINA:
+GALLINA A LA CACEROLA:
+Ingredientes:
+• 1 gallina
+• 150 gr. jamón cocido
+• 1 cebolla.
+• 3 dientes de ajo
+• 1 vaso de vino blanco
+• Harina c/ necesaria.
+• 1 cucharada de mostaza
+• Perejil, laurel a gusto.
+• 250 gr. Manteca
+• Sal, pimentón dulce y pimienta a gusto.
+Preparación.
+Cortar la gallina en trozos y colocarlos en una cazuela, con la manteca y
+rehogar. Añadir el jamón cortado en trocitos, la cebolla picada y el perejil también
+picado.
+Cuando comience a dorar la cebolla agregar una cucharada bien colmada
+de harina y añadir sobre esto el vino blanco y un tazón de caldo de gallina,
+cubriendo bien los trozos de la carne. Salpimentar.
+Agregar una hoja de laurel y un poco de pimentón dulce. Dejar cocer hasta
+que los trozos de la gallina estén tiernos.
+Servir caliente en una fuente y cubrir con la salsa. Acompañar con trocitos
+de pan tostado y papas fritas.
+Sitio Argentino de Producción Animal
+103 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+104
+TORTILLA DE PAPAS
+Ingredientes
+• ½ kg papas
+• 4 huevos
+• 1 taza de aceite
+• 1 cebolla en rodajas
+• 1 morrón en tiritas.
+• 1 tomate
+• Perejil picado.
+• Sal y pimienta a gusto.
+Preparación.
+Pelar las papas y cortarlas en rodajas no muy finas. Poner el aceite en la
+sartén, calentar y freír las papas. Una vez a punto retirarlas, escurriéndoles el
+aceite.
+En la misma sartén cocinar las cebollas, ajíes, tomate picado; condimentar
+con sal y pimienta, agregarle el perejil picado y las papas.
+Aparte batir los huevos. Verter sobre la preparación anterior, revolviendo
+con un tenedor. Dejarla dorar de un lado, darla vuelta con la ayuda de una tapa y
+dorar del otro lado. Acompañar con milanesa de pollo.
+Sitio Argentino de Producción Animal
+104 de 105
+
+Manuales del Ciclo Básico de Educación Agraria
+DIRECCIÓN DE EDUCACIÓN AGRARIA
+DIRECCIÓN PROVINCIAL DE EDUCACIÓN TÉCNICO PROFESIONAL
+105
+BIBLIOGRAFÍA CONSULTADA
+• BARBADO, José Luis. Cría de aves. Gallinas ponedoras y Pollos
+parrilleros... Editorial Albatros, Primera Edición, 2004. Bs. As. Argentina.
+• HAYNES, Ciynthia. Cría Domestica de pollos. Editorial Limusa.
+Primera edición 1990.México.
+• LUTMANM, Rick y Gail. Cómo criar gallinas. Ed. El Ateneo,1990. Bs.
+As. Argentina.
+• MANUAL PARA EL PROMOTOR TÉCNICO. Crianza familiar de
+gallinas de postura. Convenio INTA, Fac.Cs. Veterinarias U.N.C.P.B.A, Escuela
+Agraria, Tandil
+• “COMO PLANIFICAR Y EVALUAR EN EL AULA”. Propuestas y
+Ejemplos. Cecilia Bixio. Homosapiens Editores.
+• MANUALES PARA EDUCACIÓN AGROPECUARIA, Aves de Corral.
+Ed. SEPtrillas. Octava Impresión. 2006. México.
+• MARTÍNEZ, Ricardo O. Gallinas Ponedoras. Editorial Albatros,1994.
+Bs. As. Argentina.
+Sitio Argentino de Producción Animal
+105 de 105

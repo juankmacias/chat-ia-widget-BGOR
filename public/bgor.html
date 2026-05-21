@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>B-GOR® — Suplementos nutricionales tecnológicos para sus animales</title>
+  <meta name="description" content="B-GOR es un suplemento tecnológico nutricional completo con aminoácidos protegidos, probióticos microencapsulados y minerales orgánicos quelados. 4 líneas: Rumiantes, Monogástricos, Equinos y Potros. Asesoría experta por chat." />
+  <link rel="stylesheet" href="/widget.css" />
+  <style>
+    :root {
+      --bgor-green: #075E54;
+      --bgor-green-light: #128C7E;
+      --bgor-accent: #25D366;
+      --bgor-dark: #1f2d2b;
+      --bgor-bg: #f4f7f6;
+      --bgor-card: #ffffff;
+      --bgor-text: #2c3a38;
+      --bgor-muted: #6b7d7a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      background: var(--bgor-bg);
+      color: var(--bgor-text);
+      line-height: 1.6;
+    }
+    h1, h2, h3 { color: var(--bgor-green); line-height: 1.25; }
+    a { color: var(--bgor-green-light); }
+
+    /* ---------- HERO ---------- */
+    .hero {
+      background: linear-gradient(135deg, var(--bgor-green) 0%, var(--bgor-green-light) 100%);
+      color: #fff;
+      padding: 72px 20px 88px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at 80% 20%, rgba(37,211,102,0.25), transparent 45%);
+      pointer-events: none;
+    }
+    .hero__inner { max-width: 820px; margin: 0 auto; position: relative; z-index: 1; }
+    .hero h1 { color: #fff; font-size: clamp(2rem, 5vw, 3rem); margin: 0 0 16px; }
+    .hero p { font-size: clamp(1.05rem, 2.4vw, 1.3rem); opacity: 0.95; margin: 0 auto 28px; max-width: 640px; }
+    .hero__badges {
+      display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 12px;
+    }
+    .badge {
+      background: rgba(255,255,255,0.16);
+      border: 1px solid rgba(255,255,255,0.3);
+      padding: 6px 14px; border-radius: 999px; font-size: 0.9rem; font-weight: 600;
+    }
+    .cta-row { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; margin-top: 8px; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 13px 26px; border-radius: 999px; font-weight: 700; font-size: 1rem;
+      text-decoration: none; cursor: pointer; border: none; transition: transform .15s, box-shadow .15s;
+    }
+    .btn:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(0,0,0,0.18); }
+    .btn--primary { background: var(--bgor-accent); color: #053b22; }
+    .btn--ghost { background: rgba(255,255,255,0.12); color: #fff; border: 1px solid rgba(255,255,255,0.5); }
+
+    /* ---------- LAYOUT ---------- */
+    .section { max-width: 1040px; margin: 0 auto; padding: 56px 20px; }
+    .section--tight { padding-top: 24px; }
+    .section__head { text-align: center; max-width: 680px; margin: 0 auto 40px; }
+    .section__head h2 { font-size: clamp(1.6rem, 3.5vw, 2.2rem); margin: 0 0 10px; }
+    .section__head p { color: var(--bgor-muted); margin: 0; font-size: 1.08rem; }
+
+    /* ---------- DIFERENCIADORES ---------- */
+    .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; }
+    .feature {
+      background: var(--bgor-card); border-radius: 14px; padding: 24px;
+      box-shadow: 0 2px 12px rgba(7,94,84,0.07); border: 1px solid #e7eeec;
+    }
+    .feature__icon { font-size: 2rem; margin-bottom: 8px; }
+    .feature h3 { margin: 0 0 6px; font-size: 1.12rem; }
+    .feature p { margin: 0; color: var(--bgor-muted); font-size: 0.96rem; }
+
+    /* ---------- LÍNEAS DE PRODUCTO ---------- */
+    .lines { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 22px; }
+    .line-card {
+      background: var(--bgor-card); border-radius: 16px; overflow: hidden;
+      box-shadow: 0 4px 18px rgba(7,94,84,0.08); border: 1px solid #e7eeec;
+      display: flex; flex-direction: column;
+    }
+    .line-card__top {
+      padding: 22px 22px 16px; color: #fff;
+      background: linear-gradient(135deg, var(--bgor-green) 0%, var(--bgor-green-light) 100%);
+    }
+    .line-card__emoji { font-size: 2rem; }
+    .line-card__top h3 { color: #fff; margin: 6px 0 2px; font-size: 1.3rem; }
+    .line-card__species { font-size: 0.9rem; opacity: 0.9; margin: 0; }
+    .line-card__body { padding: 20px 22px 24px; display: flex; flex-direction: column; flex: 1; }
+    .line-card__body ul { margin: 0 0 16px; padding-left: 18px; }
+    .line-card__body li { margin-bottom: 7px; font-size: 0.95rem; }
+    .line-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: auto; }
+    .pill {
+      background: #eef6f4; color: var(--bgor-green); font-weight: 600;
+      font-size: 0.82rem; padding: 5px 11px; border-radius: 999px;
+    }
+
+    /* ---------- CHAT CTA ---------- */
+    .chat-band {
+      background: var(--bgor-dark); color: #fff; text-align: center; padding: 56px 20px;
+    }
+    .chat-band h2 { color: #fff; }
+    .chat-band p { max-width: 560px; margin: 0 auto 22px; opacity: 0.85; }
+
+    /* ---------- BIBLIOTECA TÉCNICA ---------- */
+    .docs-section { background: #eef4f2; }
+    .docs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+    .doc-card {
+      display: flex; align-items: center; gap: 14px; text-decoration: none;
+      background: var(--bgor-card); border: 1px solid #dde8e5; border-radius: 12px;
+      padding: 16px 18px; color: var(--bgor-text); transition: transform .15s, box-shadow .15s, border-color .15s;
+    }
+    .doc-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(7,94,84,0.12); border-color: var(--bgor-green-light); }
+    .doc-card__icon { font-size: 1.7rem; flex-shrink: 0; }
+    .doc-card__body { display: flex; flex-direction: column; flex: 1; min-width: 0; }
+    .doc-card__title { font-weight: 700; color: var(--bgor-green); font-size: 0.98rem; line-height: 1.3; }
+    .doc-card__meta { color: var(--bgor-muted); font-size: 0.82rem; margin-top: 3px; }
+    .doc-card__dl { color: var(--bgor-accent); font-weight: 700; font-size: 0.9rem; flex-shrink: 0; }
+
+    /* ---------- FOOTER ---------- */
+    footer {
+      background: #0d1413; color: #9fb3af; text-align: center; padding: 32px 20px; font-size: 0.9rem;
+    }
+    footer a { color: var(--bgor-accent); }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <div class="hero__inner">
+      <h1>Más fuerza, salud y productividad para sus animales 🐄🐎🐖</h1>
+      <p>B-GOR® es el suplemento tecnológico nutricional completo: aminoácidos protegidos, probióticos microencapsulados y minerales orgánicos quelados. Más de 35.000 productores en Colombia ya confían en nosotros.</p>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="#" onclick="window.ChatWidgetOpen && window.ChatWidgetOpen(); return false;">💬 Hablar con el asesor experto</a>
+        <a class="btn btn--ghost" href="#lineas">Ver líneas de producto</a>
+      </div>
+      <div class="hero__badges">
+        <span class="badge">✅ Registro ICA</span>
+        <span class="badge">🚚 Envío gratis a todo el país</span>
+        <span class="badge">💳 Pago contraentrega</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- DIFERENCIADORES -->
+  <section class="section">
+    <div class="section__head">
+      <h2>¿Por qué B-GOR es diferente?</h2>
+      <p>Una combinación de tecnología nutricional que no tiene ningún otro suplemento en Colombia.</p>
+    </div>
+    <div class="features">
+      <div class="feature">
+        <div class="feature__icon">🧬</div>
+        <h3>Aminoácidos protegidos</h3>
+        <p>By-pass ruminal: pasan el rumen sin degradarse y se absorben directo en el intestino para más músculo y leche.</p>
+      </div>
+      <div class="feature">
+        <div class="feature__icon">🦠</div>
+        <h3>Probióticos microencapsulados</h3>
+        <p>Saccharomyces cerevisiae y Bacillus subtilis que sobreviven la digestión y mejoran la flora intestinal.</p>
+      </div>
+      <div class="feature">
+        <div class="feature__icon">⚗️</div>
+        <h3>Minerales orgánicos quelados</h3>
+        <p>Glicinatos con hasta 3-4x más absorción que los minerales inorgánicos tradicionales.</p>
+      </div>
+      <div class="feature">
+        <div class="feature__icon">🌱</div>
+        <h3>Omegas 3-6-9 vegetales</h3>
+        <p>De aceite de Sacha Inchi, superalimento andino-amazónico, para pelaje y salud integral.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- LÍNEAS DE PRODUCTO -->
+  <section class="section section--tight" id="lineas">
+    <div class="section__head">
+      <h2>4 líneas, una para cada animal</h2>
+      <p>Cada fórmula está diseñada para la especie y etapa productiva. Pregunte al asesor por la dosificación exacta según el peso de su animal.</p>
+    </div>
+    <div class="lines">
+
+      <article class="line-card">
+        <div class="line-card__top">
+          <div class="line-card__emoji">🐄</div>
+          <h3>Rumiantes</h3>
+          <p class="line-card__species">Bovinos · búfalos · ovinos · caprinos</p>
+        </div>
+        <div class="line-card__body">
+          <ul>
+            <li>Más producción y calidad de leche</li>
+            <li>Mejor reproducción y fertilidad</li>
+            <li>Mayor conversión a carne</li>
+            <li>Salud ruminal e inmunidad reforzada</li>
+          </ul>
+          <div class="line-meta">
+            <span class="pill">Registro ICA 24676SL</span>
+            <span class="pill">1–1.5 g / 10 kg / día</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="line-card">
+        <div class="line-card__top">
+          <div class="line-card__emoji">🐖</div>
+          <h3>Monogástricos</h3>
+          <p class="line-card__species">Cerdos · aves de corral</p>
+        </div>
+        <div class="line-card__body">
+          <ul>
+            <li>Más crecimiento con GAA (precursor de creatina)</li>
+            <li>Conversión alimenticia superior</li>
+            <li>Salud intestinal, menos diarreas</li>
+            <li>Mejor postura y calidad de huevo</li>
+          </ul>
+          <div class="line-meta">
+            <span class="pill">Registro ICA 24677SL</span>
+            <span class="pill">12 vitaminas + omegas</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="line-card">
+        <div class="line-card__top">
+          <div class="line-card__emoji">🐎</div>
+          <h3>Equinos</h3>
+          <p class="line-card__species">Caballos adultos · yeguas · mulas</p>
+        </div>
+        <div class="line-card__body">
+          <ul>
+            <li>Desarrollo de masa muscular magra</li>
+            <li>Huesos y cascos más fuertes</li>
+            <li>Más energía y resistencia</li>
+            <li>Pelaje brillante y buena digestión</li>
+          </ul>
+          <div class="line-meta">
+            <span class="pill">Registro ICA 23898SL</span>
+            <span class="pill">50 g / día (adulto)</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="line-card">
+        <div class="line-card__top">
+          <div class="line-card__emoji">🐴</div>
+          <h3>Potros</h3>
+          <p class="line-card__species">Potros y potrillos en crecimiento</p>
+        </div>
+        <div class="line-card__body">
+          <ul>
+            <li>Articulaciones y huesos fuertes</li>
+            <li>Desarrollo muscular óptimo</li>
+            <li>Respuesta inmune mejorada</li>
+            <li>Previene problemas articulares</li>
+          </ul>
+          <div class="line-meta">
+            <span class="pill">Registro ICA 23877SL</span>
+            <span class="pill">1 g / 4 kg / día</span>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- CHAT CTA -->
+  <section class="chat-band">
+    <h2>¿Tiene dudas sobre cuál usar o cuánto darle?</h2>
+    <p>Nuestro asesor de IA experto le resuelve dudas de composición, dosificación según el peso de su animal, registros ICA y precios al instante.</p>
+    <a class="btn btn--primary" href="#" onclick="window.ChatWidgetOpen && window.ChatWidgetOpen(); return false;">💬 Abrir el chat ahora</a>
+  </section>
+
+  <!-- BIBLIOTECA TÉCNICA -->
+  <section class="docs-section">
+    <div class="section">
+      <div class="section__head">
+        <h2>📚 Biblioteca técnica</h2>
+        <p>Material de referencia sobre nutrición, sanidad y manejo animal. El asesor experto del chat también responde con base en estos documentos.</p>
+      </div>
+      <div class="docs-grid">
+        <a class="doc-card" href="/docs/bgor-expert.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Alimentación y suplementación mineral en bovinos</span>
+            <span class="doc-card__meta">PDF · 5 págs · 0.4 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-10.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Cartilla técnica ganadera</span>
+            <span class="doc-card__meta">PDF · 28 págs · 7.0 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-11.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Manual de Buenas Prácticas Ganaderas</span>
+            <span class="doc-card__meta">PDF · 169 págs · 28.5 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-2.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Nutrición animal — manual completo</span>
+            <span class="doc-card__meta">PDF · 140 págs · 3.7 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-3.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">BPA: alimentación, genética y manejo del hato doble propósito</span>
+            <span class="doc-card__meta">PDF · 36 págs · 0.4 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-4.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Difusión tecnológica en el subsector pecuario bovino</span>
+            <span class="doc-card__meta">PDF · 18 págs · 0.9 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-5.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Alimentación eficiente de cerdos (monogástricos)</span>
+            <span class="doc-card__meta">PDF · 44 págs · 0.6 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-6.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Manual técnico de producción ganadera</span>
+            <span class="doc-card__meta">PDF · 285 págs · 3.8 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-7.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Nutrición y requerimientos nutricionales</span>
+            <span class="doc-card__meta">PDF · 160 págs · 3.1 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-8.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Manual de manejo y producción pecuaria</span>
+            <span class="doc-card__meta">PDF · 105 págs · 3.8 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-9.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Guía de manejo ganadero (ilustrada)</span>
+            <span class="doc-card__meta">PDF · 69 págs · 4.4 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+        <a class="doc-card" href="/docs/bgor-expert-b.pdf" target="_blank" rel="noopener">
+          <div class="doc-card__icon">📄</div>
+          <div class="doc-card__body">
+            <span class="doc-card__title">Nutrición animal — fundamentos (UAM)</span>
+            <span class="doc-card__meta">PDF · 278 págs · 15.9 MB</span>
+          </div>
+          <span class="doc-card__dl">Ver ↓</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>B-GOR® — Fabricado por FLUXON SAS · Cl. 23 #116-31, Bodega 8, Bogotá</p>
+    <p>WhatsApp: <a href="https://wa.me/573209216434">320 921 6434</a> · <a href="https://bgor.com.co">bgor.com.co</a></p>
+    <p style="opacity:.6; font-size:.82rem;">Producto de uso veterinario. La información de este sitio es orientativa; consulte la ficha técnica oficial.</p>
+  </footer>
+
+  <!-- WIDGET DE CHAT -->
+  <script>
+    window.CHAT_WIDGET_API_URL = "/api/chat";
+    window.CHAT_WIDGET_BOT_NAME = "Asesor experto B-GOR";
+    window.CHAT_WIDGET_WELCOME = "Hola 🤠, qué gusto saludarle. Soy el asesor experto de B-GOR, le ayudo a escoger el suplemento ideal y resuelvo sus dudas técnicas. ¿En qué le puedo ayudar?";
+    window.CHAT_WIDGET_WHATSAPP = "573209216434";
+  </script>
+  <script src="/widget.js"></script>
+</body>
+</html>

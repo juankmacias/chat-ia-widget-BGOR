@@ -17,6 +17,7 @@ const {
 } = require('./db');
 const { SYSTEM_PROMPT } = require('./system-prompt');
 const { MAX_USER_MESSAGES } = require('./config');
+const { buildContext } = require('./knowledge');
 
 const app = express();
 app.set('trust proxy', 1);
@@ -49,6 +50,11 @@ app.get('/media/:type/:slug', (req, res, next) => {
     if (fs.existsSync(filePath)) return res.sendFile(filePath);
   }
   res.status(404).send('Media not found');
+});
+
+// Página principal: landing experta de B-GOR
+app.get('/', (_req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'bgor.html'));
 });
 
 app.use(express.static(path.join(__dirname, 'public')));
@@ -93,10 +99,19 @@ app.post('/api/chat', async (req, res) => {
 
     await saveMessage(conversationId, 'user', message);
 
+    // Recupera contexto técnico relevante de la biblioteca y lo añade como
+    // bloque de sistema dinámico (el prompt base se mantiene cacheado).
+    const lastUser = history.filter((m) => m.role === 'user').slice(-1)[0];
+    const knowledgeQuery = lastUser ? `${lastUser.content}\n${message}` : message;
+    const knowledgeContext = buildContext(knowledgeQuery);
+
+    const system = [{ type: 'text', text: SYSTEM_PROMPT, cache_control: { type: 'ephemeral' } }];
+    if (knowledgeContext) system.push({ type: 'text', text: knowledgeContext });
+
     const response = await anthropic.messages.create({
       model: 'claude-sonnet-4-20250514',
       max_tokens: 1024,
-      system: [{ type: 'text', text: SYSTEM_PROMPT, cache_control: { type: 'ephemeral' } }],
+      system,
       messages: apiMessages,
     });
 
