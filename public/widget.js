@@ -278,6 +278,49 @@
     body.scrollTop = body.scrollHeight;
   }
 
+  function addExpertCta(body) {
+    const msg = el('div', 'chat-widget__msg chat-widget__msg--bot chat-widget__msg--cta');
+    const link = document.createElement('a');
+    link.className = 'chat-widget__wa-cta';
+    link.href = '/experto';
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.setAttribute('aria-label', 'Abrir zona técnica B-GOR');
+    link.style.background = '#075E54';
+    link.innerHTML =
+      '<svg viewBox="0 0 24 24" class="chat-widget__wa-cta-icon" style="fill:#fff;"><path d="M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2zm-7 14h-2v-6h2v6zm0-8h-2V7h2v2zm6 8h-4v-2h4v2zm0-4h-4v-2h4v2zm0-4h-4V7h4v2z"/></svg>' +
+      '<span class="chat-widget__wa-cta-label" style="color:#fff;">Abrir zona técnica B-GOR</span>';
+    msg.appendChild(link);
+    body.appendChild(msg);
+    body.scrollTop = body.scrollHeight;
+    return link;
+  }
+
+  async function handleExpertRedirect(body) {
+    // Evita disparar dos veces en la misma sesión
+    if (sessionStorage.getItem('bgor_expert_redirected') === '1') return;
+    sessionStorage.setItem('bgor_expert_redirected', '1');
+
+    const typing = showTyping(body);
+    await sleep(900);
+    typing.remove();
+    addMessage(
+      body,
+      'bot',
+      'Por su perfil le abro nuestra zona técnica con fichas completas y biblioteca de manuales 📚.'
+    );
+    await sleep(500);
+    addExpertCta(body);
+
+    // Apertura automática en pestaña nueva tras 3.5s (con fallback al CTA si el navegador la bloquea).
+    await sleep(3500);
+    const win = window.open('/experto', '_blank', 'noopener');
+    if (!win) {
+      // Popup bloqueado: el cliente igual puede usar el botón.
+      console.warn('[chat-widget] popup bloqueado; usar CTA manual');
+    }
+  }
+
   function showTyping(body) {
     const typing = el('div', 'chat-widget__typing');
     typing.appendChild(el('span'));
@@ -363,6 +406,8 @@
           await sleep(400);
           addWhatsappCta(ui.body);
           lockChat();
+        } else if (data.redirectExpert) {
+          await handleExpertRedirect(ui.body);
         }
       } catch (err) {
         typing.remove();

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>B-GOR® — Asesor experto para sus animales</title>
+  <meta name="description" content="Resuelva sus dudas sobre los suplementos B-GOR con nuestro asesor IA. Para rumiantes, monogástricos, equinos y potros." />
+  <link rel="stylesheet" href="/widget.css" />
+  <style>
+    :root {
+      --bgor-green: #075E54;
+      --bgor-green-light: #128C7E;
+      --bgor-accent: #25D366;
+      --bgor-dark: #1f2d2b;
+      --bgor-bg: #f4f7f6;
+      --bgor-card: #ffffff;
+      --bgor-text: #2c3a38;
+      --bgor-muted: #6b7d7a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      background: var(--bgor-bg);
+      color: var(--bgor-text);
+      line-height: 1.6;
+    }
+    h1, h2, h3 { color: var(--bgor-green); line-height: 1.25; }
+    a { color: var(--bgor-green-light); }
+
+    /* ---------- HERO ---------- */
+    .hero {
+      background: linear-gradient(135deg, var(--bgor-green) 0%, var(--bgor-green-light) 100%);
+      color: #fff;
+      padding: 80px 20px 100px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at 80% 20%, rgba(37,211,102,0.25), transparent 45%);
+      pointer-events: none;
+    }
+    .hero__inner { max-width: 760px; margin: 0 auto; position: relative; z-index: 1; }
+    .hero h1 {
+      color: #fff;
+      font-size: clamp(2.1rem, 5.5vw, 3.2rem);
+      margin: 0 0 18px;
+      font-weight: 800;
+    }
+    .hero p {
+      font-size: clamp(1.05rem, 2.4vw, 1.25rem);
+      opacity: 0.95;
+      margin: 0 auto 32px;
+      max-width: 600px;
+    }
+    .hero__cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 16px 32px;
+      background: var(--bgor-accent);
+      color: #053b22;
+      border: none;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 1.1rem;
+      text-decoration: none;
+      cursor: pointer;
+      transition: transform .15s, box-shadow .15s;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+    }
+    .hero__cta:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,0.25); }
+    .hero__cta-sub {
+      display: block;
+      margin-top: 14px;
+      font-size: 0.92rem;
+      opacity: 0.85;
+    }
+
+    /* ---------- "EN QUÉ LE AYUDAMOS" ---------- */
+    .help-section {
+      max-width: 1020px;
+      margin: -50px auto 0;
+      padding: 0 20px 40px;
+      position: relative;
+      z-index: 2;
+    }
+    .help-card {
+      background: var(--bgor-card);
+      border-radius: 18px;
+      padding: 36px 28px;
+      box-shadow: 0 8px 30px rgba(7,94,84,0.10);
+      text-align: center;
+    }
+    .help-card h2 {
+      margin: 0 0 8px;
+      font-size: clamp(1.4rem, 3vw, 1.8rem);
+    }
+    .help-card > p {
+      color: var(--bgor-muted);
+      margin: 0 auto 26px;
+      max-width: 560px;
+    }
+
+    .quick-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 14px;
+      margin-top: 8px;
+    }
+    .quick-card {
+      background: #f8fbfa;
+      border: 1px solid #e7eeec;
+      border-radius: 14px;
+      padding: 18px 16px;
+      text-align: center;
+      cursor: pointer;
+      transition: transform .15s, box-shadow .15s, border-color .15s;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+    }
+    .quick-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 6px 16px rgba(7,94,84,0.12);
+      border-color: var(--bgor-green-light);
+    }
+    .quick-card__emoji { font-size: 1.9rem; }
+    .quick-card__title {
+      font-weight: 700;
+      color: var(--bgor-green);
+      font-size: 1rem;
+    }
+    .quick-card__species {
+      font-size: 0.82rem;
+      color: var(--bgor-muted);
+    }
+
+    /* ---------- INFO EXTRA ---------- */
+    .info-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      max-width: 1020px;
+      margin: 28px auto 0;
+      padding: 0 20px;
+    }
+    .info-pill {
+      background: var(--bgor-card);
+      border: 1px solid #e7eeec;
+      border-radius: 12px;
+      padding: 16px 18px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .info-pill__icon { font-size: 1.6rem; }
+    .info-pill__text { font-size: 0.95rem; color: var(--bgor-text); }
+    .info-pill__text strong { color: var(--bgor-green); display: block; font-size: 0.98rem; }
+
+    /* ---------- FOOTER ---------- */
+    footer {
+      margin-top: 60px;
+      padding: 28px 20px;
+      text-align: center;
+      color: var(--bgor-muted);
+      font-size: 0.88rem;
+      border-top: 1px solid #e7eeec;
+      background: #fff;
+    }
+    footer a { color: var(--bgor-green); }
+    footer p { margin: 4px 0; }
+
+    @media (max-width: 540px) {
+      .hero { padding: 56px 18px 80px; }
+      .help-card { padding: 28px 18px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero__inner">
+      <h1>Asesor experto B-GOR® al instante</h1>
+      <p>Resuelva sus dudas sobre suplementos para sus animales con nuestro asesor de IA. Le ayudamos a escoger la línea correcta y le explicamos beneficios, dosis y precios.</p>
+      <button class="hero__cta" onclick="window.ChatWidgetOpen && window.ChatWidgetOpen();">
+        💬 Abrir el chat ahora
+      </button>
+      <span class="hero__cta-sub">Respuesta inmediata · sin registro</span>
+    </div>
+  </section>
+
+  <!-- EN QUÉ LE AYUDAMOS -->
+  <section class="help-section">
+    <div class="help-card">
+      <h2>¿Para cuál de sus animales necesita ayuda?</h2>
+      <p>Toque la opción y le abrimos el chat con su consulta lista para que el asesor le responda enseguida.</p>
+
+      <div class="quick-grid">
+        <button class="quick-card" data-line="Rumiantes" data-species="vacas, ovejas o cabras">
+          <span class="quick-card__emoji">🐄</span>
+          <span class="quick-card__title">Rumiantes</span>
+          <span class="quick-card__species">Vacas, ovejas, cabras</span>
+        </button>
+        <button class="quick-card" data-line="Monogástricos" data-species="cerdos o aves">
+          <span class="quick-card__emoji">🐖</span>
+          <span class="quick-card__title">Monogástricos</span>
+          <span class="quick-card__species">Cerdos, aves</span>
+        </button>
+        <button class="quick-card" data-line="Equinos" data-species="un caballo adulto">
+          <span class="quick-card__emoji">🐎</span>
+          <span class="quick-card__title">Equinos</span>
+          <span class="quick-card__species">Caballos adultos</span>
+        </button>
+        <button class="quick-card" data-line="Potros" data-species="un potro o potrillo">
+          <span class="quick-card__emoji">🐴</span>
+          <span class="quick-card__title">Potros</span>
+          <span class="quick-card__species">Potros y potrillos</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="info-row">
+      <div class="info-pill">
+        <span class="info-pill__icon">🚚</span>
+        <span class="info-pill__text"><strong>Envío gratis</strong>A todo el país</span>
+      </div>
+      <div class="info-pill">
+        <span class="info-pill__icon">💳</span>
+        <span class="info-pill__text"><strong>Pago contraentrega</strong>O anticipado con 5% descuento</span>
+      </div>
+      <div class="info-pill">
+        <span class="info-pill__icon">✅</span>
+        <span class="info-pill__text"><strong>Registro ICA</strong>Producto certificado</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>B-GOR® — Fabricado por FLUXON SAS · Bogotá, Colombia</p>
+    <p>WhatsApp: <a href="https://wa.me/573209216434">320 921 6434</a> · <a href="https://bgor.com.co">bgor.com.co</a></p>
+    <p style="opacity:.6; font-size:.8rem;">Producto de uso veterinario. La información de este sitio es orientativa.</p>
+  </footer>
+
+  <!-- WIDGET DE CHAT -->
+  <script>
+    window.CHAT_WIDGET_API_URL = "/api/chat";
+    window.CHAT_WIDGET_BOT_NAME = "Asesor B-GOR";
+    window.CHAT_WIDGET_WELCOME = "Hola 🤠, qué gusto saludarle. Soy el asesor de B-GOR, le ayudo a escoger el suplemento ideal para sus animales. ¿En qué le puedo ayudar?";
+    window.CHAT_WIDGET_WHATSAPP = "573209216434";
+  </script>
+  <script src="/widget.js"></script>
+
+  <!-- Tarjetas rápidas: abren el chat con un prefill -->
+  <script>
+    document.querySelectorAll('.quick-card').forEach((card) => {
+      card.addEventListener('click', () => {
+        const line = card.dataset.line;
+        const species = card.dataset.species;
+        const prefill = `Hola, tengo ${species} y quiero saber sobre B-GOR ${line}.`;
+        if (window.ChatWidgetOpen) window.ChatWidgetOpen();
+        // Prefill del textarea del widget
+        setTimeout(() => {
+          const input = document.querySelector('.chat-widget__input');
+          if (input) {
+            input.value = prefill;
+            input.dispatchEvent(new Event('input', { bubbles: true }));
+            input.focus();
+          }
+        }, 250);
+      });
+    });
+  </script>
+</body>
+</html>

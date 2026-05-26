@@ -52,8 +52,13 @@ app.get('/media/:type/:slug', (req, res, next) => {
   res.status(404).send('Media not found');
 });
 
-// Página principal: landing experta de B-GOR
+// Página principal: landing simple + chat protagonista
 app.get('/', (_req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'landing-simple.html'));
+});
+
+// Landing experta: se abre cuando el chat detecta perfil técnico/profesional
+app.get('/experto', (_req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'bgor.html'));
 });
 
@@ -115,15 +120,20 @@ app.post('/api/chat', async (req, res) => {
       messages: apiMessages,
     });
 
-    const reply = response.content
+    const rawReply = response.content
       .filter((b) => b.type === 'text')
       .map((b) => b.text)
       .join('\n')
       .trim();
 
+    // Detecta el marcador [[expert]] (perfil técnico). Lo quita del texto visible
+    // y lo señala al frontend para que abra la zona experta (/experto).
+    const expertDetected = /\[\[expert\]\]/i.test(rawReply);
+    const reply = rawReply.replace(/\[\[expert\]\]/gi, '').replace(/\s+$/g, '').trim();
+
     await saveMessage(conversationId, 'assistant', reply, response.usage);
 
-    res.json({ reply });
+    res.json({ reply, redirectExpert: expertDetected });
   } catch (err) {
     console.error('Error en /api/chat:', err);
     if (err instanceof Anthropic.APIError) {
