@@ -440,15 +440,109 @@
   fill: white;
 }
 
-/* Responsive */
-@media (max-width: 480px) {
-  .chat-widget__window {
-    width: calc(100vw - 20px);
-    height: calc(100vh - 100px);
-    right: 10px;
-  }
+/* ========================================
+   RESPONSIVE — Pantallas de celular
+   ======================================== */
+@media (max-width: 600px) {
+  /* Contenedor del widget: respetar safe-areas del notch/home indicator */
   .chat-widget {
-    right: 10px;
-    bottom: 10px;
+    right: max(12px, env(safe-area-inset-right));
+    bottom: max(12px, env(safe-area-inset-bottom));
   }
+
+  /* Botón flotante un pelín más compacto en móvil */
+  .chat-widget__button {
+    width: 56px;
+    height: 56px;
+  }
+
+  /* Ventana del chat: FULLSCREEN real en móvil */
+  .chat-widget__window {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    width: 100dvw;
+    height: 100vh;
+    height: 100dvh;
+    max-height: none;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  /* Animación: desliza desde abajo en lugar de "popup" pequeño */
+  @keyframes chat-slide-up {
+    from { opacity: 0; transform: translateY(40px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Cuando la ventana está abierta, ocultar el botón flotante para no estorbar */
+  .chat-widget__window--open ~ .chat-widget__button {
+    display: none;
+  }
+
+  /* Header: respetar la safe-area superior (notch / Dynamic Island) */
+  .chat-widget__header {
+    padding-top: max(12px, env(safe-area-inset-top));
+    padding-left: max(16px, env(safe-area-inset-left));
+    padding-right: max(16px, env(safe-area-inset-right));
+  }
+
+  /* Footer: respetar la safe-area inferior (home indicator del iPhone) */
+  .chat-widget__footer {
+    padding-bottom: max(8px, env(safe-area-inset-bottom));
+    padding-left: max(8px, env(safe-area-inset-left));
+    padding-right: max(8px, env(safe-area-inset-right));
+  }
+
+  /* Body con un poquito más de aire vertical */
+  .chat-widget__body {
+    padding: 14px 12px;
+    gap: 8px;
+  }
+
+  /* Mensajes: aprovechar más ancho útil */
+  .chat-widget__msg {
+    max-width: 82%;
+    font-size: 15px;
+    padding: 9px 13px;
+  }
+
+  /* Input: 16px obligatorio para que iOS NO haga zoom automático al enfocar */
+  .chat-widget__input {
+    font-size: 16px;
+    padding: 11px 16px;
+  }
+
+  /* Botón de enviar un toque más grande para dedo */
+  .chat-widget__send {
+    width: 44px;
+    height: 44px;
+  }
+
+  /* CTAs (WhatsApp / Zona técnica) en ancho útil */
+  .chat-widget__msg--cta {
+    max-width: 92%;
+  }
+  .chat-widget__wa-cta {
+    width: 100%;
+    justify-content: center;
+  }
+
+  /* Botón de cierre más fácil de tocar */
+  .chat-widget__close {
+    font-size: 28px;
+    padding: 4px 12px;
+  }
+}
+
+/* Pantallas muy pequeñas (iPhone SE y similares) */
+@media (max-width: 360px) {
+  .chat-widget__msg {
+    font-size: 14px;
+    max-width: 86%;
+  }
+  .chat-widget__name { font-size: 14px; }
 }
