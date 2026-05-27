@@ -4,7 +4,7 @@
   const CONFIG = {
     apiUrl: window.CHAT_WIDGET_API_URL || '/api/chat',
     botName: window.CHAT_WIDGET_BOT_NAME || 'Asesor BGOR',
-    botAvatar: window.CHAT_WIDGET_BOT_AVATAR || '/media/image/asesor-bgor.png',
+    botAvatar: window.CHAT_WIDGET_BOT_AVATAR || '/media/image/maleja.png',
     welcomeMessage:
       window.CHAT_WIDGET_WELCOME || 'Hola, soy el asesor de IA de BGOR 😊. ¿En qué te puedo ayudar?',
     whatsappNumber: window.CHAT_WIDGET_WHATSAPP || '573209216434',
