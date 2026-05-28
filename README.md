@@ -97,6 +97,42 @@ Las fichas técnicas oficiales son la fuente de verdad — el bot no debe invent
 <script src="https://tu-servidor.com/widget.js"></script>
 ```
 
+## Deploy a Netlify
+
+El proyecto está preparado para correr en Netlify con **Netlify Functions** (el `server.js` se queda solo para desarrollo local). Los endpoints `/api/*` y `/admin` se sirven desde `netlify/functions/`.
+
+### Pasos
+
+1. **Crear Postgres en Neon** (si aún no tienes). Copia el `DATABASE_URL` y ejecuta `npm run db:init` localmente apuntando a esa base — así quedan creadas las tablas.
+
+2. **Push del repo a GitHub** (si no está ya).
+
+3. **En Netlify**: *Add new site → Import from Git → tu repo*. Netlify detecta `netlify.toml` automáticamente.
+
+4. **Configurar variables de entorno** en *Site settings → Environment variables*:
+   - `ANTHROPIC_API_KEY`
+   - `DATABASE_URL` (el de Neon)
+   - `ADMIN_USER`
+   - `ADMIN_PASS`
+   - `ALLOWED_ORIGIN` (opcional — sólo si vas a embeberlo en otro dominio)
+
+5. **Deploy**. Netlify ejecuta `npm install` + `npm run build:netlify` (genera `public/_redirects` para los archivos de `public/media/`) y publica `public/` + las funciones.
+
+6. **Probar**:
+   - `https://tu-sitio.netlify.app/` → landing simple con el chat
+   - `https://tu-sitio.netlify.app/experto` → landing experta
+   - `https://tu-sitio.netlify.app/admin` → panel (Basic Auth con `ADMIN_USER`/`ADMIN_PASS`)
+   - `https://tu-sitio.netlify.app/api/health` → `{ ok: true }`
+
+### Desarrollo local con Netlify CLI
+
+```bash
+npm install -g netlify-cli
+netlify dev
+```
+
+Levanta funciones + static en http://localhost:8888 simulando producción.
+
 ## Subir a GitHub
 
 ```bash

@@ -4,7 +4,23 @@
 const fs = require('fs');
 const path = require('path');
 
-const CHUNKS_PATH = path.join(__dirname, 'knowledge', 'chunks.json');
+// La función Netlify empaqueta este módulo en otra carpeta, pero los
+// archivos declarados en `included_files` quedan accesibles desde process.cwd().
+// Probamos varias rutas candidatas para que funcione igual en local (server.js)
+// y en Netlify Functions.
+function resolveChunksPath() {
+  const candidates = [
+    path.join(__dirname, 'knowledge', 'chunks.json'),
+    path.join(process.cwd(), 'knowledge', 'chunks.json'),
+    path.join(__dirname, '..', 'knowledge', 'chunks.json'),
+    path.join(__dirname, '..', '..', 'knowledge', 'chunks.json'),
+  ];
+  for (const p of candidates) {
+    if (fs.existsSync(p)) return p;
+  }
+  return candidates[0];
+}
+const CHUNKS_PATH = resolveChunksPath();
 
 // Stopwords en español (las más frecuentes) para no rankear por palabras vacías.
 const STOPWORDS = new Set(

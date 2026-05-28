@@ -1,0 +1,51 @@
+[build]
+  publish = "public"
+  command = "npm run build:netlify"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+  included_files = ["knowledge/chunks.json", "views/admin.html"]
+
+# Redirects API → Netlify Functions
+[[redirects]]
+  from = "/api/chat"
+  to = "/.netlify/functions/chat"
+  status = 200
+
+[[redirects]]
+  from = "/api/health"
+  to = "/.netlify/functions/health"
+  status = 200
+
+[[redirects]]
+  from = "/api/admin/stats"
+  to = "/.netlify/functions/admin-stats"
+  status = 200
+
+[[redirects]]
+  from = "/api/admin/conversations"
+  to = "/.netlify/functions/admin-conversations"
+  status = 200
+
+[[redirects]]
+  from = "/api/admin/conversations/:id/messages"
+  to = "/.netlify/functions/admin-messages?id=:id"
+  status = 200
+
+# Panel admin (HTML protegido con Basic Auth dentro de la función)
+[[redirects]]
+  from = "/admin"
+  to = "/.netlify/functions/admin"
+  status = 200
+
+# Landing simple (home) y landing experta
+[[redirects]]
+  from = "/"
+  to = "/landing-simple.html"
+  status = 200
+
+[[redirects]]
+  from = "/experto"
+  to = "/bgor.html"
+  status = 200
