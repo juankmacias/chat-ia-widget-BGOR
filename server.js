@@ -3,31 +3,17 @@ const express = require('express');
 const cors = require('cors');
 const path = require('path');
 const fs = require('fs');
-const Anthropic = require('@anthropic-ai/sdk');
 
 const {
-  getOrCreateConversation,
-  getHistory,
-  saveMessage,
-  countUserMessagesForSession,
-  countUserMessagesForIp,
   listConversations,
   getConversationMessages,
   getAdminStats,
 } = require('./db');
-const { SYSTEM_PROMPT } = require('./system-prompt');
-const { MAX_USER_MESSAGES } = require('./config');
-const { buildContext } = require('./knowledge');
+const { handleChat } = require('./chat-core');
 
 const app = express();
 app.set('trust proxy', 1);
 const PORT = process.env.PORT || 3000;
-const LIMIT_REPLY =
-  'Llegamos al límite de mensajes por aquí 🙏. Para seguir tu consulta y atenderte personalmente, escríbeme directamente al WhatsApp 322 3671553 y te atiendo de una 😊.';
-
-const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY,
-});
 
 app.use(cors({
   origin: process.env.ALLOWED_ORIGIN || false,
@@ -69,81 +55,12 @@ app.get('/api/health', (_req, res) => {
 });
 
 app.post('/api/chat', async (req, res) => {
-  try {
-    const { sessionId, message } = req.body ?? {};
+  const { sessionId, message } = req.body ?? {};
+  const userAgent = req.headers['user-agent']?.slice(0, 300) ?? null;
+  const ip = (req.ip || req.socket?.remoteAddress || '').slice(0, 64) || null;
 
-    if (!sessionId || typeof sessionId !== 'string' || sessionId.length > 100) {
-      return res.status(400).json({ error: 'sessionId inválido' });
-    }
-    if (!message || typeof message !== 'string') {
-      return res.status(400).json({ error: 'message requerido' });
-    }
-    if (message.length > 2000) {
-      return res.status(400).json({ error: 'Mensaje demasiado largo (máx 2000)' });
-    }
-
-    const userAgent = req.headers['user-agent']?.slice(0, 300) ?? null;
-    const ip = (req.ip || req.socket?.remoteAddress || '').slice(0, 64) || null;
-    const conversationId = await getOrCreateConversation(sessionId, userAgent, ip);
-
-    const [countBySession, countByIp] = await Promise.all([
-      countUserMessagesForSession(sessionId),
-      countUserMessagesForIp(ip),
-    ]);
-    if (countBySession >= MAX_USER_MESSAGES || countByIp >= MAX_USER_MESSAGES) {
-      await saveMessage(conversationId, 'user', message);
-      await saveMessage(conversationId, 'assistant', LIMIT_REPLY);
-      return res.json({ reply: LIMIT_REPLY, limit_reached: true });
-    }
-
-    const history = await getHistory(conversationId, 20);
-    const apiMessages = [
-      ...history.map((m) => ({ role: m.role, content: m.content })),
-      { role: 'user', content: message },
-    ];
-
-    await saveMessage(conversationId, 'user', message);
-
-    // Recupera contexto técnico relevante de la biblioteca y lo añade como
-    // bloque de sistema dinámico (el prompt base se mantiene cacheado).
-    const lastUser = history.filter((m) => m.role === 'user').slice(-1)[0];
-    const knowledgeQuery = lastUser ? `${lastUser.content}\n${message}` : message;
-    const knowledgeContext = buildContext(knowledgeQuery);
-
-    const system = [{ type: 'text', text: SYSTEM_PROMPT, cache_control: { type: 'ephemeral' } }];
-    if (knowledgeContext) system.push({ type: 'text', text: knowledgeContext });
-
-    const response = await anthropic.messages.create({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 1024,
-      system,
-      messages: apiMessages,
-    });
-
-    const rawReply = response.content
-      .filter((b) => b.type === 'text')
-      .map((b) => b.text)
-      .join('\n')
-      .trim();
-
-    // Detecta el marcador [[expert]] (perfil técnico). Lo quita del texto visible
-    // y lo señala al frontend para que abra la zona experta (/experto).
-    const expertDetected = /\[\[expert\]\]/i.test(rawReply);
-    const reply = rawReply.replace(/\[\[expert\]\]/gi, '').replace(/\s+$/g, '').trim();
-
-    await saveMessage(conversationId, 'assistant', reply, response.usage);
-
-    res.json({ reply, redirectExpert: expertDetected });
-  } catch (err) {
-    console.error('Error en /api/chat:', err);
-    if (err instanceof Anthropic.APIError) {
-      return res.status(err.status || 500).json({
-        error: 'Error consultando la IA',
-        detail: err.message,
-      });
-    }
-    res.status(500).json({ error: 'Error interno', detail: err.message });
-  }
+  const { status, body } = await handleChat({ sessionId, message, userAgent, ip });
+  res.status(status).json(body);
 });
 
 function adminAuth(req, res, next) {
@@ -154,7 +71,7 @@ function adminAuth(req, res, next) {
   }
   const expected = 'Basic ' + Buffer.from(`${user}:${pass}`).toString('base64');
   if (req.headers.authorization !== expected) {
-    res.set('WWW-Authenticate', 'Basic realm="PowerMix Admin"');
+    res.set('WWW-Authenticate', 'Basic realm="B-GOR Admin"');
     return res.status(401).send('Auth required');
   }
   next();

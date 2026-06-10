@@ -55,11 +55,17 @@ async function countUserMessagesForIp(ip) {
 }
 
 async function getHistory(conversationId, limit = 20) {
+  // Tomamos los $2 mensajes MÁS RECIENTES (DESC) y luego los devolvemos en
+  // orden cronológico (ASC). Si ordenáramos sólo ASC con LIMIT, en conversaciones
+  // largas se enviarían al modelo los mensajes más viejos y se perdería el contexto reciente.
   const result = await pool.query(
-    `SELECT role, content FROM messages
-     WHERE conversation_id = $1
-     ORDER BY created_at ASC
-     LIMIT $2`,
+    `SELECT role, content FROM (
+       SELECT id, role, content, created_at FROM messages
+       WHERE conversation_id = $1
+       ORDER BY created_at DESC
+       LIMIT $2
+     ) recent
+     ORDER BY created_at ASC`,
     [conversationId, limit]
   );
   return result.rows;

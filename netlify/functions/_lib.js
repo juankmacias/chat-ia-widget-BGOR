@@ -38,10 +38,22 @@ function checkAdminAuth(event) {
   const got = event.headers?.authorization || event.headers?.Authorization;
   if (got !== expected) {
     return text(401, 'Auth required', {
-      'WWW-Authenticate': 'Basic realm="PowerMix Admin"',
+      'WWW-Authenticate': 'Basic realm="B-GOR Admin"',
     });
   }
   return null;
+}
+
+// Headers CORS para el endpoint público de chat (puede embeberse en el sitio
+// real de B-GOR, en otro dominio). Usa ALLOWED_ORIGIN si está configurado;
+// si no, permite cualquier origen (el widget no usa cookies ni credenciales).
+function corsHeaders() {
+  return {
+    'Access-Control-Allow-Origin': process.env.ALLOWED_ORIGIN || '*',
+    'Access-Control-Allow-Methods': 'POST, OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Max-Age': '86400',
+  };
 }
 
 // Resuelve un archivo declarado en included_files probando rutas candidatas,
@@ -78,4 +90,5 @@ module.exports = {
   checkAdminAuth,
   resolveIncluded,
   getClientIp,
+  corsHeaders,
 };
