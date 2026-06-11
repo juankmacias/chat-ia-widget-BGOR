@@ -3,7 +3,7 @@
 
   const CONFIG = {
     apiUrl: window.CHAT_WIDGET_API_URL || '/api/chat',
-    botName: window.CHAT_WIDGET_BOT_NAME || 'Asesor BGOR',
+    botName: window.CHAT_WIDGET_BOT_NAME || 'Maleja',
     botAvatar: window.CHAT_WIDGET_BOT_AVATAR || '/media/image/maleja.png',
     welcomeMessage:
       window.CHAT_WIDGET_WELCOME || 'Hola, soy el asesor de IA de BGOR 😊. ¿En qué te puedo ayudar?',
@@ -50,7 +50,7 @@
     avatar.style.backgroundImage = 'url(' + CONFIG.botAvatar + ')';
     const info = el('div', 'chat-widget__header-info');
     info.appendChild(el('div', 'chat-widget__name', CONFIG.botName));
-    info.appendChild(el('div', 'chat-widget__status', 'en línea'));
+    info.appendChild(el('div', 'chat-widget__status', window.CHAT_WIDGET_STATUS || 'Tu asistente virtual'));
     const closeBtn = el('button', 'chat-widget__close', '×');
     closeBtn.setAttribute('aria-label', 'Cerrar chat');
     header.appendChild(avatar);
