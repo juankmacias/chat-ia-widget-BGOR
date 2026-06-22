@@ -1,9 +1,15 @@
 const { Pool } = require('pg');
 const { MAX_USER_MESSAGES } = require('./config');
 
+// Por defecto validamos el certificado TLS del servidor (Neon usa certificados
+// públicamente confiables, así que esto funciona sin configuración extra y evita
+// exponerse a un man-in-the-middle). Si tu proveedor usa un certificado que Node
+// no puede validar, pon DATABASE_SSL_NO_VERIFY=true como escape de emergencia.
+const rejectUnauthorized = process.env.DATABASE_SSL_NO_VERIFY !== 'true';
+
 const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
-  ssl: { rejectUnauthorized: false },
+  ssl: { rejectUnauthorized },
   max: 10,
   idleTimeoutMillis: 30000,
 });

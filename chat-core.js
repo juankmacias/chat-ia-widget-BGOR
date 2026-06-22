@@ -10,7 +10,7 @@ const {
   countUserMessagesForIp,
 } = require('./db');
 const { SYSTEM_PROMPT } = require('./system-prompt');
-const { MAX_USER_MESSAGES } = require('./config');
+const { MAX_USER_MESSAGES, MAX_USER_MESSAGES_PER_IP } = require('./config');
 const { buildContext } = require('./knowledge');
 
 const WHATSAPP = '573209216434';
@@ -40,7 +40,7 @@ async function handleChat({ sessionId, message, userAgent, ip }) {
       countUserMessagesForSession(sessionId),
       countUserMessagesForIp(ip),
     ]);
-    if (countBySession >= MAX_USER_MESSAGES || countByIp >= MAX_USER_MESSAGES) {
+    if (countBySession >= MAX_USER_MESSAGES || countByIp >= MAX_USER_MESSAGES_PER_IP) {
       await saveMessage(conversationId, 'user', message);
       await saveMessage(conversationId, 'assistant', LIMIT_REPLY);
       return { status: 200, body: { reply: LIMIT_REPLY, limit_reached: true } };
@@ -64,7 +64,7 @@ async function handleChat({ sessionId, message, userAgent, ip }) {
     if (knowledgeContext) system.push({ type: 'text', text: knowledgeContext });
 
     const response = await anthropic.messages.create({
-      model: 'claude-sonnet-4-20250514',
+      model: 'claude-sonnet-4-6',
       max_tokens: 1024,
       system,
       messages: apiMessages,

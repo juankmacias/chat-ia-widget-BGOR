@@ -37,6 +37,50 @@ function tokenize(text) {
     .filter((t) => t.length >= 3 && !STOPWORDS.has(t));
 }
 
+// Sinónimos del dominio ganadero: BM25 es puramente léxico, así que si el
+// cliente escribe "vaca" y la ficha técnica dice "bovino/rumiante" no habría
+// coincidencia. Sólo expandimos la CONSULTA (no los documentos) para mejorar el
+// recall sin inflar el índice. Las claves se comparan ya tokenizadas (sin tilde,
+// minúscula). Mantener cada lista en términos que realmente aparecen en la
+// biblioteca técnica.
+const SYNONYMS = {
+  vaca: ['bovino', 'rumiante', 'ganado', 'res'],
+  vacas: ['bovino', 'rumiante', 'ganado'],
+  res: ['bovino', 'rumiante', 'ganado'],
+  toro: ['bovino', 'rumiante'],
+  ternero: ['becerro', 'bovino', 'rumiante'],
+  becerro: ['ternero', 'bovino', 'rumiante'],
+  bovino: ['rumiante', 'ganado'],
+  cerdo: ['porcino', 'monogastrico', 'cochino', 'marrano'],
+  cerdos: ['porcino', 'monogastrico', 'cochino'],
+  cochino: ['porcino', 'monogastrico', 'cerdo'],
+  marrano: ['porcino', 'monogastrico', 'cerdo'],
+  caballo: ['equino', 'yegua'],
+  yegua: ['equino', 'caballo'],
+  potro: ['equino', 'potranca'],
+  pollo: ['ave', 'avicola', 'gallina', 'monogastrico'],
+  gallina: ['ave', 'avicola', 'ponedora', 'monogastrico'],
+  ave: ['avicola', 'pollo', 'gallina'],
+  cabra: ['caprino', 'rumiante'],
+  oveja: ['ovino', 'rumiante'],
+  engorde: ['ceba', 'engorda', 'crecimiento'],
+  ceba: ['engorde', 'engorda'],
+  dosis: ['dosificacion', 'dosificar'],
+  dosificacion: ['dosis'],
+  precio: ['valor', 'costo'],
+  leche: ['lechera', 'lactancia', 'produccion'],
+};
+
+// Devuelve los términos de la consulta más sus sinónimos (sin duplicados).
+function expandQueryTerms(terms) {
+  const out = new Set(terms);
+  for (const t of terms) {
+    const syn = SYNONYMS[t];
+    if (syn) for (const s of syn) out.add(s);
+  }
+  return [...out];
+}
+
 let CHUNKS = [];
 let TF = []; // term-frequency por chunk
 let DF = new Map(); // document frequency por término
@@ -71,7 +115,7 @@ const B = 0.75;
 function retrieve(query, k = 6) {
   load();
   if (!CHUNKS.length) return [];
-  const qTerms = [...new Set(tokenize(query))];
+  const qTerms = expandQueryTerms([...new Set(tokenize(query))]);
   if (!qTerms.length) return [];
   const N = CHUNKS.length;
   const scores = new Array(N).fill(0);
@@ -119,4 +163,4 @@ function buildContext(query, { k = 6, maxChars = 9000 } = {}) {
   );
 }
 
-module.exports = { retrieve, buildContext, load };
+module.exports = { retrieve, buildContext, load, expandQueryTerms };
